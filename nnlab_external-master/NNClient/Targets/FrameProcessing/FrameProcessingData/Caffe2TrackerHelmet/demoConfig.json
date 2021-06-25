@@ -1,0 +1,13 @@
+{
+    "videoPath": "//fs/nnlab/nm_resource/Videos/Helmet/helmet_test.avi",
+    "connectStandardStreams": true,
+    "displayProcessTime": true,
+    "metadataPath": "//fs/nnlab/nm_resource/Videos/Helmet/helmet_test.meta",
+    "onFrameCommandOutputType": "tracks_with_alarms_and_helmet_boxes",
+    "zone": {
+        "x": 0,
+        "y": 100,
+        "w": 1280,
+        "h": 620
+    }
+}

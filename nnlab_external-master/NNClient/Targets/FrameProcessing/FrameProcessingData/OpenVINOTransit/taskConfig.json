@@ -1,0 +1,9 @@
+{
+    "module": "Transit",
+    "task": "CouplerDet",
+    "deviceVendor": "Intel",
+    "input_image_width": 300,
+    "input_image_height": 300,
+    "threshold": 0.15,
+    "device": "CPU"
+}

@@ -1,0 +1,7 @@
+{
+    "module": "Auto",
+    "task": "UVSSSegmentation",
+    "deviceVendor": "INTEL",
+    "min_size": 384,
+    "device": "CPU"
+}

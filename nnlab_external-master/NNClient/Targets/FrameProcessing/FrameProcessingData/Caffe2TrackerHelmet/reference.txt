@@ -1,0 +1,9792 @@
+Frame: 0
+Alarm:
+Frame: 1
+Alarm:
+Frame: 2
+Alarm:
+Frame: 3
+Alarm:
+Frame: 4
+Alarm:
+Frame: 5
+Alarm:
+Frame: 6
+Alarm:
+Frame: 7
+Alarm:
+Frame: 8
+Alarm:
+Frame: 9
+Alarm:
+Frame: 10
+Alarm:
+Frame: 11
+Alarm:
+Frame: 12
+Alarm:
+Frame: 13
+Alarm:
+Frame: 14
+Alarm:
+Frame: 15
+Alarm:
+Frame: 16
+Alarm:
+Frame: 17
+Alarm:
+Frame: 18
+Alarm:
+Frame: 19
+Alarm:
+Frame: 20
+Alarm:
+Frame: 21
+Alarm:
+Frame: 22
+Alarm:
+Frame: 23
+Alarm:
+Frame: 24
+Alarm:
+Frame: 25
+Alarm:
+Frame: 26
+Alarm:
+Frame: 27
+Alarm:
+Frame: 28
+Alarm:
+Frame: 29
+Alarm:
+Frame: 30
+Alarm:
+Frame: 31
+Alarm:
+Frame: 32
+Alarm:
+Frame: 33
+Alarm:
+Frame: 34
+Alarm:
+Frame: 35
+Alarm:
+Frame: 36
+Alarm:
+Frame: 37
+Alarm:
+Frame: 38
+Alarm:
+Frame: 39
+Alarm:
+Frame: 40
+Alarm:
+Frame: 41
+Alarm:
+Frame: 42
+Alarm:
+Frame: 43
+Alarm:
+Frame: 44
+Alarm:
+Frame: 45
+Alarm:
+Frame: 46
+Alarm:
+Frame: 47
+Alarm:
+Frame: 48
+Alarm:
+Frame: 49
+Alarm:
+Frame: 50
+Alarm:
+Frame: 51
+Alarm:
+Frame: 52
+Alarm:
+Frame: 53
+Alarm:
+Frame: 54
+Alarm:
+Frame: 55
+Alarm:
+Frame: 56
+Alarm:
+Frame: 57
+Alarm:
+Frame: 58
+Alarm:
+Frame: 59
+Alarm:
+Frame: 60
+Alarm:
+Frame: 61
+Alarm:
+Frame: 62
+Alarm:
+Frame: 63
+Alarm:
+Frame: 64
+Alarm:
+Frame: 65
+Alarm:
+Frame: 66
+Alarm:
+Frame: 67
+Alarm:
+Frame: 68
+Alarm:
+Frame: 69
+Alarm:
+Frame: 70
+Alarm:
+Frame: 71
+Alarm:
+Frame: 72
+Alarm:
+Frame: 73
+Alarm:
+Frame: 74
+Alarm:
+Frame: 75
+Alarm:
+Frame: 76
+Alarm:
+Frame: 77
+2 561 297 308 418
+Alarm:
+Frame: 78
+2 568 285 303 430
+Alarm:
+Frame: 79
+2 580 274 288 443
+Alarm:
+Frame: 80
+2 588 264 280 453
+Alarm:
+Frame: 81
+2 596 254 274 463
+3 12 400 316 317
+Alarm:
+Frame: 82
+2 601 247 270 469
+3 21 386 330 326
+Alarm:
+Frame: 83
+2 605 236 265 481
+3 37 377 346 338
+Alarm:
+Frame: 84
+2 606 234 263 483
+3 55 364 352 348
+Alarm:
+Frame: 85
+2 612 238 260 479
+3 72 348 354 360
+Alarm:
+Frame: 86
+2 618 234 253 483
+3 86 334 364 375
+Alarm:
+Frame: 87
+2 627 234 245 483
+3 115 310 367 399
+Alarm:
+Frame: 88
+2 633 235 237 482
+3 132 304 370 404
+Alarm:
+Frame: 89
+2 641 235 224 482
+3 141 296 374 411
+Alarm:
+Frame: 90
+2 645 228 217 489
+3 151 289 370 423
+Alarm:
+Frame: 91
+2 648 215 216 502
+3 170 276 358 438
+Alarm:
+Frame: 92
+2 649 205 215 512
+3 189 263 349 445
+Alarm:
+Frame: 93
+2 648 198 216 519
+3 205 258 336 448
+Alarm:
+Frame: 94
+2 648 196 216 521
+3 219 251 329 455
+Alarm:
+Frame: 95
+2 653 196 209 521
+3 237 234 315 473
+Alarm:
+Frame: 96
+2 654 196 202 521
+3 251 227 307 474
+Alarm:
+Frame: 97
+2 654 197 200 519
+3 261 226 304 475
+Alarm:
+Frame: 98
+2 655 197 196 518
+3 269 238 292 473
+4 4 439 262 274
+Alarm:
+Frame: 99
+2 655 195 195 514
+3 290 229 278 485
+4 4 427 283 289
+Alarm:
+Frame: 100
+2 655 195 193 509
+3 304 225 269 488
+4 7 409 297 308
+Alarm:
+Frame: 101
+2 656 187 191 517
+3 314 232 264 483
+4 13 387 312 330
+Alarm:
+Frame: 102
+2 658 179 189 525
+3 330 231 253 486
+4 19 378 311 339
+Alarm:
+Frame: 103
+2 659 171 188 521
+3 344 216 250 501
+4 38 361 310 356
+Alarm:
+Frame: 104
+2 660 168 187 519
+3 353 208 248 509
+4 54 348 309 369
+Alarm:
+Frame: 105
+2 662 167 183 513
+3 357 199 250 517
+4 76 342 309 375
+Alarm:
+Frame: 106
+2 666 168 179 514
+3 360 194 251 523
+4 92 337 313 380
+Alarm:
+Frame: 107
+2 673 168 171 498
+3 364 182 263 535
+4 117 334 316 383
+Alarm:
+Frame: 108
+2 678 170 166 491
+3 375 175 262 541
+4 145 330 315 387
+Alarm:
+Frame: 109
+2 679 168 165 493
+3 379 169 261 548
+4 157 325 317 391
+Alarm:
+Frame: 110
+2 683 163 164 497
+3 390 172 248 545
+4 174 326 324 391
+Alarm:
+Frame: 111
+2 684 154 163 500
+3 390 173 252 544
+4 193 299 337 416
+Alarm:
+Frame: 112
+2 692 149 156 489
+3 388 171 257 546
+4 209 286 324 430
+Alarm:
+Frame: 113
+2 693 141 157 483
+3 401 173 247 544
+4 225 277 316 435
+Alarm:
+Frame: 114
+2 695 134 157 479
+3 410 166 240 551
+4 240 273 312 435
+Alarm:
+Frame: 115
+2 701 127 150 468
+3 427 164 225 552
+4 258 261 309 453
+Alarm:
+Frame: 116
+2 705 125 147 464
+3 438 154 220 555
+4 282 245 306 471
+Alarm:
+Frame: 117
+2 708 122 147 464
+3 433 143 228 566
+4 300 243 299 474
+Alarm:
+Frame: 118
+2 711 122 144 462
+3 435 140 229 564
+4 308 254 300 463
+Alarm:
+Frame: 119
+2 713 124 143 458
+3 450 148 218 535
+4 324 227 306 490
+Alarm:
+Frame: 120
+2 714 125 139 455
+3 469 154 206 502
+4 339 241 297 462
+Alarm:
+Frame: 121
+2 716 127 137 455
+3 479 148 203 482
+4 348 255 263 454
+Alarm:
+Frame: 122
+2 718 128 137 454
+3 497 150 192 466
+4 356 259 246 454
+Alarm:
+Frame: 123
+2 720 123 135 441
+3 512 142 183 486
+4 366 239 239 476
+Alarm:
+Frame: 124
+2 722 115 131 426
+3 512 140 183 482
+4 376 236 234 479
+Alarm:
+Frame: 125
+2 721 106 131 422
+3 524 131 179 485
+4 387 237 225 478
+Alarm:
+Frame: 126
+2 720 100 130 418
+3 530 130 177 491
+4 395 245 227 472
+Alarm:
+Frame: 127
+2 721 97 127 415
+3 540 126 172 500
+4 407 235 236 482
+Alarm:
+Frame: 128
+2 720 96 127 417
+3 549 121 170 505
+4 419 233 237 481
+Alarm:
+Frame: 129
+2 721 98 124 416
+3 556 114 169 509
+4 430 244 232 467
+Alarm:
+Frame: 130
+2 722 105 126 398
+3 566 113 163 502
+4 437 235 229 473
+Alarm:
+Frame: 131
+2 726 109 121 387
+3 575 119 160 480
+4 444 214 230 499
+Alarm:
+Frame: 132
+2 729 108 118 385
+3 579 120 158 479
+4 453 202 229 510
+Alarm:
+Frame: 133
+2 732 108 115 386
+3 585 121 156 477
+4 463 198 224 511
+Alarm:
+Frame: 134
+2 731 110 119 384
+3 592 128 150 475
+4 470 181 224 526
+Alarm:
+Frame: 135
+2 736 103 112 373
+3 610 132 128 412
+4 476 163 228 538
+Alarm:
+Frame: 136
+2 738 98 111 363
+3 617 133 119 367
+4 484 157 228 537
+Alarm:
+Frame: 137
+2 739 95 112 357
+3 618 128 117 357
+4 487 155 225 537
+Alarm:
+Frame: 138
+2 739 92 113 353
+3 614 114 125 287
+4 493 156 228 522
+Alarm:
+Frame: 139
+2 742 90 110 354
+3 610 99 136 387
+4 500 149 226 543
+Alarm:
+Frame: 140
+2 746 91 108 348
+4 500 151 232 533
+Alarm:
+Frame: 141
+2 748 91 105 347
+4 511 150 223 526
+Alarm:
+Frame: 142
+2 748 90 103 348
+4 517 148 218 533
+Alarm:
+Frame: 143
+2 750 90 99 341
+4 524 155 210 504
+Alarm:
+Frame: 144
+2 751 91 98 334
+4 533 148 208 495
+Alarm:
+Frame: 145
+2 749 90 99 331
+4 540 139 204 489
+5 636 111 109 268
+Alarm:
+Frame: 146
+2 749 91 98 317
+4 545 136 199 483
+5 638 107 111 265
+Alarm:
+Frame: 147
+2 747 87 97 310
+4 550 131 197 480
+Alarm:
+Frame: 148
+2 750 83 94 309
+4 554 130 195 485
+Alarm:
+Frame: 149
+2 748 74 94 320
+4 560 130 191 485
+Alarm:
+Frame: 150
+2 748 73 95 319
+4 567 130 183 481
+Alarm:
+Frame: 151
+2 747 73 96 319
+4 576 134 176 467
+Alarm:
+Frame: 152
+2 746 73 94 315
+4 583 133 169 461
+Alarm:
+Frame: 153
+2 747 73 92 316
+4 590 128 166 457
+Alarm:
+Frame: 154
+2 748 70 91 320
+4 598 131 159 435
+Alarm:
+Frame: 155
+2 748 71 91 319
+4 604 121 159 434
+Alarm:
+Frame: 156
+2 747 69 94 323
+4 608 111 157 432
+Alarm:
+Frame: 157
+2 742 69 99 320
+4 615 115 154 421
+Alarm:
+Frame: 158
+2 750 71 90 306
+4 617 111 155 419
+Alarm:
+Frame: 159
+2 751 68 90 293
+4 613 108 162 427
+Alarm:
+Frame: 160
+2 755 65 87 291
+4 622 121 152 407
+Alarm:
+Frame: 161
+2 758 62 86 293
+4 630 127 143 396
+Alarm:
+Frame: 162
+2 761 59 83 298
+4 630 130 147 392
+Alarm:
+Frame: 163
+4 628 122 157 399
+5 600 74 101 335
+Alarm:
+Frame: 164
+4 637 126 144 378
+Alarm:
+Frame: 165
+4 634 117 146 373
+Alarm:
+Frame: 166
+4 633 111 149 374
+Alarm:
+Frame: 167
+4 631 106 155 370
+Alarm:
+Frame: 168
+4 632 103 157 372
+Alarm:
+Frame: 169
+4 641 107 146 356
+Alarm:
+Frame: 170
+4 652 111 136 346
+Alarm:
+Frame: 171
+4 651 110 136 341
+Alarm:
+Frame: 172
+4 655 112 133 337
+Alarm:
+Frame: 173
+4 659 107 126 339
+Alarm:
+Frame: 174
+4 666 111 124 331
+Alarm:
+Frame: 175
+4 674 109 117 317
+7 620 75 97 288
+Alarm:
+Frame: 176
+4 677 104 112 313
+7 622 78 92 283
+Alarm:
+Frame: 177
+4 677 101 114 312
+7 624 79 91 279
+Alarm:
+Frame: 178
+4 679 102 112 311
+7 624 76 96 283
+Alarm:
+Frame: 179
+4 680 100 115 310
+7 625 73 92 278
+Alarm:
+Frame: 180
+4 684 103 112 307
+7 627 73 92 271
+Alarm:
+Frame: 181
+4 687 104 109 304
+7 628 70 93 272
+Alarm:
+Frame: 182
+4 689 105 108 303
+7 626 69 96 272
+Alarm:
+Frame: 183
+4 690 105 108 301
+7 626 61 99 280
+Alarm:
+Frame: 184
+4 690 105 107 299
+7 627 57 100 281
+Alarm:
+Frame: 185
+4 692 107 105 296
+7 628 55 101 279
+Alarm:
+Frame: 186
+4 691 106 107 292
+7 628 55 100 275
+Alarm:
+Frame: 187
+4 696 104 103 279
+7 630 57 96 277
+Alarm:
+Frame: 188
+4 694 101 107 277
+Alarm:
+Frame: 189
+4 693 93 109 281
+Alarm:
+Frame: 190
+4 695 91 107 281
+Alarm:
+Frame: 191
+4 697 90 105 279
+Alarm:
+Frame: 192
+4 697 91 103 276
+Alarm:
+Frame: 193
+4 697 93 102 281
+8 641 45 94 270
+Alarm:
+Frame: 194
+4 703 92 99 282
+8 643 48 100 277
+Alarm:
+Frame: 195
+4 705 88 99 280
+8 644 47 99 276
+Alarm:
+Frame: 196
+4 704 81 99 282
+8 644 48 102 282
+Alarm:
+Frame: 197
+8 644 52 98 274
+Alarm:
+Frame: 198
+8 642 48 101 281
+Alarm:
+Frame: 199
+8 644 52 97 268
+Alarm:
+Frame: 200
+Alarm:
+Frame: 201
+Alarm:
+Frame: 202
+Alarm:
+Frame: 203
+9 647 53 94 263
+Alarm:
+Frame: 204
+9 647 45 93 268
+Alarm:
+Frame: 205
+9 645 38 100 276
+Alarm:
+Frame: 206
+9 647 36 100 276
+Alarm:
+Frame: 207
+9 650 35 90 271
+Alarm:
+Frame: 208
+9 649 37 87 263
+Alarm:
+Frame: 209
+9 692 53 89 260
+Alarm:
+Frame: 210
+9 709 58 86 258
+Alarm:
+Frame: 211
+9 714 54 85 262
+Alarm:
+Frame: 212
+9 716 56 84 259
+13 655 46 76 243
+Alarm:
+Frame: 213
+9 716 56 82 256
+13 659 46 73 242
+Alarm:
+Frame: 214
+9 715 57 82 257
+13 662 46 72 242
+Alarm:
+Frame: 215
+9 715 60 79 252
+13 663 46 72 240
+Alarm:
+Frame: 216
+9 713 63 79 248
+13 664 44 75 245
+Alarm:
+Frame: 217
+9 712 64 82 247
+13 664 43 76 245
+Alarm:
+Frame: 218
+9 715 62 81 247
+13 665 43 72 243
+Alarm:
+Frame: 219
+9 711 62 87 239
+Alarm:
+Frame: 220
+Alarm:
+Frame: 221
+Alarm:
+Frame: 222
+Alarm:
+Frame: 223
+14 718 52 84 236
+Alarm:
+Frame: 224
+14 715 54 85 234
+Alarm:
+Frame: 225
+14 718 56 82 236
+Alarm:
+Frame: 226
+14 718 56 79 237
+Alarm:
+Frame: 227
+14 715 55 80 235
+Alarm:
+Frame: 228
+14 714 61 81 224
+Alarm:
+Frame: 229
+14 713 62 81 221
+Alarm:
+Frame: 230
+14 712 61 83 219
+Alarm:
+Frame: 231
+14 709 54 86 222
+Alarm:
+Frame: 232
+14 710 52 84 223
+Alarm:
+Frame: 233
+14 711 51 84 223
+Alarm:
+Frame: 234
+14 711 51 83 218
+Alarm:
+Frame: 235
+14 714 51 80 216
+Alarm:
+Frame: 236
+14 714 53 81 215
+Alarm:
+Frame: 237
+14 710 55 85 212
+Alarm:
+Frame: 238
+14 709 56 88 209
+Alarm:
+Frame: 239
+14 712 55 83 200
+Alarm:
+Frame: 240
+14 709 54 81 194
+Alarm:
+Frame: 241
+14 710 56 78 190
+Alarm:
+Frame: 242
+14 711 52 79 192
+Alarm:
+Frame: 243
+Alarm:
+Frame: 244
+Alarm:
+Frame: 245
+Alarm:
+Frame: 246
+Alarm:
+Frame: 247
+Alarm:
+Frame: 248
+Alarm:
+Frame: 249
+Alarm:
+Frame: 250
+Alarm:
+Frame: 251
+Alarm:
+Frame: 252
+Alarm:
+Frame: 253
+Alarm:
+Frame: 254
+Alarm:
+Frame: 255
+Alarm:
+Frame: 256
+Alarm:
+Frame: 257
+Alarm:
+Frame: 258
+Alarm:
+Frame: 259
+Alarm:
+Frame: 260
+Alarm:
+Frame: 261
+Alarm:
+Frame: 262
+16 719 38 79 182
+Alarm:
+Frame: 263
+Alarm:
+Frame: 264
+Alarm:
+Frame: 265
+Alarm:
+Frame: 266
+Alarm:
+Frame: 267
+Alarm:
+Frame: 268
+Alarm:
+Frame: 269
+Alarm:
+Frame: 270
+18 712 34 80 174
+Alarm:
+Frame: 271
+Alarm:
+Frame: 272
+Alarm:
+Frame: 273
+Alarm:
+Frame: 274
+Alarm:
+Frame: 275
+Alarm:
+Frame: 276
+Alarm:
+Frame: 277
+Alarm:
+Frame: 278
+Alarm:
+Frame: 279
+Alarm:
+Frame: 280
+Alarm:
+Frame: 281
+Alarm:
+Frame: 282
+19 745 42 57 156
+Alarm:
+Frame: 283
+19 747 43 55 157
+20 688 37 52 150
+Alarm:
+Frame: 284
+19 747 43 56 156
+20 692 34 47 158
+Alarm:
+Frame: 285
+19 748 43 56 155
+20 687 39 47 149
+Alarm:
+Frame: 286
+19 747 42 57 152
+Alarm:
+Frame: 287
+19 744 39 59 154
+Alarm:
+Frame: 288
+19 743 40 59 151
+Alarm:
+Frame: 289
+19 743 39 57 151
+Alarm:
+Frame: 290
+19 743 40 56 150
+Alarm:
+Frame: 291
+19 739 39 60 148
+Alarm:
+Frame: 292
+19 738 38 60 147
+Alarm:
+Frame: 293
+19 736 40 60 145
+Alarm:
+Frame: 294
+19 735 41 59 144
+Alarm:
+Frame: 295
+19 729 41 57 140
+Alarm:
+Frame: 296
+19 725 41 61 139
+Alarm:
+Frame: 297
+19 724 39 63 138
+Alarm:
+Frame: 298
+19 720 38 65 141
+Alarm:
+Frame: 299
+19 715 38 66 138
+Alarm:
+Frame: 300
+19 712 36 62 134
+Alarm:
+Frame: 301
+19 711 37 59 132
+Alarm:
+Frame: 302
+Alarm:
+Frame: 303
+Alarm:
+Frame: 304
+Alarm:
+Frame: 305
+21 701 37 56 135
+Alarm:
+Frame: 306
+21 698 36 57 138
+Alarm:
+Frame: 307
+21 696 37 53 138
+Alarm:
+Frame: 308
+Alarm:
+Frame: 309
+Alarm:
+Frame: 310
+Alarm:
+Frame: 311
+Alarm:
+Frame: 312
+Alarm:
+Frame: 313
+Alarm:
+Frame: 314
+Alarm:
+Frame: 315
+Alarm:
+Frame: 316
+Alarm:
+Frame: 317
+Alarm:
+Frame: 318
+Alarm:
+Frame: 319
+Alarm:
+Frame: 320
+Alarm:
+Frame: 321
+Alarm:
+Frame: 322
+Alarm:
+Frame: 323
+Alarm:
+Frame: 324
+Alarm:
+Frame: 325
+Alarm:
+Frame: 326
+Alarm:
+Frame: 327
+Alarm:
+Frame: 328
+Alarm:
+Frame: 329
+Alarm:
+Frame: 330
+Alarm:
+Frame: 331
+Alarm:
+Frame: 332
+Alarm:
+Frame: 333
+Alarm:
+Frame: 334
+Alarm:
+Frame: 335
+Alarm:
+Frame: 336
+Alarm:
+Frame: 337
+Alarm:
+Frame: 338
+Alarm:
+Frame: 339
+Alarm:
+Frame: 340
+Alarm:
+Frame: 341
+Alarm:
+Frame: 342
+Alarm:
+Frame: 343
+Alarm:
+Frame: 344
+Alarm:
+Frame: 345
+Alarm:
+Frame: 346
+Alarm:
+Frame: 347
+Alarm:
+Frame: 348
+Alarm:
+Frame: 349
+Alarm:
+Frame: 350
+Alarm:
+Frame: 351
+Alarm:
+Frame: 352
+Alarm:
+Frame: 353
+Alarm:
+Frame: 354
+Alarm:
+Frame: 355
+Alarm:
+Frame: 356
+Alarm:
+Frame: 357
+Alarm:
+Frame: 358
+Alarm:
+Frame: 359
+Alarm:
+Frame: 360
+Alarm:
+Frame: 361
+Alarm:
+Frame: 362
+Alarm:
+Frame: 363
+Alarm:
+Frame: 364
+Alarm:
+Frame: 365
+Alarm:
+Frame: 366
+Alarm:
+Frame: 367
+Alarm:
+Frame: 368
+Alarm:
+Frame: 369
+Alarm:
+Frame: 370
+Alarm:
+Frame: 371
+Alarm:
+Frame: 372
+Alarm:
+Frame: 373
+Alarm:
+Frame: 374
+Alarm:
+Frame: 375
+Alarm:
+Frame: 376
+Alarm:
+Frame: 377
+Alarm:
+Frame: 378
+Alarm:
+Frame: 379
+Alarm:
+Frame: 380
+Alarm:
+Frame: 381
+Alarm:
+Frame: 382
+Alarm:
+Frame: 383
+Alarm:
+Frame: 384
+Alarm:
+Frame: 385
+Alarm:
+Frame: 386
+Alarm:
+Frame: 387
+Alarm:
+Frame: 388
+Alarm:
+Frame: 389
+Alarm:
+Frame: 390
+Alarm:
+Frame: 391
+Alarm:
+Frame: 392
+Alarm:
+Frame: 393
+Alarm:
+Frame: 394
+Alarm:
+Frame: 395
+Alarm:
+Frame: 396
+Alarm:
+Frame: 397
+Alarm:
+Frame: 398
+Alarm:
+Frame: 399
+Alarm:
+Frame: 400
+Alarm:
+Frame: 401
+Alarm:
+Frame: 402
+Alarm:
+Frame: 403
+Alarm:
+Frame: 404
+Alarm:
+Frame: 405
+Alarm:
+Frame: 406
+Alarm:
+Frame: 407
+Alarm:
+Frame: 408
+Alarm:
+Frame: 409
+Alarm:
+Frame: 410
+Alarm:
+Frame: 411
+Alarm:
+Frame: 412
+Alarm:
+Frame: 413
+Alarm:
+Frame: 414
+Alarm:
+Frame: 415
+Alarm:
+Frame: 416
+Alarm:
+Frame: 417
+Alarm:
+Frame: 418
+Alarm:
+Frame: 419
+Alarm:
+Frame: 420
+Alarm:
+Frame: 421
+Alarm:
+Frame: 422
+Alarm:
+Frame: 423
+Alarm:
+Frame: 424
+Alarm:
+Frame: 425
+Alarm:
+Frame: 426
+Alarm:
+Frame: 427
+Alarm:
+Frame: 428
+Alarm:
+Frame: 429
+Alarm:
+Frame: 430
+Alarm:
+Frame: 431
+Alarm:
+Frame: 432
+Alarm:
+Frame: 433
+Alarm:
+Frame: 434
+Alarm:
+Frame: 435
+Alarm:
+Frame: 436
+Alarm:
+Frame: 437
+Alarm:
+Frame: 438
+Alarm:
+Frame: 439
+Alarm:
+Frame: 440
+Alarm:
+Frame: 441
+Alarm:
+Frame: 442
+Alarm:
+Frame: 443
+Alarm:
+Frame: 444
+Alarm:
+Frame: 445
+Alarm:
+Frame: 446
+Alarm:
+Frame: 447
+Alarm:
+Frame: 448
+Alarm:
+Frame: 449
+Alarm:
+Frame: 450
+Alarm:
+Frame: 451
+Alarm:
+Frame: 452
+Alarm:
+Frame: 453
+Alarm:
+Frame: 454
+Alarm:
+Frame: 455
+Alarm:
+Frame: 456
+Alarm:
+Frame: 457
+Alarm:
+Frame: 458
+Alarm:
+Frame: 459
+Alarm:
+Frame: 460
+Alarm:
+Frame: 461
+Alarm:
+Frame: 462
+Alarm:
+Frame: 463
+Alarm:
+Frame: 464
+Alarm:
+Frame: 465
+Alarm:
+Frame: 466
+Alarm:
+Frame: 467
+Alarm:
+Frame: 468
+Alarm:
+Frame: 469
+Alarm:
+Frame: 470
+Alarm:
+Frame: 471
+Alarm:
+Frame: 472
+Alarm:
+Frame: 473
+Alarm:
+Frame: 474
+Alarm:
+Frame: 475
+Alarm:
+Frame: 476
+Alarm:
+Frame: 477
+Alarm:
+Frame: 478
+Alarm:
+Frame: 479
+Alarm:
+Frame: 480
+Alarm:
+Frame: 481
+Alarm:
+Frame: 482
+Alarm:
+Frame: 483
+Alarm:
+Frame: 484
+Alarm:
+Frame: 485
+Alarm:
+Frame: 486
+Alarm:
+Frame: 487
+Alarm:
+Frame: 488
+Alarm:
+Frame: 489
+Alarm:
+Frame: 490
+Alarm:
+Frame: 491
+Alarm:
+Frame: 492
+Alarm:
+Frame: 493
+Alarm:
+Frame: 494
+Alarm:
+Frame: 495
+Alarm:
+Frame: 496
+Alarm:
+Frame: 497
+Alarm:
+Frame: 498
+Alarm:
+Frame: 499
+Alarm:
+Frame: 500
+Alarm:
+Frame: 501
+Alarm:
+Frame: 502
+Alarm:
+Frame: 503
+Alarm:
+Frame: 504
+Alarm:
+Frame: 505
+Alarm:
+Frame: 506
+Alarm:
+Frame: 507
+Alarm:
+Frame: 508
+Alarm:
+Frame: 509
+Alarm:
+Frame: 510
+Alarm:
+Frame: 511
+Alarm:
+Frame: 512
+Alarm:
+Frame: 513
+Alarm:
+Frame: 514
+Alarm:
+Frame: 515
+Alarm:
+Frame: 516
+Alarm:
+Frame: 517
+Alarm:
+Frame: 518
+Alarm:
+Frame: 519
+Alarm:
+Frame: 520
+Alarm:
+Frame: 521
+Alarm:
+Frame: 522
+Alarm:
+Frame: 523
+Alarm:
+Frame: 524
+Alarm:
+Frame: 525
+Alarm:
+Frame: 526
+Alarm:
+Frame: 527
+Alarm:
+Frame: 528
+Alarm:
+Frame: 529
+Alarm:
+Frame: 530
+Alarm:
+Frame: 531
+Alarm:
+Frame: 532
+Alarm:
+Frame: 533
+Alarm:
+Frame: 534
+Alarm:
+Frame: 535
+Alarm:
+Frame: 536
+Alarm:
+Frame: 537
+Alarm:
+Frame: 538
+Alarm:
+Frame: 539
+Alarm:
+Frame: 540
+Alarm:
+Frame: 541
+Alarm:
+Frame: 542
+Alarm:
+Frame: 543
+Alarm:
+Frame: 544
+Alarm:
+Frame: 545
+Alarm:
+Frame: 546
+Alarm:
+Frame: 547
+Alarm:
+Frame: 548
+Alarm:
+Frame: 549
+Alarm:
+Frame: 550
+Alarm:
+Frame: 551
+Alarm:
+Frame: 552
+Alarm:
+Frame: 553
+Alarm:
+Frame: 554
+Alarm:
+Frame: 555
+Alarm:
+Frame: 556
+Alarm:
+Frame: 557
+Alarm:
+Frame: 558
+Alarm:
+Frame: 559
+Alarm:
+Frame: 560
+Alarm:
+Frame: 561
+22 152 358 370 354
+Alarm:
+Frame: 562
+22 175 341 377 371
+Alarm:
+Frame: 563
+22 214 333 384 381
+Alarm:
+Frame: 564
+22 243 334 384 382
+Alarm:
+Frame: 565
+22 269 329 398 388
+Alarm:
+Frame: 566
+22 286 324 403 390
+Alarm:
+Frame: 567
+22 318 308 387 401
+Alarm:
+Frame: 568
+22 341 295 372 411
+Alarm:
+Frame: 569
+22 347 278 369 434
+Alarm:
+Frame: 570
+22 360 260 361 454
+Alarm:
+Frame: 571
+22 382 249 347 466
+Alarm:
+Frame: 572
+22 394 235 349 477
+Alarm:
+Frame: 573
+22 410 230 342 484
+Alarm:
+Frame: 574
+22 423 231 334 477
+Alarm:
+Frame: 575
+22 448 238 324 472
+Alarm:
+Frame: 576
+22 466 243 313 465
+Alarm:
+Frame: 577
+22 484 232 300 477
+Alarm:
+Frame: 578
+22 501 227 290 486
+Alarm:
+Frame: 579
+22 506 228 305 483
+Alarm:
+Frame: 580
+22 522 212 296 503
+Alarm:
+Frame: 581
+22 533 200 288 517
+Alarm:
+Frame: 582
+22 534 194 287 523
+Alarm:
+Frame: 583
+22 547 193 283 524
+Alarm:
+Frame: 584
+22 556 195 283 519
+Alarm:
+Frame: 585
+22 564 196 281 515
+Alarm:
+Frame: 586
+22 570 200 281 511
+Alarm:
+Frame: 587
+22 580 187 274 527
+Alarm:
+Frame: 588
+22 590 177 266 539
+Alarm:
+Frame: 589
+22 597 170 258 547
+Alarm:
+Frame: 590
+22 603 166 249 551
+Alarm:
+Frame: 591
+22 610 159 252 558
+Alarm:
+Frame: 592
+22 616 154 251 563
+Alarm:
+Frame: 593
+22 620 150 244 562
+Alarm:
+Frame: 594
+22 624 151 241 564
+Alarm:
+Frame: 595
+22 636 150 225 567
+Alarm:
+Frame: 596
+22 646 152 216 564
+Alarm:
+Frame: 597
+22 649 153 213 562
+Alarm:
+Frame: 598
+22 652 148 212 563
+Alarm:
+Frame: 599
+22 657 139 207 555
+Alarm:
+Frame: 600
+22 662 136 198 525
+Alarm:
+Frame: 601
+22 666 133 194 510
+Alarm:
+Frame: 602
+22 667 121 206 526
+Alarm:
+Frame: 603
+22 669 115 207 532
+Alarm:
+Frame: 604
+22 670 116 211 528
+Alarm:
+Frame: 605
+22 673 118 208 533
+Alarm:
+Frame: 606
+22 679 123 198 527
+Alarm:
+Frame: 607
+22 677 126 189 515
+Alarm:
+Frame: 608
+22 669 130 190 500
+Alarm:
+Frame: 609
+22 677 129 183 499
+Alarm:
+Frame: 610
+22 685 127 173 475
+Alarm:
+Frame: 611
+22 691 118 167 456
+Alarm:
+Frame: 612
+22 693 114 162 450
+Alarm:
+Frame: 613
+22 695 110 162 453
+Alarm:
+Frame: 614
+22 694 109 163 450
+Alarm:
+Frame: 615
+22 695 108 163 451
+Alarm:
+Frame: 616
+22 697 107 159 455
+Alarm:
+Frame: 617
+22 696 107 157 458
+Alarm:
+Frame: 618
+22 695 109 156 454
+Alarm:
+Frame: 619
+22 698 108 148 444
+Alarm:
+Frame: 620
+22 700 108 144 425
+Alarm:
+Frame: 621
+22 703 106 144 405
+Alarm:
+Frame: 622
+22 704 101 140 394
+Alarm:
+Frame: 623
+22 702 92 140 397
+Alarm:
+Frame: 624
+22 699 91 146 399
+Alarm:
+Frame: 625
+22 697 89 147 396
+Alarm:
+Frame: 626
+22 697 89 146 395
+Alarm:
+Frame: 627
+22 696 86 147 392
+Alarm:
+Frame: 628
+22 690 86 152 400
+Alarm:
+Frame: 629
+22 687 86 152 399
+Alarm:
+Frame: 630
+22 693 92 145 380
+Alarm:
+Frame: 631
+22 695 89 143 364
+Alarm:
+Frame: 632
+22 695 81 143 360
+Alarm:
+Frame: 633
+22 697 74 143 362
+Alarm:
+Frame: 634
+22 700 72 141 360
+Alarm:
+Frame: 635
+22 694 69 142 363
+Alarm:
+Frame: 636
+22 696 68 140 362
+Alarm:
+Frame: 637
+22 701 67 137 361
+Alarm:
+Frame: 638
+22 701 68 140 360
+Alarm:
+Frame: 639
+22 697 70 139 361
+Alarm:
+Frame: 640
+22 702 71 134 357
+Alarm:
+Frame: 641
+22 709 70 129 353
+Alarm:
+Frame: 642
+22 716 69 123 340
+Alarm:
+Frame: 643
+22 719 63 122 331
+Alarm:
+Frame: 644
+22 720 60 120 328
+Alarm:
+Frame: 645
+22 720 59 121 323
+Alarm:
+Frame: 646
+22 716 53 122 330
+Alarm:
+Frame: 647
+22 720 58 115 318
+Alarm:
+Frame: 648
+22 720 64 112 312
+Alarm:
+Frame: 649
+22 721 68 110 308
+Alarm:
+Frame: 650
+22 722 69 107 306
+Alarm:
+Frame: 651
+22 722 66 105 305
+Alarm:
+Frame: 652
+22 722 67 102 299
+Alarm:
+Frame: 653
+22 722 65 99 288
+Alarm:
+Frame: 654
+22 722 62 98 287
+Alarm:
+Frame: 655
+22 720 60 101 288
+Alarm:
+Frame: 656
+22 720 57 104 289
+Alarm:
+Frame: 657
+22 719 56 106 288
+Alarm:
+Frame: 658
+22 719 55 107 292
+Alarm:
+Frame: 659
+22 721 59 103 288
+Alarm:
+Frame: 660
+22 722 59 101 288
+Alarm:
+Frame: 661
+22 722 59 101 285
+Alarm:
+Frame: 662
+22 722 63 103 279
+Alarm:
+Frame: 663
+22 723 60 102 266
+Alarm:
+Frame: 664
+22 724 57 101 260
+Alarm:
+Frame: 665
+22 725 56 102 257
+Alarm:
+Frame: 666
+22 727 52 99 258
+Alarm:
+Frame: 667
+22 727 47 99 265
+Alarm:
+Frame: 668
+22 729 46 97 264
+Alarm:
+Frame: 669
+22 730 47 96 267
+Alarm:
+Frame: 670
+22 732 52 94 259
+Alarm:
+Frame: 671
+22 732 53 92 261
+Alarm:
+Frame: 672
+22 732 55 91 259
+Alarm:
+Frame: 673
+22 731 58 92 254
+Alarm:
+Frame: 674
+22 730 57 91 248
+Alarm:
+Frame: 675
+22 728 53 90 243
+Alarm:
+Frame: 676
+22 729 51 87 244
+Alarm:
+Frame: 677
+22 728 49 87 244
+Alarm:
+Frame: 678
+22 727 47 88 247
+Alarm:
+Frame: 679
+22 727 44 88 252
+Alarm:
+Frame: 680
+22 725 45 90 249
+Alarm:
+Frame: 681
+22 724 45 93 248
+Alarm:
+Frame: 682
+22 724 43 93 252
+Alarm:
+Frame: 683
+22 724 41 90 250
+Alarm:
+Frame: 684
+22 724 42 88 243
+Alarm:
+Frame: 685
+22 724 41 88 238
+Alarm:
+Frame: 686
+22 724 41 87 232
+Alarm:
+Frame: 687
+22 724 41 87 227
+Alarm:
+Frame: 688
+22 725 42 88 223
+Alarm:
+Frame: 689
+22 724 41 90 223
+Alarm:
+Frame: 690
+22 724 42 88 218
+Alarm:
+Frame: 691
+22 726 43 86 214
+Alarm:
+Frame: 692
+22 727 45 83 211
+Alarm:
+Frame: 693
+22 727 48 83 208
+Alarm:
+Frame: 694
+22 725 47 83 207
+Alarm:
+Frame: 695
+22 723 44 84 204
+Alarm:
+Frame: 696
+22 724 43 82 200
+Alarm:
+Frame: 697
+22 728 38 79 205
+Alarm:
+Frame: 698
+22 729 34 80 207
+Alarm:
+Frame: 699
+22 730 38 78 199
+Alarm:
+Frame: 700
+22 732 42 75 193
+Alarm:
+Frame: 701
+22 734 45 75 190
+Alarm:
+Frame: 702
+22 737 46 73 191
+Alarm:
+Frame: 703
+22 740 44 72 194
+Alarm:
+Frame: 704
+22 740 40 74 199
+Alarm:
+Frame: 705
+22 743 38 72 201
+Alarm:
+Frame: 706
+22 745 36 71 201
+Alarm:
+Frame: 707
+22 746 41 72 188
+Alarm:
+Frame: 708
+22 747 41 69 181
+Alarm:
+Frame: 709
+Alarm:
+Frame: 710
+Alarm:
+Frame: 711
+Alarm:
+Frame: 712
+Alarm:
+Frame: 713
+Alarm:
+Frame: 714
+Alarm:
+Frame: 715
+Alarm:
+Frame: 716
+Alarm:
+Frame: 717
+23 752 36 67 179
+Alarm:
+Frame: 718
+23 753 34 69 178
+Alarm:
+Frame: 719
+23 752 32 69 181
+Alarm:
+Frame: 720
+23 749 32 71 177
+Alarm:
+Frame: 721
+23 748 31 74 181
+Alarm:
+Frame: 722
+23 747 31 72 182
+Alarm:
+Frame: 723
+23 744 31 75 184
+Alarm:
+Frame: 724
+23 743 31 77 183
+Alarm:
+Frame: 725
+23 741 31 77 182
+Alarm:
+Frame: 726
+23 742 31 74 184
+Alarm:
+Frame: 727
+23 740 31 73 183
+Alarm:
+Frame: 728
+23 740 31 72 182
+Alarm:
+Frame: 729
+23 740 31 74 178
+Alarm:
+Frame: 730
+23 738 31 73 176
+Alarm:
+Frame: 731
+23 736 31 68 173
+Alarm:
+Frame: 732
+23 735 32 65 168
+Alarm:
+Frame: 733
+23 734 33 65 167
+Alarm:
+Frame: 734
+23 734 35 62 161
+Alarm:
+Frame: 735
+23 735 36 61 161
+Alarm:
+Frame: 736
+23 735 36 60 161
+Alarm:
+Frame: 737
+23 733 40 62 158
+Alarm:
+Frame: 738
+23 732 39 62 159
+Alarm:
+Frame: 739
+23 728 37 60 159
+Alarm:
+Frame: 740
+23 725 38 61 156
+Alarm:
+Frame: 741
+23 723 38 62 150
+Alarm:
+Frame: 742
+23 718 37 67 148
+Alarm:
+Frame: 743
+23 712 34 67 147
+Alarm:
+Frame: 744
+23 710 33 63 148
+Alarm:
+Frame: 745
+23 705 35 65 141
+Alarm:
+Frame: 746
+23 700 36 67 144
+Alarm:
+Frame: 747
+23 697 36 65 145
+Alarm:
+Frame: 748
+23 694 36 65 146
+Alarm:
+Frame: 749
+23 695 36 65 144
+Alarm:
+Frame: 750
+23 692 36 63 142
+Alarm:
+Frame: 751
+Alarm:
+Frame: 752
+Alarm:
+Frame: 753
+Alarm:
+Frame: 754
+Alarm:
+Frame: 755
+Alarm:
+Frame: 756
+Alarm:
+Frame: 757
+Alarm:
+Frame: 758
+Alarm:
+Frame: 759
+Alarm:
+Frame: 760
+Alarm:
+Frame: 761
+Alarm:
+Frame: 762
+Alarm:
+Frame: 763
+Alarm:
+Frame: 764
+Alarm:
+Frame: 765
+Alarm:
+Frame: 766
+Alarm:
+Frame: 767
+Alarm:
+Frame: 768
+Alarm:
+Frame: 769
+Alarm:
+Frame: 770
+Alarm:
+Frame: 771
+Alarm:
+Frame: 772
+Alarm:
+Frame: 773
+Alarm:
+Frame: 774
+Alarm:
+Frame: 775
+Alarm:
+Frame: 776
+Alarm:
+Frame: 777
+Alarm:
+Frame: 778
+Alarm:
+Frame: 779
+Alarm:
+Frame: 780
+Alarm:
+Frame: 781
+Alarm:
+Frame: 782
+Alarm:
+Frame: 783
+Alarm:
+Frame: 784
+Alarm:
+Frame: 785
+Alarm:
+Frame: 786
+Alarm:
+Frame: 787
+Alarm:
+Frame: 788
+Alarm:
+Frame: 789
+Alarm:
+Frame: 790
+Alarm:
+Frame: 791
+Alarm:
+Frame: 792
+Alarm:
+Frame: 793
+Alarm:
+Frame: 794
+Alarm:
+Frame: 795
+Alarm:
+Frame: 796
+Alarm:
+Frame: 797
+Alarm:
+Frame: 798
+Alarm:
+Frame: 799
+Alarm:
+Frame: 800
+Alarm:
+Frame: 801
+Alarm:
+Frame: 802
+Alarm:
+Frame: 803
+Alarm:
+Frame: 804
+Alarm:
+Frame: 805
+Alarm:
+Frame: 806
+Alarm:
+Frame: 807
+Alarm:
+Frame: 808
+Alarm:
+Frame: 809
+Alarm:
+Frame: 810
+Alarm:
+Frame: 811
+Alarm:
+Frame: 812
+Alarm:
+Frame: 813
+Alarm:
+Frame: 814
+Alarm:
+Frame: 815
+Alarm:
+Frame: 816
+Alarm:
+Frame: 817
+Alarm:
+Frame: 818
+Alarm:
+Frame: 819
+Alarm:
+Frame: 820
+Alarm:
+Frame: 821
+Alarm:
+Frame: 822
+Alarm:
+Frame: 823
+Alarm:
+Frame: 824
+Alarm:
+Frame: 825
+Alarm:
+Frame: 826
+Alarm:
+Frame: 827
+Alarm:
+Frame: 828
+Alarm:
+Frame: 829
+Alarm:
+Frame: 830
+Alarm:
+Frame: 831
+Alarm:
+Frame: 832
+Alarm:
+Frame: 833
+Alarm:
+Frame: 834
+Alarm:
+Frame: 835
+Alarm:
+Frame: 836
+Alarm:
+Frame: 837
+Alarm:
+Frame: 838
+Alarm:
+Frame: 839
+Alarm:
+Frame: 840
+Alarm:
+Frame: 841
+Alarm:
+Frame: 842
+Alarm:
+Frame: 843
+Alarm:
+Frame: 844
+Alarm:
+Frame: 845
+Alarm:
+Frame: 846
+Alarm:
+Frame: 847
+Alarm:
+Frame: 848
+Alarm:
+Frame: 849
+Alarm:
+Frame: 850
+Alarm:
+Frame: 851
+Alarm:
+Frame: 852
+Alarm:
+Frame: 853
+Alarm:
+Frame: 854
+Alarm:
+Frame: 855
+Alarm:
+Frame: 856
+Alarm:
+Frame: 857
+Alarm:
+Frame: 858
+Alarm:
+Frame: 859
+Alarm:
+Frame: 860
+Alarm:
+Frame: 861
+Alarm:
+Frame: 862
+Alarm:
+Frame: 863
+Alarm:
+Frame: 864
+Alarm:
+Frame: 865
+Alarm:
+Frame: 866
+Alarm:
+Frame: 867
+Alarm:
+Frame: 868
+Alarm:
+Frame: 869
+Alarm:
+Frame: 870
+Alarm:
+Frame: 871
+Alarm:
+Frame: 872
+Alarm:
+Frame: 873
+Alarm:
+Frame: 874
+Alarm:
+Frame: 875
+Alarm:
+Frame: 876
+Alarm:
+Frame: 877
+Alarm:
+Frame: 878
+Alarm:
+Frame: 879
+Alarm:
+Frame: 880
+Alarm:
+Frame: 881
+Alarm:
+Frame: 882
+Alarm:
+Frame: 883
+Alarm:
+Frame: 884
+Alarm:
+Frame: 885
+Alarm:
+Frame: 886
+Alarm:
+Frame: 887
+Alarm:
+Frame: 888
+Alarm:
+Frame: 889
+Alarm:
+Frame: 890
+Alarm:
+Frame: 891
+Alarm:
+Frame: 892
+Alarm:
+Frame: 893
+Alarm:
+Frame: 894
+Alarm:
+Frame: 895
+Alarm:
+Frame: 896
+Alarm:
+Frame: 897
+Alarm:
+Frame: 898
+Alarm:
+Frame: 899
+Alarm:
+Frame: 900
+Alarm:
+Frame: 901
+Alarm:
+Frame: 902
+Alarm:
+Frame: 903
+Alarm:
+Frame: 904
+Alarm:
+Frame: 905
+Alarm:
+Frame: 906
+Alarm:
+Frame: 907
+Alarm:
+Frame: 908
+Alarm:
+Frame: 909
+Alarm:
+Frame: 910
+Alarm:
+Frame: 911
+Alarm:
+Frame: 912
+Alarm:
+Frame: 913
+Alarm:
+Frame: 914
+Alarm:
+Frame: 915
+Alarm:
+Frame: 916
+Alarm:
+Frame: 917
+Alarm:
+Frame: 918
+Alarm:
+Frame: 919
+Alarm:
+Frame: 920
+Alarm:
+Frame: 921
+Alarm:
+Frame: 922
+Alarm:
+Frame: 923
+Alarm:
+Frame: 924
+Alarm:
+Frame: 925
+Alarm:
+Frame: 926
+Alarm:
+Frame: 927
+Alarm:
+Frame: 928
+Alarm:
+Frame: 929
+Alarm:
+Frame: 930
+Alarm:
+Frame: 931
+Alarm:
+Frame: 932
+Alarm:
+Frame: 933
+Alarm:
+Frame: 934
+Alarm:
+Frame: 935
+Alarm:
+Frame: 936
+Alarm:
+Frame: 937
+Alarm:
+Frame: 938
+Alarm:
+Frame: 939
+Alarm:
+Frame: 940
+Alarm:
+Frame: 941
+Alarm:
+Frame: 942
+Alarm:
+Frame: 943
+Alarm:
+Frame: 944
+Alarm:
+Frame: 945
+Alarm:
+Frame: 946
+Alarm:
+Frame: 947
+Alarm:
+Frame: 948
+Alarm:
+Frame: 949
+Alarm:
+Frame: 950
+Alarm:
+Frame: 951
+Alarm:
+Frame: 952
+Alarm:
+Frame: 953
+Alarm:
+Frame: 954
+Alarm:
+Frame: 955
+Alarm:
+Frame: 956
+Alarm:
+Frame: 957
+Alarm:
+Frame: 958
+Alarm:
+Frame: 959
+Alarm:
+Frame: 960
+Alarm:
+Frame: 961
+Alarm:
+Frame: 962
+Alarm:
+Frame: 963
+Alarm:
+Frame: 964
+Alarm:
+Frame: 965
+Alarm:
+Frame: 966
+Alarm:
+Frame: 967
+Alarm:
+Frame: 968
+Alarm:
+Frame: 969
+Alarm:
+Frame: 970
+Alarm:
+Frame: 971
+Alarm:
+Frame: 972
+Alarm:
+Frame: 973
+Alarm:
+Frame: 974
+Alarm:
+Frame: 975
+Alarm:
+Frame: 976
+Alarm:
+Frame: 977
+Alarm:
+Frame: 978
+Alarm:
+Frame: 979
+Alarm:
+Frame: 980
+Alarm:
+Frame: 981
+Alarm:
+Frame: 982
+Alarm:
+Frame: 983
+Alarm:
+Frame: 984
+Alarm:
+Frame: 985
+Alarm:
+Frame: 986
+Alarm:
+Frame: 987
+Alarm:
+Frame: 988
+Alarm:
+Frame: 989
+Alarm:
+Frame: 990
+Alarm:
+Frame: 991
+Alarm:
+Frame: 992
+Alarm:
+Frame: 993
+Alarm:
+Frame: 994
+Alarm:
+Frame: 995
+Alarm:
+Frame: 996
+Alarm:
+Frame: 997
+Alarm:
+Frame: 998
+Alarm:
+Frame: 999
+Alarm:
+Frame: 1000
+Alarm:
+Frame: 1001
+Alarm:
+Frame: 1002
+Alarm:
+Frame: 1003
+Alarm:
+Frame: 1004
+Alarm:
+Frame: 1005
+Alarm:
+Frame: 1006
+Alarm:
+Frame: 1007
+Alarm:
+Frame: 1008
+Alarm:
+Frame: 1009
+Alarm:
+Frame: 1010
+Alarm:
+Frame: 1011
+Alarm:
+Frame: 1012
+Alarm:
+Frame: 1013
+Alarm:
+Frame: 1014
+Alarm:
+Frame: 1015
+Alarm:
+Frame: 1016
+Alarm:
+Frame: 1017
+Alarm:
+Frame: 1018
+Alarm:
+Frame: 1019
+Alarm:
+Frame: 1020
+Alarm:
+Frame: 1021
+Alarm:
+Frame: 1022
+Alarm:
+Frame: 1023
+Alarm:
+Frame: 1024
+Alarm:
+Frame: 1025
+Alarm:
+Frame: 1026
+Alarm:
+Frame: 1027
+Alarm:
+Frame: 1028
+Alarm:
+Frame: 1029
+Alarm:
+Frame: 1030
+Alarm:
+Frame: 1031
+Alarm:
+Frame: 1032
+Alarm:
+Frame: 1033
+Alarm:
+Frame: 1034
+Alarm:
+Frame: 1035
+Alarm:
+Frame: 1036
+Alarm:
+Frame: 1037
+Alarm:
+Frame: 1038
+Alarm:
+Frame: 1039
+Alarm:
+Frame: 1040
+Alarm:
+Frame: 1041
+Alarm:
+Frame: 1042
+Alarm:
+Frame: 1043
+Alarm:
+Frame: 1044
+Alarm:
+Frame: 1045
+Alarm:
+Frame: 1046
+Alarm:
+Frame: 1047
+Alarm:
+Frame: 1048
+Alarm:
+Frame: 1049
+Alarm:
+Frame: 1050
+Alarm:
+Frame: 1051
+Alarm:
+Frame: 1052
+Alarm:
+Frame: 1053
+Alarm:
+Frame: 1054
+Alarm:
+Frame: 1055
+Alarm:
+Frame: 1056
+Alarm:
+Frame: 1057
+Alarm:
+Frame: 1058
+Alarm:
+Frame: 1059
+Alarm:
+Frame: 1060
+Alarm:
+Frame: 1061
+Alarm:
+Frame: 1062
+Alarm:
+Frame: 1063
+Alarm:
+Frame: 1064
+Alarm:
+Frame: 1065
+Alarm:
+Frame: 1066
+Alarm:
+Frame: 1067
+Alarm:
+Frame: 1068
+Alarm:
+Frame: 1069
+Alarm:
+Frame: 1070
+Alarm:
+Frame: 1071
+Alarm:
+Frame: 1072
+Alarm:
+Frame: 1073
+Alarm:
+Frame: 1074
+Alarm:
+Frame: 1075
+Alarm:
+Frame: 1076
+Alarm:
+Frame: 1077
+Alarm:
+Frame: 1078
+Alarm:
+Frame: 1079
+Alarm:
+Frame: 1080
+Alarm:
+Frame: 1081
+Alarm:
+Frame: 1082
+Alarm:
+Frame: 1083
+Alarm:
+Frame: 1084
+Alarm:
+Frame: 1085
+Alarm:
+Frame: 1086
+Alarm:
+Frame: 1087
+Alarm:
+Frame: 1088
+Alarm:
+Frame: 1089
+Alarm:
+Frame: 1090
+Alarm:
+Frame: 1091
+Alarm:
+Frame: 1092
+Alarm:
+Frame: 1093
+Alarm:
+Frame: 1094
+Alarm:
+Frame: 1095
+Alarm:
+Frame: 1096
+Alarm:
+Frame: 1097
+Alarm:
+Frame: 1098
+Alarm:
+Frame: 1099
+Alarm:
+Frame: 1100
+Alarm:
+Frame: 1101
+Alarm:
+Frame: 1102
+Alarm:
+Frame: 1103
+Alarm:
+Frame: 1104
+Alarm:
+Frame: 1105
+Alarm:
+Frame: 1106
+Alarm:
+Frame: 1107
+Alarm:
+Frame: 1108
+Alarm:
+Frame: 1109
+Alarm:
+Frame: 1110
+Alarm:
+Frame: 1111
+Alarm:
+Frame: 1112
+Alarm:
+Frame: 1113
+Alarm:
+Frame: 1114
+Alarm:
+Frame: 1115
+Alarm:
+Frame: 1116
+Alarm:
+Frame: 1117
+Alarm:
+Frame: 1118
+Alarm:
+Frame: 1119
+Alarm:
+Frame: 1120
+Alarm:
+Frame: 1121
+Alarm:
+Frame: 1122
+Alarm:
+Frame: 1123
+Alarm:
+Frame: 1124
+Alarm:
+Frame: 1125
+Alarm:
+Frame: 1126
+Alarm:
+Frame: 1127
+Alarm:
+Frame: 1128
+Alarm:
+Frame: 1129
+Alarm:
+Frame: 1130
+Alarm:
+Frame: 1131
+Alarm:
+Frame: 1132
+Alarm:
+Frame: 1133
+Alarm:
+Frame: 1134
+Alarm:
+Frame: 1135
+Alarm:
+Frame: 1136
+Alarm:
+Frame: 1137
+Alarm:
+Frame: 1138
+25 707 35 48 119
+Alarm:
+Frame: 1139
+Alarm:
+Frame: 1140
+Alarm:
+Frame: 1141
+Alarm:
+Frame: 1142
+Alarm:
+Frame: 1143
+Alarm:
+Frame: 1144
+Alarm:
+Frame: 1145
+Alarm:
+Frame: 1146
+Alarm:
+Frame: 1147
+Alarm:
+Frame: 1148
+Alarm:
+Frame: 1149
+Alarm:
+Frame: 1150
+Alarm:
+Frame: 1151
+Alarm:
+Frame: 1152
+Alarm:
+Frame: 1153
+Alarm:
+Frame: 1154
+Alarm:
+Frame: 1155
+Alarm:
+Frame: 1156
+Alarm:
+Frame: 1157
+Alarm:
+Frame: 1158
+Alarm:
+Frame: 1159
+Alarm:
+Frame: 1160
+Alarm:
+Frame: 1161
+Alarm:
+Frame: 1162
+Alarm:
+Frame: 1163
+Alarm:
+Frame: 1164
+Alarm:
+Frame: 1165
+Alarm:
+Frame: 1166
+Alarm:
+Frame: 1167
+Alarm:
+Frame: 1168
+Alarm:
+Frame: 1169
+Alarm:
+Frame: 1170
+Alarm:
+Frame: 1171
+Alarm:
+Frame: 1172
+Alarm:
+Frame: 1173
+Alarm:
+Frame: 1174
+Alarm:
+Frame: 1175
+Alarm:
+Frame: 1176
+Alarm:
+Frame: 1177
+Alarm:
+Frame: 1178
+Alarm:
+Frame: 1179
+Alarm:
+Frame: 1180
+Alarm:
+Frame: 1181
+Alarm:
+Frame: 1182
+Alarm:
+Frame: 1183
+Alarm:
+Frame: 1184
+Alarm:
+Frame: 1185
+Alarm:
+Frame: 1186
+Alarm:
+Frame: 1187
+Alarm:
+Frame: 1188
+Alarm:
+Frame: 1189
+Alarm:
+Frame: 1190
+Alarm:
+Frame: 1191
+Alarm:
+Frame: 1192
+Alarm:
+Frame: 1193
+Alarm:
+Frame: 1194
+Alarm:
+Frame: 1195
+Alarm:
+Frame: 1196
+Alarm:
+Frame: 1197
+Alarm:
+Frame: 1198
+Alarm:
+Frame: 1199
+Alarm:
+Frame: 1200
+Alarm:
+Frame: 1201
+Alarm:
+Frame: 1202
+Alarm:
+Frame: 1203
+Alarm:
+Frame: 1204
+Alarm:
+Frame: 1205
+Alarm:
+Frame: 1206
+Alarm:
+Frame: 1207
+Alarm:
+Frame: 1208
+Alarm:
+Frame: 1209
+Alarm:
+Frame: 1210
+Alarm:
+Frame: 1211
+Alarm:
+Frame: 1212
+Alarm:
+Frame: 1213
+Alarm:
+Frame: 1214
+Alarm:
+Frame: 1215
+Alarm:
+Frame: 1216
+Alarm:
+Frame: 1217
+Alarm:
+Frame: 1218
+Alarm:
+Frame: 1219
+Alarm:
+Frame: 1220
+Alarm:
+Frame: 1221
+Alarm:
+Frame: 1222
+Alarm:
+Frame: 1223
+Alarm:
+Frame: 1224
+Alarm:
+Frame: 1225
+Alarm:
+Frame: 1226
+Alarm:
+Frame: 1227
+Alarm:
+Frame: 1228
+Alarm:
+Frame: 1229
+Alarm:
+Frame: 1230
+Alarm:
+Frame: 1231
+Alarm:
+Frame: 1232
+Alarm:
+Frame: 1233
+Alarm:
+Frame: 1234
+Alarm:
+Frame: 1235
+Alarm:
+Frame: 1236
+Alarm:
+Frame: 1237
+Alarm:
+Frame: 1238
+Alarm:
+Frame: 1239
+Alarm:
+Frame: 1240
+Alarm:
+Frame: 1241
+Alarm:
+Frame: 1242
+Alarm:
+Frame: 1243
+Alarm:
+Frame: 1244
+Alarm:
+Frame: 1245
+Alarm:
+Frame: 1246
+Alarm:
+Frame: 1247
+Alarm:
+Frame: 1248
+Alarm:
+Frame: 1249
+Alarm:
+Frame: 1250
+Alarm:
+Frame: 1251
+Alarm:
+Frame: 1252
+Alarm:
+Frame: 1253
+Alarm:
+Frame: 1254
+Alarm:
+Frame: 1255
+Alarm:
+Frame: 1256
+Alarm:
+Frame: 1257
+Alarm:
+Frame: 1258
+Alarm:
+Frame: 1259
+Alarm:
+Frame: 1260
+Alarm:
+Frame: 1261
+Alarm:
+Frame: 1262
+Alarm:
+Frame: 1263
+Alarm:
+Frame: 1264
+Alarm:
+Frame: 1265
+Alarm:
+Frame: 1266
+Alarm:
+Frame: 1267
+Alarm:
+Frame: 1268
+Alarm:
+Frame: 1269
+Alarm:
+Frame: 1270
+Alarm:
+Frame: 1271
+Alarm:
+Frame: 1272
+Alarm:
+Frame: 1273
+Alarm:
+Frame: 1274
+Alarm:
+Frame: 1275
+Alarm:
+Frame: 1276
+Alarm:
+Frame: 1277
+Alarm:
+Frame: 1278
+Alarm:
+Frame: 1279
+Alarm:
+Frame: 1280
+Alarm:
+Frame: 1281
+Alarm:
+Frame: 1282
+Alarm:
+Frame: 1283
+28 690 41 55 144
+Alarm:
+Frame: 1284
+28 692 39 54 146
+Alarm:
+Frame: 1285
+28 694 38 54 147
+Alarm:
+Frame: 1286
+28 696 37 54 148
+Alarm:
+Frame: 1287
+28 699 36 56 150
+Alarm:
+Frame: 1288
+28 698 36 58 153
+Alarm:
+Frame: 1289
+28 700 36 59 154
+Alarm:
+Frame: 1290
+28 703 36 60 154
+Alarm:
+Frame: 1291
+28 704 37 62 155
+Alarm:
+Frame: 1292
+28 705 38 63 159
+Alarm:
+Frame: 1293
+28 706 37 64 161
+Alarm:
+Frame: 1294
+28 708 34 64 166
+Alarm:
+Frame: 1295
+28 711 33 67 168
+Alarm:
+Frame: 1296
+28 713 33 69 170
+Alarm:
+Frame: 1297
+28 714 33 72 170
+Alarm:
+Frame: 1298
+28 714 35 73 165
+Alarm:
+Frame: 1299
+28 714 36 76 166
+Alarm:
+Frame: 1300
+28 716 36 75 167
+Alarm:
+Frame: 1301
+28 716 38 74 169
+Alarm:
+Frame: 1302
+28 716 40 73 167
+Alarm:
+Frame: 1303
+28 716 41 71 171
+Alarm:
+Frame: 1304
+28 716 41 71 176
+Alarm:
+Frame: 1305
+28 714 39 72 179
+Alarm:
+Frame: 1306
+28 713 38 75 181
+Alarm:
+Frame: 1307
+28 712 37 78 184
+Alarm:
+Frame: 1308
+28 711 36 78 186
+Alarm:
+Frame: 1309
+28 711 36 77 186
+Alarm:
+Frame: 1310
+28 711 37 77 187
+Alarm:
+Frame: 1311
+28 709 36 81 190
+Alarm:
+Frame: 1312
+28 708 41 81 182
+Alarm:
+Frame: 1313
+28 708 39 79 185
+Alarm:
+Frame: 1314
+28 708 38 80 190
+Alarm:
+Frame: 1315
+28 708 40 82 193
+Alarm:
+Frame: 1316
+28 708 41 85 191
+Alarm:
+Frame: 1317
+28 708 41 84 189
+Alarm:
+Frame: 1318
+28 708 41 83 189
+Alarm:
+Frame: 1319
+28 708 43 83 186
+Alarm:
+Frame: 1320
+28 706 43 83 186
+Alarm:
+Frame: 1321
+28 705 42 83 192
+Alarm:
+Frame: 1322
+28 704 41 81 197
+Alarm:
+Frame: 1323
+28 703 42 81 203
+Alarm:
+Frame: 1324
+28 702 43 79 208
+Alarm:
+Frame: 1325
+28 700 43 82 211
+Alarm:
+Frame: 1326
+28 699 43 82 214
+Alarm:
+Frame: 1327
+28 697 43 85 217
+Alarm:
+Frame: 1328
+28 697 43 86 219
+Alarm:
+Frame: 1329
+28 695 42 86 220
+Alarm:
+Frame: 1330
+28 695 41 87 220
+Alarm:
+Frame: 1331
+28 693 42 87 220
+Alarm:
+Frame: 1332
+28 692 45 88 217
+Alarm:
+Frame: 1333
+28 691 44 89 226
+Alarm:
+Frame: 1334
+28 689 48 91 226
+Alarm:
+Frame: 1335
+28 687 50 93 231
+Alarm:
+Frame: 1336
+28 685 50 95 235
+Alarm:
+Frame: 1337
+28 684 51 94 234
+Alarm:
+Frame: 1338
+28 684 51 94 233
+Alarm:
+Frame: 1339
+28 683 46 95 239
+Alarm:
+Frame: 1340
+28 683 46 93 238
+Alarm:
+Frame: 1341
+28 683 49 90 235
+Alarm:
+Frame: 1342
+28 682 51 90 232
+Alarm:
+Frame: 1343
+28 681 55 91 232
+Alarm:
+Frame: 1344
+28 681 55 91 234
+Alarm:
+Frame: 1345
+28 679 56 93 236
+Alarm:
+Frame: 1346
+28 679 56 93 245
+Alarm:
+Frame: 1347
+28 677 55 95 247
+Alarm:
+Frame: 1348
+28 674 52 96 252
+Alarm:
+Frame: 1349
+28 671 51 99 253
+Alarm:
+Frame: 1350
+28 672 51 96 251
+Alarm:
+Frame: 1351
+28 669 47 98 258
+Alarm:
+Frame: 1352
+28 667 46 98 264
+Alarm:
+Frame: 1353
+28 665 49 99 266
+Alarm:
+Frame: 1354
+28 663 53 101 266
+Alarm:
+Frame: 1355
+28 659 57 106 264
+29 377 322 326 393
+Alarm:
+Frame: 1356
+28 656 59 112 267
+29 396 312 316 397
+Alarm:
+Frame: 1357
+28 655 61 114 268
+29 409 308 315 406
+Alarm:
+Frame: 1358
+28 655 61 113 271
+29 421 311 315 405
+Alarm:
+Frame: 1359
+28 650 57 119 276
+29 451 301 307 411
+Alarm:
+Frame: 1360
+28 651 53 119 280
+29 467 300 307 408
+Alarm:
+Frame: 1361
+28 651 53 119 281
+29 480 292 308 419
+Alarm:
+Frame: 1362
+28 651 50 119 287
+29 500 277 312 437
+Alarm:
+Frame: 1363
+28 650 50 120 288
+29 520 264 311 449
+Alarm:
+Frame: 1364
+28 648 53 122 279
+29 530 257 305 457
+Alarm:
+Frame: 1365
+28 648 51 120 275
+29 545 247 296 469
+Alarm:
+Frame: 1366
+29 555 239 290 478
+Alarm:
+Frame: 1367
+29 564 239 290 478
+Alarm:
+Frame: 1368
+29 572 237 287 480
+Alarm:
+Frame: 1369
+29 578 239 284 478
+Alarm:
+Frame: 1370
+29 585 238 279 479
+Alarm:
+Frame: 1371
+29 594 232 267 485
+Alarm:
+Frame: 1372
+29 599 225 259 492
+Alarm:
+Frame: 1373
+29 605 217 250 500
+Alarm:
+Frame: 1374
+29 610 211 244 506
+Alarm:
+Frame: 1375
+29 612 209 246 508
+Alarm:
+Frame: 1376
+29 615 209 246 508
+Alarm:
+Frame: 1377
+29 619 206 245 511
+Alarm:
+Frame: 1378
+29 623 205 244 512
+Alarm:
+Frame: 1379
+29 637 205 227 512
+Alarm:
+Frame: 1380
+29 648 203 215 510
+Alarm:
+Frame: 1381
+29 650 202 216 509
+30 631 75 114 288
+Alarm:
+Frame: 1382
+29 658 195 211 516
+30 630 71 112 306
+Alarm:
+Frame: 1383
+29 670 176 205 539
+30 631 69 112 328
+Alarm:
+Frame: 1384
+29 681 173 199 537
+30 627 67 122 356
+Alarm:
+Frame: 1385
+29 685 163 202 541
+30 622 70 129 372
+Alarm:
+Frame: 1386
+29 691 162 197 533
+30 622 71 128 384
+Alarm:
+Frame: 1387
+29 694 158 196 521
+30 620 82 134 375
+Alarm:
+Frame: 1388
+29 696 157 195 520
+30 619 85 130 377
+Alarm:
+Frame: 1389
+29 700 160 190 518
+30 619 86 124 383
+Alarm:
+Frame: 1390
+29 706 162 183 514
+30 617 84 126 387
+Alarm:
+Frame: 1391
+29 714 160 173 511
+30 616 86 119 376
+Alarm:
+Frame: 1392
+29 713 159 171 507
+30 615 80 125 383
+Alarm:
+Frame: 1393
+29 708 153 178 508
+30 614 76 125 391
+Alarm:
+Frame: 1394
+29 707 147 176 496
+30 612 74 126 400
+Alarm:
+Frame: 1395
+29 710 140 172 473
+30 610 76 135 404
+Alarm:
+Frame: 1396
+29 711 134 171 469
+30 607 80 128 399
+Alarm:
+Frame: 1397
+29 712 127 172 470
+30 604 87 127 405
+Alarm:
+Frame: 1398
+29 712 126 172 464
+30 605 91 123 405
+Alarm:
+Frame: 1399
+29 719 125 167 461
+30 603 96 122 422
+Alarm:
+Frame: 1400
+29 725 126 164 460
+30 601 100 127 423
+Alarm:
+Frame: 1401
+29 731 127 157 457
+30 602 99 125 427
+Alarm:
+Frame: 1402
+29 737 131 151 444
+30 601 104 126 418
+Alarm:
+Frame: 1403
+29 742 131 150 437
+30 595 102 129 418
+Alarm:
+Frame: 1404
+29 750 129 141 417
+30 588 92 135 431
+Alarm:
+Frame: 1405
+29 752 121 139 414
+30 580 95 142 439
+Alarm:
+Frame: 1406
+29 754 112 135 412
+30 571 102 150 450
+Alarm:
+Frame: 1407
+29 756 109 130 401
+30 561 108 161 456
+Alarm:
+Frame: 1408
+29 757 107 128 396
+30 556 114 165 461
+Alarm:
+Frame: 1409
+29 757 103 130 405
+30 550 127 172 464
+Alarm:
+Frame: 1410
+29 757 107 128 398
+30 545 133 176 467
+Alarm:
+Frame: 1411
+29 759 107 126 397
+30 538 137 177 469
+Alarm:
+Frame: 1412
+29 759 104 126 389
+30 533 138 181 475
+Alarm:
+Frame: 1413
+29 757 106 123 375
+30 532 136 183 479
+Alarm:
+Frame: 1414
+29 757 107 122 372
+30 529 131 183 480
+Alarm:
+Frame: 1415
+29 756 104 119 362
+30 526 129 185 493
+Alarm:
+Frame: 1416
+29 747 103 122 356
+30 521 131 190 511
+Alarm:
+Frame: 1417
+29 742 103 123 349
+30 518 137 196 518
+Alarm:
+Frame: 1418
+29 740 104 126 345
+30 511 133 204 536
+Alarm:
+Frame: 1419
+29 740 94 126 352
+30 502 146 216 553
+Alarm:
+Frame: 1420
+29 739 94 124 350
+30 489 156 231 559
+Alarm:
+Frame: 1421
+29 740 94 125 351
+30 479 160 241 559
+Alarm:
+Frame: 1422
+29 740 98 125 347
+30 465 164 255 555
+Alarm:
+Frame: 1423
+29 742 99 120 349
+30 471 160 253 557
+Alarm:
+Frame: 1424
+29 744 98 116 342
+30 468 157 258 561
+Alarm:
+Frame: 1425
+29 743 90 115 343
+30 469 157 257 558
+Alarm:
+Frame: 1426
+29 745 91 114 331
+30 466 152 261 565
+Alarm:
+Frame: 1427
+29 748 90 111 317
+30 452 159 270 558
+Alarm:
+Frame: 1428
+29 748 86 108 317
+30 442 166 282 550
+Alarm:
+Frame: 1429
+29 748 86 107 314
+30 437 178 284 538
+Alarm:
+Frame: 1430
+29 748 86 105 311
+30 432 190 286 527
+Alarm:
+Frame: 1431
+29 747 85 103 304
+30 424 198 282 519
+Alarm:
+Frame: 1432
+29 746 85 105 307
+30 414 200 278 517
+Alarm:
+Frame: 1433
+29 744 86 106 304
+30 410 200 271 517
+Alarm:
+Frame: 1434
+29 743 87 104 304
+30 402 203 268 514
+Alarm:
+Frame: 1435
+29 743 87 100 292
+30 385 195 266 522
+Alarm:
+Frame: 1436
+29 741 83 100 288
+30 377 190 263 527
+Alarm:
+Frame: 1437
+29 740 80 101 283
+30 366 190 265 527
+Alarm:
+Frame: 1438
+29 740 75 101 286
+30 358 193 268 523
+Alarm:
+Frame: 1439
+29 740 69 101 290
+30 344 210 267 505
+Alarm:
+Frame: 1440
+29 740 64 100 296
+30 332 225 270 490
+Alarm:
+Frame: 1441
+29 740 63 101 294
+30 320 234 275 477
+Alarm:
+Frame: 1442
+29 742 61 101 299
+30 314 237 276 477
+Alarm:
+Frame: 1443
+29 743 62 100 301
+30 303 243 273 473
+Alarm:
+Frame: 1444
+29 745 63 97 298
+30 294 244 274 473
+Alarm:
+Frame: 1445
+29 747 63 95 295
+30 286 238 274 479
+Alarm:
+Frame: 1446
+29 752 64 90 289
+30 270 230 284 487
+Alarm:
+Frame: 1447
+29 755 60 87 279
+30 254 242 283 475
+Alarm:
+Frame: 1448
+29 758 55 86 283
+30 243 259 286 457
+Alarm:
+Frame: 1449
+29 758 55 88 279
+30 225 265 301 435
+Alarm:
+Frame: 1450
+29 757 55 90 276
+30 211 278 310 433
+Alarm:
+Frame: 1451
+30 183 300 308 415
+Alarm:
+Frame: 1452
+30 164 317 308 400
+Alarm:
+Frame: 1453
+30 137 329 309 388
+Alarm:
+Frame: 1454
+30 113 338 316 378
+Alarm:
+Frame: 1455
+30 71 354 329 358
+31 754 54 89 264
+Alarm:
+Frame: 1456
+30 49 365 330 339
+31 752 55 90 260
+Alarm:
+Frame: 1457
+30 26 362 340 350
+31 753 58 89 256
+Alarm:
+Frame: 1458
+30 13 361 330 349
+31 752 57 90 255
+Alarm:
+Frame: 1459
+30 3 371 314 344
+31 749 55 90 250
+Alarm:
+Frame: 1460
+30 0 391 291 326
+31 748 52 89 253
+Alarm:
+Frame: 1461
+31 748 50 88 255
+Alarm:
+Frame: 1462
+31 750 49 86 254
+Alarm:
+Frame: 1463
+31 748 50 86 251
+Alarm:
+Frame: 1464
+Alarm:
+Frame: 1465
+Alarm:
+Frame: 1466
+Alarm:
+Frame: 1467
+33 755 59 80 234
+Alarm:
+Frame: 1468
+33 758 59 76 232
+Alarm:
+Frame: 1469
+33 759 57 77 232
+Alarm:
+Frame: 1470
+33 759 53 79 233
+Alarm:
+Frame: 1471
+33 759 50 80 231
+Alarm:
+Frame: 1472
+33 759 50 80 230
+Alarm:
+Frame: 1473
+33 759 49 80 227
+Alarm:
+Frame: 1474
+33 759 47 80 225
+Alarm:
+Frame: 1475
+33 759 53 78 218
+Alarm:
+Frame: 1476
+33 759 55 77 215
+Alarm:
+Frame: 1477
+33 759 52 77 219
+Alarm:
+Frame: 1478
+33 759 51 77 220
+Alarm:
+Frame: 1479
+33 761 45 75 222
+Alarm:
+Frame: 1480
+33 762 43 74 220
+Alarm:
+Frame: 1481
+33 762 43 73 217
+Alarm:
+Frame: 1482
+33 762 41 72 216
+Alarm:
+Frame: 1483
+33 762 38 73 218
+Alarm:
+Frame: 1484
+33 762 38 72 215
+Alarm:
+Frame: 1485
+Alarm:
+Frame: 1486
+Alarm:
+Frame: 1487
+Alarm:
+Frame: 1488
+Alarm:
+Frame: 1489
+Alarm:
+Frame: 1490
+Alarm:
+Frame: 1491
+Alarm:
+Frame: 1492
+Alarm:
+Frame: 1493
+Alarm:
+Frame: 1494
+Alarm:
+Frame: 1495
+Alarm:
+Frame: 1496
+Alarm:
+Frame: 1497
+Alarm:
+Frame: 1498
+Alarm:
+Frame: 1499
+Alarm:
+Frame: 1500
+Alarm:
+Frame: 1501
+Alarm:
+Frame: 1502
+Alarm:
+Frame: 1503
+Alarm:
+Frame: 1504
+Alarm:
+Frame: 1505
+Alarm:
+Frame: 1506
+Alarm:
+Frame: 1507
+Alarm:
+Frame: 1508
+Alarm:
+Frame: 1509
+34 756 40 67 176
+Alarm:
+Frame: 1510
+34 756 41 65 175
+Alarm:
+Frame: 1511
+34 756 39 64 177
+Alarm:
+Frame: 1512
+34 754 38 65 178
+Alarm:
+Frame: 1513
+34 752 38 66 174
+Alarm:
+Frame: 1514
+34 749 38 66 170
+Alarm:
+Frame: 1515
+34 748 38 65 168
+Alarm:
+Frame: 1516
+34 744 38 66 169
+Alarm:
+Frame: 1517
+34 743 40 64 167
+Alarm:
+Frame: 1518
+34 742 41 62 163
+Alarm:
+Frame: 1519
+34 739 41 59 160
+Alarm:
+Frame: 1520
+34 737 41 59 161
+Alarm:
+Frame: 1521
+34 735 41 60 165
+Alarm:
+Frame: 1522
+34 732 41 63 163
+Alarm:
+Frame: 1523
+34 730 41 61 159
+Alarm:
+Frame: 1524
+34 727 41 61 157
+Alarm:
+Frame: 1525
+34 725 41 62 154
+Alarm:
+Frame: 1526
+34 722 39 63 152
+Alarm:
+Frame: 1527
+34 715 38 66 155
+Alarm:
+Frame: 1528
+34 712 38 66 145
+Alarm:
+Frame: 1529
+34 708 38 67 143
+Alarm:
+Frame: 1530
+34 705 40 67 143
+Alarm:
+Frame: 1531
+34 704 41 63 141
+Alarm:
+Frame: 1532
+34 702 41 62 141
+Alarm:
+Frame: 1533
+34 700 41 62 139
+Alarm:
+Frame: 1534
+34 697 39 60 141
+Alarm:
+Frame: 1535
+34 695 38 54 145
+Alarm:
+Frame: 1536
+Alarm:
+Frame: 1537
+Alarm:
+Frame: 1538
+Alarm:
+Frame: 1539
+Alarm:
+Frame: 1540
+Alarm:
+Frame: 1541
+Alarm:
+Frame: 1542
+Alarm:
+Frame: 1543
+Alarm:
+Frame: 1544
+Alarm:
+Frame: 1545
+Alarm:
+Frame: 1546
+Alarm:
+Frame: 1547
+Alarm:
+Frame: 1548
+Alarm:
+Frame: 1549
+Alarm:
+Frame: 1550
+Alarm:
+Frame: 1551
+Alarm:
+Frame: 1552
+Alarm:
+Frame: 1553
+Alarm:
+Frame: 1554
+Alarm:
+Frame: 1555
+Alarm:
+Frame: 1556
+Alarm:
+Frame: 1557
+Alarm:
+Frame: 1558
+Alarm:
+Frame: 1559
+Alarm:
+Frame: 1560
+Alarm:
+Frame: 1561
+Alarm:
+Frame: 1562
+Alarm:
+Frame: 1563
+Alarm:
+Frame: 1564
+Alarm:
+Frame: 1565
+Alarm:
+Frame: 1566
+Alarm:
+Frame: 1567
+Alarm:
+Frame: 1568
+Alarm:
+Frame: 1569
+Alarm:
+Frame: 1570
+Alarm:
+Frame: 1571
+Alarm:
+Frame: 1572
+Alarm:
+Frame: 1573
+Alarm:
+Frame: 1574
+Alarm:
+Frame: 1575
+Alarm:
+Frame: 1576
+Alarm:
+Frame: 1577
+Alarm:
+Frame: 1578
+Alarm:
+Frame: 1579
+Alarm:
+Frame: 1580
+Alarm:
+Frame: 1581
+Alarm:
+Frame: 1582
+Alarm:
+Frame: 1583
+Alarm:
+Frame: 1584
+Alarm:
+Frame: 1585
+Alarm:
+Frame: 1586
+Alarm:
+Frame: 1587
+Alarm:
+Frame: 1588
+Alarm:
+Frame: 1589
+Alarm:
+Frame: 1590
+Alarm:
+Frame: 1591
+Alarm:
+Frame: 1592
+Alarm:
+Frame: 1593
+Alarm:
+Frame: 1594
+Alarm:
+Frame: 1595
+Alarm:
+Frame: 1596
+Alarm:
+Frame: 1597
+Alarm:
+Frame: 1598
+Alarm:
+Frame: 1599
+Alarm:
+Frame: 1600
+Alarm:
+Frame: 1601
+Alarm:
+Frame: 1602
+Alarm:
+Frame: 1603
+Alarm:
+Frame: 1604
+Alarm:
+Frame: 1605
+Alarm:
+Frame: 1606
+Alarm:
+Frame: 1607
+Alarm:
+Frame: 1608
+Alarm:
+Frame: 1609
+Alarm:
+Frame: 1610
+Alarm:
+Frame: 1611
+Alarm:
+Frame: 1612
+Alarm:
+Frame: 1613
+Alarm:
+Frame: 1614
+Alarm:
+Frame: 1615
+Alarm:
+Frame: 1616
+Alarm:
+Frame: 1617
+Alarm:
+Frame: 1618
+Alarm:
+Frame: 1619
+Alarm:
+Frame: 1620
+Alarm:
+Frame: 1621
+Alarm:
+Frame: 1622
+Alarm:
+Frame: 1623
+Alarm:
+Frame: 1624
+Alarm:
+Frame: 1625
+Alarm:
+Frame: 1626
+Alarm:
+Frame: 1627
+Alarm:
+Frame: 1628
+Alarm:
+Frame: 1629
+Alarm:
+Frame: 1630
+Alarm:
+Frame: 1631
+Alarm:
+Frame: 1632
+Alarm:
+Frame: 1633
+Alarm:
+Frame: 1634
+Alarm:
+Frame: 1635
+Alarm:
+Frame: 1636
+Alarm:
+Frame: 1637
+Alarm:
+Frame: 1638
+Alarm:
+Frame: 1639
+Alarm:
+Frame: 1640
+Alarm:
+Frame: 1641
+Alarm:
+Frame: 1642
+Alarm:
+Frame: 1643
+Alarm:
+Frame: 1644
+Alarm:
+Frame: 1645
+Alarm:
+Frame: 1646
+Alarm:
+Frame: 1647
+Alarm:
+Frame: 1648
+Alarm:
+Frame: 1649
+Alarm:
+Frame: 1650
+Alarm:
+Frame: 1651
+Alarm:
+Frame: 1652
+Alarm:
+Frame: 1653
+Alarm:
+Frame: 1654
+Alarm:
+Frame: 1655
+Alarm:
+Frame: 1656
+Alarm:
+Frame: 1657
+Alarm:
+Frame: 1658
+Alarm:
+Frame: 1659
+Alarm:
+Frame: 1660
+Alarm:
+Frame: 1661
+Alarm:
+Frame: 1662
+Alarm:
+Frame: 1663
+Alarm:
+Frame: 1664
+Alarm:
+Frame: 1665
+Alarm:
+Frame: 1666
+Alarm:
+Frame: 1667
+Alarm:
+Frame: 1668
+Alarm:
+Frame: 1669
+Alarm:
+Frame: 1670
+Alarm:
+Frame: 1671
+Alarm:
+Frame: 1672
+Alarm:
+Frame: 1673
+Alarm:
+Frame: 1674
+Alarm:
+Frame: 1675
+Alarm:
+Frame: 1676
+Alarm:
+Frame: 1677
+Alarm:
+Frame: 1678
+Alarm:
+Frame: 1679
+Alarm:
+Frame: 1680
+Alarm:
+Frame: 1681
+Alarm:
+Frame: 1682
+Alarm:
+Frame: 1683
+Alarm:
+Frame: 1684
+Alarm:
+Frame: 1685
+Alarm:
+Frame: 1686
+Alarm:
+Frame: 1687
+Alarm:
+Frame: 1688
+Alarm:
+Frame: 1689
+Alarm:
+Frame: 1690
+Alarm:
+Frame: 1691
+Alarm:
+Frame: 1692
+Alarm:
+Frame: 1693
+Alarm:
+Frame: 1694
+Alarm:
+Frame: 1695
+Alarm:
+Frame: 1696
+Alarm:
+Frame: 1697
+Alarm:
+Frame: 1698
+Alarm:
+Frame: 1699
+Alarm:
+Frame: 1700
+Alarm:
+Frame: 1701
+Alarm:
+Frame: 1702
+Alarm:
+Frame: 1703
+Alarm:
+Frame: 1704
+Alarm:
+Frame: 1705
+Alarm:
+Frame: 1706
+Alarm:
+Frame: 1707
+Alarm:
+Frame: 1708
+Alarm:
+Frame: 1709
+Alarm:
+Frame: 1710
+Alarm:
+Frame: 1711
+Alarm:
+Frame: 1712
+Alarm:
+Frame: 1713
+Alarm:
+Frame: 1714
+Alarm:
+Frame: 1715
+Alarm:
+Frame: 1716
+Alarm:
+Frame: 1717
+Alarm:
+Frame: 1718
+Alarm:
+Frame: 1719
+Alarm:
+Frame: 1720
+Alarm:
+Frame: 1721
+Alarm:
+Frame: 1722
+Alarm:
+Frame: 1723
+Alarm:
+Frame: 1724
+Alarm:
+Frame: 1725
+Alarm:
+Frame: 1726
+Alarm:
+Frame: 1727
+Alarm:
+Frame: 1728
+Alarm:
+Frame: 1729
+Alarm:
+Frame: 1730
+Alarm:
+Frame: 1731
+Alarm:
+Frame: 1732
+Alarm:
+Frame: 1733
+Alarm:
+Frame: 1734
+Alarm:
+Frame: 1735
+Alarm:
+Frame: 1736
+Alarm:
+Frame: 1737
+Alarm:
+Frame: 1738
+Alarm:
+Frame: 1739
+Alarm:
+Frame: 1740
+Alarm:
+Frame: 1741
+Alarm:
+Frame: 1742
+Alarm:
+Frame: 1743
+Alarm:
+Frame: 1744
+Alarm:
+Frame: 1745
+Alarm:
+Frame: 1746
+Alarm:
+Frame: 1747
+Alarm:
+Frame: 1748
+Alarm:
+Frame: 1749
+Alarm:
+Frame: 1750
+Alarm:
+Frame: 1751
+Alarm:
+Frame: 1752
+Alarm:
+Frame: 1753
+Alarm:
+Frame: 1754
+Alarm:
+Frame: 1755
+Alarm:
+Frame: 1756
+Alarm:
+Frame: 1757
+Alarm:
+Frame: 1758
+Alarm:
+Frame: 1759
+Alarm:
+Frame: 1760
+Alarm:
+Frame: 1761
+Alarm:
+Frame: 1762
+Alarm:
+Frame: 1763
+Alarm:
+Frame: 1764
+Alarm:
+Frame: 1765
+Alarm:
+Frame: 1766
+Alarm:
+Frame: 1767
+Alarm:
+Frame: 1768
+Alarm:
+Frame: 1769
+Alarm:
+Frame: 1770
+Alarm:
+Frame: 1771
+Alarm:
+Frame: 1772
+Alarm:
+Frame: 1773
+Alarm:
+Frame: 1774
+Alarm:
+Frame: 1775
+Alarm:
+Frame: 1776
+Alarm:
+Frame: 1777
+Alarm:
+Frame: 1778
+Alarm:
+Frame: 1779
+Alarm:
+Frame: 1780
+Alarm:
+Frame: 1781
+Alarm:
+Frame: 1782
+Alarm:
+Frame: 1783
+Alarm:
+Frame: 1784
+Alarm:
+Frame: 1785
+Alarm:
+Frame: 1786
+Alarm:
+Frame: 1787
+Alarm:
+Frame: 1788
+Alarm:
+Frame: 1789
+Alarm:
+Frame: 1790
+Alarm:
+Frame: 1791
+Alarm:
+Frame: 1792
+Alarm:
+Frame: 1793
+Alarm:
+Frame: 1794
+Alarm:
+Frame: 1795
+Alarm:
+Frame: 1796
+Alarm:
+Frame: 1797
+Alarm:
+Frame: 1798
+Alarm:
+Frame: 1799
+Alarm:
+Frame: 1800
+Alarm:
+Frame: 1801
+Alarm:
+Frame: 1802
+Alarm:
+Frame: 1803
+Alarm:
+Frame: 1804
+Alarm:
+Frame: 1805
+Alarm:
+Frame: 1806
+Alarm:
+Frame: 1807
+Alarm:
+Frame: 1808
+Alarm:
+Frame: 1809
+Alarm:
+Frame: 1810
+Alarm:
+Frame: 1811
+Alarm:
+Frame: 1812
+Alarm:
+Frame: 1813
+Alarm:
+Frame: 1814
+Alarm:
+Frame: 1815
+Alarm:
+Frame: 1816
+Alarm:
+Frame: 1817
+Alarm:
+Frame: 1818
+Alarm:
+Frame: 1819
+Alarm:
+Frame: 1820
+Alarm:
+Frame: 1821
+Alarm:
+Frame: 1822
+Alarm:
+Frame: 1823
+35 695 41 48 142
+Alarm:
+Frame: 1824
+35 695 39 51 145
+Alarm:
+Frame: 1825
+35 697 38 53 147
+Alarm:
+Frame: 1826
+35 697 38 57 148
+Alarm:
+Frame: 1827
+35 700 40 58 149
+Alarm:
+Frame: 1828
+35 703 42 58 150
+Alarm:
+Frame: 1829
+35 707 43 56 157
+Alarm:
+Frame: 1830
+35 706 43 58 155
+Alarm:
+Frame: 1831
+35 708 40 61 158
+Alarm:
+Frame: 1832
+35 709 35 65 167
+Alarm:
+Frame: 1833
+35 711 33 67 165
+Alarm:
+Frame: 1834
+35 712 35 67 160
+Alarm:
+Frame: 1835
+35 715 39 64 154
+Alarm:
+Frame: 1836
+35 716 41 63 152
+Alarm:
+Frame: 1837
+35 718 43 61 157
+Alarm:
+Frame: 1838
+35 719 43 61 165
+Alarm:
+Frame: 1839
+35 719 43 62 175
+Alarm:
+Frame: 1840
+35 719 43 62 177
+Alarm:
+Frame: 1841
+35 717 43 64 177
+Alarm:
+Frame: 1842
+35 714 43 66 176
+Alarm:
+Frame: 1843
+35 713 42 66 177
+Alarm:
+Frame: 1844
+35 713 39 67 182
+Alarm:
+Frame: 1845
+35 713 38 67 183
+Alarm:
+Frame: 1846
+35 711 38 69 186
+Alarm:
+Frame: 1847
+35 711 40 69 186
+Alarm:
+Frame: 1848
+35 712 41 67 185
+Alarm:
+Frame: 1849
+35 713 42 65 187
+Alarm:
+Frame: 1850
+35 713 43 66 186
+Alarm:
+Frame: 1851
+35 713 43 67 190
+Alarm:
+Frame: 1852
+35 713 42 67 192
+Alarm:
+Frame: 1853
+35 712 41 68 194
+Alarm:
+Frame: 1854
+35 711 41 69 194
+Alarm:
+Frame: 1855
+35 711 41 68 195
+Alarm:
+Frame: 1856
+35 711 45 65 191
+Alarm:
+Frame: 1857
+35 711 46 66 195
+Alarm:
+Frame: 1858
+35 711 50 65 196
+Alarm:
+Frame: 1859
+35 707 57 66 190
+Alarm:
+Frame: 1860
+35 704 61 66 188
+Alarm:
+Frame: 1861
+35 701 60 68 190
+Alarm:
+Frame: 1862
+35 700 60 69 193
+Alarm:
+Frame: 1863
+35 697 60 68 197
+Alarm:
+Frame: 1864
+35 698 56 66 202
+Alarm:
+Frame: 1865
+35 699 55 64 205
+Alarm:
+Frame: 1866
+35 697 54 65 212
+Alarm:
+Frame: 1867
+35 695 52 63 218
+Alarm:
+Frame: 1868
+35 694 53 64 221
+Alarm:
+Frame: 1869
+35 694 55 63 221
+Alarm:
+Frame: 1870
+35 692 58 64 222
+Alarm:
+Frame: 1871
+35 690 59 66 225
+Alarm:
+Frame: 1872
+35 691 59 65 225
+Alarm:
+Frame: 1873
+35 691 59 65 227
+Alarm:
+Frame: 1874
+35 692 59 66 227
+Alarm:
+Frame: 1875
+35 690 61 66 225
+Alarm:
+Frame: 1876
+35 689 61 67 228
+Alarm:
+Frame: 1877
+35 688 63 70 229
+Alarm:
+Frame: 1878
+35 685 66 71 231
+Alarm:
+Frame: 1879
+35 682 69 74 233
+Alarm:
+Frame: 1880
+35 681 69 73 237
+Alarm:
+Frame: 1881
+35 679 70 73 238
+Alarm:
+Frame: 1882
+35 678 69 71 239
+Alarm:
+Frame: 1883
+35 673 68 73 241
+Alarm:
+Frame: 1884
+35 671 65 73 244
+Alarm:
+Frame: 1885
+35 668 64 74 243
+Alarm:
+Frame: 1886
+35 667 66 75 246
+Alarm:
+Frame: 1887
+35 664 68 80 250
+Alarm:
+Frame: 1888
+35 661 69 84 252
+Alarm:
+Frame: 1889
+35 658 69 87 256
+Alarm:
+Frame: 1890
+35 657 73 88 259
+Alarm:
+Frame: 1891
+35 658 76 88 262
+Alarm:
+Frame: 1892
+35 659 79 87 261
+Alarm:
+Frame: 1893
+35 658 78 89 262
+Alarm:
+Frame: 1894
+35 657 72 91 270
+Alarm:
+Frame: 1895
+35 655 72 90 271
+Alarm:
+Frame: 1896
+35 653 73 88 271
+Alarm:
+Frame: 1897
+35 652 76 88 273
+Alarm:
+Frame: 1898
+35 648 77 94 278
+Alarm:
+Frame: 1899
+35 648 83 91 278
+Alarm:
+Frame: 1900
+35 648 89 90 276
+Alarm:
+Frame: 1901
+35 647 92 91 287
+Alarm:
+Frame: 1902
+35 647 95 89 282
+Alarm:
+Frame: 1903
+35 644 94 89 285
+Alarm:
+Frame: 1904
+35 642 92 90 287
+Alarm:
+Frame: 1905
+35 640 87 92 298
+Alarm:
+Frame: 1906
+35 639 87 93 300
+Alarm:
+Frame: 1907
+35 640 87 92 309
+Alarm:
+Frame: 1908
+35 640 87 94 317
+Alarm:
+Frame: 1909
+35 640 90 95 319
+Alarm:
+Frame: 1910
+35 635 95 102 321
+Alarm:
+Frame: 1911
+35 638 101 101 326
+Alarm:
+Frame: 1912
+35 636 101 104 328
+Alarm:
+Frame: 1913
+35 636 101 104 330
+Alarm:
+Frame: 1914
+35 636 104 104 327
+Alarm:
+Frame: 1915
+35 634 104 108 325
+Alarm:
+Frame: 1916
+35 633 105 110 327
+Alarm:
+Frame: 1917
+35 633 104 110 336
+Alarm:
+Frame: 1918
+35 633 103 112 342
+Alarm:
+Frame: 1919
+35 632 112 114 338
+Alarm:
+Frame: 1920
+35 631 117 115 341
+Alarm:
+Frame: 1921
+35 631 121 111 346
+Alarm:
+Frame: 1922
+35 626 122 117 354
+Alarm:
+Frame: 1923
+35 618 122 119 361
+Alarm:
+Frame: 1924
+35 615 118 118 367
+Alarm:
+Frame: 1925
+35 610 115 120 376
+Alarm:
+Frame: 1926
+35 607 111 124 387
+Alarm:
+Frame: 1927
+35 603 107 129 415
+Alarm:
+Frame: 1928
+35 597 108 132 439
+Alarm:
+Frame: 1929
+35 589 117 138 448
+Alarm:
+Frame: 1930
+35 583 120 141 452
+Alarm:
+Frame: 1931
+35 583 128 137 453
+Alarm:
+Frame: 1932
+35 575 135 151 448
+Alarm:
+Frame: 1933
+35 575 133 149 450
+Alarm:
+Frame: 1934
+35 572 136 150 448
+Alarm:
+Frame: 1935
+35 573 133 149 454
+Alarm:
+Frame: 1936
+35 572 133 150 460
+Alarm:
+Frame: 1937
+35 569 133 154 472
+Alarm:
+Frame: 1938
+35 563 139 155 483
+Alarm:
+Frame: 1939
+35 536 148 176 492
+Alarm:
+Frame: 1940
+35 531 157 179 501
+Alarm:
+Frame: 1941
+35 535 163 175 502
+Alarm:
+Frame: 1942
+35 526 165 173 511
+Alarm:
+Frame: 1943
+35 513 164 176 514
+Alarm:
+Frame: 1944
+35 503 161 177 518
+Alarm:
+Frame: 1945
+35 489 160 181 521
+Alarm:
+Frame: 1946
+35 479 158 184 521
+Alarm:
+Frame: 1947
+35 460 162 189 540
+Alarm:
+Frame: 1948
+35 451 166 190 546
+Alarm:
+Frame: 1949
+35 441 176 194 541
+Alarm:
+Frame: 1950
+35 435 185 196 533
+Alarm:
+Frame: 1951
+35 428 202 198 516
+Alarm:
+Frame: 1952
+35 421 212 200 503
+Alarm:
+Frame: 1953
+35 420 215 195 498
+Alarm:
+Frame: 1954
+35 418 218 187 495
+Alarm:
+Frame: 1955
+35 405 214 195 502
+Alarm:
+Frame: 1956
+35 393 213 204 504
+Alarm:
+Frame: 1957
+35 387 216 205 501
+Alarm:
+Frame: 1958
+35 382 217 207 500
+Alarm:
+Frame: 1959
+35 367 231 213 486
+Alarm:
+Frame: 1960
+35 354 244 217 473
+Alarm:
+Frame: 1961
+35 346 255 217 462
+Alarm:
+Frame: 1962
+35 331 266 225 451
+Alarm:
+Frame: 1963
+35 307 282 231 435
+Alarm:
+Frame: 1964
+35 282 287 242 430
+Alarm:
+Frame: 1965
+35 263 283 254 434
+Alarm:
+Frame: 1966
+35 242 290 259 426
+Alarm:
+Frame: 1967
+35 214 284 278 433
+Alarm:
+Frame: 1968
+35 193 291 291 426
+Alarm:
+Frame: 1969
+35 177 305 299 412
+Alarm:
+Frame: 1970
+35 158 315 308 402
+Alarm:
+Frame: 1971
+35 134 342 306 374
+Alarm:
+Frame: 1972
+35 126 363 302 354
+Alarm:
+Frame: 1973
+35 123 385 290 324
+Alarm:
+Frame: 1974
+35 113 404 280 299
+Alarm:
+Frame: 1975
+35 83 408 276 301
+Alarm:
+Frame: 1976
+Alarm:
+Frame: 1977
+Alarm:
+Frame: 1978
+Alarm:
+Frame: 1979
+Alarm:
+Frame: 1980
+Alarm:
+Frame: 1981
+Alarm:
+Frame: 1982
+Alarm:
+Frame: 1983
+Alarm:
+Frame: 1984
+Alarm:
+Frame: 1985
+Alarm:
+Frame: 1986
+Alarm:
+Frame: 1987
+Alarm:
+Frame: 1988
+Alarm:
+Frame: 1989
+Alarm:
+Frame: 1990
+Alarm:
+Frame: 1991
+Alarm:
+Frame: 1992
+Alarm:
+Frame: 1993
+Alarm:
+Frame: 1994
+Alarm:
+Frame: 1995
+Alarm:
+Frame: 1996
+Alarm:
+Frame: 1997
+Alarm:
+Frame: 1998
+Alarm:
+Frame: 1999
+Alarm:
+Frame: 2000
+Alarm:
+Frame: 2001
+Alarm:
+Frame: 2002
+Alarm:
+Frame: 2003
+Alarm:
+Frame: 2004
+Alarm:
+Frame: 2005
+Alarm:
+Frame: 2006
+Alarm:
+Frame: 2007
+Alarm:
+Frame: 2008
+Alarm:
+Frame: 2009
+Alarm:
+Frame: 2010
+Alarm:
+Frame: 2011
+Alarm:
+Frame: 2012
+Alarm:
+Frame: 2013
+Alarm:
+Frame: 2014
+Alarm:
+Frame: 2015
+Alarm:
+Frame: 2016
+Alarm:
+Frame: 2017
+Alarm:
+Frame: 2018
+Alarm:
+Frame: 2019
+Alarm:
+Frame: 2020
+Alarm:
+Frame: 2021
+Alarm:
+Frame: 2022
+Alarm:
+Frame: 2023
+Alarm:
+Frame: 2024
+Alarm:
+Frame: 2025
+Alarm:
+Frame: 2026
+Alarm:
+Frame: 2027
+Alarm:
+Frame: 2028
+Alarm:
+Frame: 2029
+Alarm:
+Frame: 2030
+Alarm:
+Frame: 2031
+Alarm:
+Frame: 2032
+Alarm:
+Frame: 2033
+Alarm:
+Frame: 2034
+Alarm:
+Frame: 2035
+Alarm:
+Frame: 2036
+Alarm:
+Frame: 2037
+Alarm:
+Frame: 2038
+Alarm:
+Frame: 2039
+Alarm:
+Frame: 2040
+Alarm:
+Frame: 2041
+Alarm:
+Frame: 2042
+Alarm:
+Frame: 2043
+Alarm:
+Frame: 2044
+Alarm:
+Frame: 2045
+Alarm:
+Frame: 2046
+Alarm:
+Frame: 2047
+Alarm:
+Frame: 2048
+Alarm:
+Frame: 2049
+Alarm:
+Frame: 2050
+Alarm:
+Frame: 2051
+Alarm:
+Frame: 2052
+Alarm:
+Frame: 2053
+Alarm:
+Frame: 2054
+Alarm:
+Frame: 2055
+Alarm:
+Frame: 2056
+Alarm:
+Frame: 2057
+Alarm:
+Frame: 2058
+Alarm:
+Frame: 2059
+Alarm:
+Frame: 2060
+Alarm:
+Frame: 2061
+Alarm:
+Frame: 2062
+Alarm:
+Frame: 2063
+Alarm:
+Frame: 2064
+Alarm:
+Frame: 2065
+Alarm:
+Frame: 2066
+Alarm:
+Frame: 2067
+Alarm:
+Frame: 2068
+Alarm:
+Frame: 2069
+37 697 36 47 121
+Alarm:
+Frame: 2070
+37 697 37 46 120
+Alarm:
+Frame: 2071
+37 697 38 44 119
+Alarm:
+Frame: 2072
+Alarm:
+Frame: 2073
+Alarm:
+Frame: 2074
+Alarm:
+Frame: 2075
+Alarm:
+Frame: 2076
+Alarm:
+Frame: 2077
+Alarm:
+Frame: 2078
+Alarm:
+Frame: 2079
+Alarm:
+Frame: 2080
+Alarm:
+Frame: 2081
+Alarm:
+Frame: 2082
+Alarm:
+Frame: 2083
+Alarm:
+Frame: 2084
+Alarm:
+Frame: 2085
+Alarm:
+Frame: 2086
+42 700 39 48 130
+Alarm:
+Frame: 2087
+42 698 38 52 131
+Alarm:
+Frame: 2088
+42 697 38 54 131
+Alarm:
+Frame: 2089
+42 697 38 54 133
+Alarm:
+Frame: 2090
+42 697 40 52 132
+Alarm:
+Frame: 2091
+42 697 41 51 131
+Alarm:
+Frame: 2092
+42 697 39 51 131
+Alarm:
+Frame: 2093
+42 697 38 51 133
+Alarm:
+Frame: 2094
+42 697 37 53 135
+Alarm:
+Frame: 2095
+Alarm:
+Frame: 2096
+Alarm:
+Frame: 2097
+Alarm:
+Frame: 2098
+43 697 37 57 140
+Alarm:
+Frame: 2099
+43 699 41 58 138
+Alarm:
+Frame: 2100
+43 700 43 59 138
+Alarm:
+Frame: 2101
+43 700 43 59 138
+Alarm:
+Frame: 2102
+43 702 43 59 135
+Alarm:
+Frame: 2103
+43 703 42 60 137
+Alarm:
+Frame: 2104
+43 703 39 61 142
+Alarm:
+Frame: 2105
+43 705 40 63 142
+Alarm:
+Frame: 2106
+43 709 39 63 142
+Alarm:
+Frame: 2107
+43 713 38 64 144
+Alarm:
+Frame: 2108
+43 714 38 66 148
+Alarm:
+Frame: 2109
+43 716 38 69 149
+Alarm:
+Frame: 2110
+43 717 40 67 142
+Alarm:
+Frame: 2111
+43 719 41 68 137
+Alarm:
+Frame: 2112
+43 722 41 69 138
+Alarm:
+Frame: 2113
+Alarm:
+Frame: 2114
+Alarm:
+Frame: 2115
+Alarm:
+Frame: 2116
+Alarm:
+Frame: 2117
+Alarm:
+Frame: 2118
+Alarm:
+Frame: 2119
+Alarm:
+Frame: 2120
+45 732 38 64 159
+Alarm:
+Frame: 2121
+45 732 40 64 156
+Alarm:
+Frame: 2122
+45 734 39 64 156
+Alarm:
+Frame: 2123
+45 741 40 64 157
+Alarm:
+Frame: 2124
+45 745 41 62 157
+Alarm:
+Frame: 2125
+45 746 41 64 158
+Alarm:
+Frame: 2126
+45 748 38 66 161
+Alarm:
+Frame: 2127
+45 749 34 70 164
+Alarm:
+Frame: 2128
+Alarm:
+Frame: 2129
+Alarm:
+Frame: 2130
+Alarm:
+Frame: 2131
+Alarm:
+Frame: 2132
+Alarm:
+Frame: 2133
+46 759 38 66 171
+Alarm:
+Frame: 2134
+46 761 40 65 172
+Alarm:
+Frame: 2135
+46 762 41 65 174
+Alarm:
+Frame: 2136
+46 762 41 66 175
+Alarm:
+Frame: 2137
+46 763 43 62 171
+Alarm:
+Frame: 2138
+46 766 43 58 174
+Alarm:
+Frame: 2139
+46 767 42 56 172
+Alarm:
+Frame: 2140
+46 767 39 58 174
+Alarm:
+Frame: 2141
+46 767 38 59 175
+Alarm:
+Frame: 2142
+46 767 38 57 175
+Alarm:
+Frame: 2143
+46 767 40 56 172
+Alarm:
+Frame: 2144
+46 767 42 56 169
+Alarm:
+Frame: 2145
+Alarm:
+Frame: 2146
+Alarm:
+Frame: 2147
+Alarm:
+Frame: 2148
+Alarm:
+Frame: 2149
+Alarm:
+Frame: 2150
+Alarm:
+Frame: 2151
+Alarm:
+Frame: 2152
+47 770 41 56 180
+Alarm:
+Frame: 2153
+47 770 41 56 180
+Alarm:
+Frame: 2154
+47 768 39 59 184
+Alarm:
+Frame: 2155
+47 769 40 58 185
+Alarm:
+Frame: 2156
+47 770 42 56 186
+Alarm:
+Frame: 2157
+47 770 45 54 184
+Alarm:
+Frame: 2158
+47 770 46 53 185
+Alarm:
+Frame: 2159
+47 770 48 53 182
+Alarm:
+Frame: 2160
+47 768 49 55 182
+Alarm:
+Frame: 2161
+47 767 47 56 184
+Alarm:
+Frame: 2162
+47 764 46 59 187
+Alarm:
+Frame: 2163
+47 760 46 65 192
+Alarm:
+Frame: 2164
+47 757 46 68 191
+Alarm:
+Frame: 2165
+47 756 44 70 193
+Alarm:
+Frame: 2166
+47 756 43 68 196
+Alarm:
+Frame: 2167
+47 754 45 66 194
+Alarm:
+Frame: 2168
+47 751 44 67 199
+Alarm:
+Frame: 2169
+47 750 43 68 205
+Alarm:
+Frame: 2170
+47 750 43 69 210
+Alarm:
+Frame: 2171
+47 748 47 74 213
+Alarm:
+Frame: 2172
+47 750 49 73 214
+Alarm:
+Frame: 2173
+47 748 45 75 218
+Alarm:
+Frame: 2174
+47 747 46 76 210
+Alarm:
+Frame: 2175
+47 746 44 75 213
+Alarm:
+Frame: 2176
+47 747 45 73 212
+Alarm:
+Frame: 2177
+47 746 46 76 209
+Alarm:
+Frame: 2178
+47 746 46 75 213
+Alarm:
+Frame: 2179
+47 746 46 76 215
+Alarm:
+Frame: 2180
+47 746 50 77 218
+Alarm:
+Frame: 2181
+47 746 53 77 217
+Alarm:
+Frame: 2182
+47 744 56 77 216
+Alarm:
+Frame: 2183
+47 740 56 82 222
+Alarm:
+Frame: 2184
+47 736 57 84 224
+Alarm:
+Frame: 2185
+47 735 57 85 224
+Alarm:
+Frame: 2186
+47 732 56 86 227
+Alarm:
+Frame: 2187
+47 732 56 86 228
+Alarm:
+Frame: 2188
+47 731 56 87 228
+Alarm:
+Frame: 2189
+47 731 55 87 230
+Alarm:
+Frame: 2190
+47 733 52 83 236
+Alarm:
+Frame: 2191
+47 734 55 81 233
+Alarm:
+Frame: 2192
+47 735 56 82 234
+Alarm:
+Frame: 2193
+47 735 60 81 230
+Alarm:
+Frame: 2194
+47 735 61 80 232
+Alarm:
+Frame: 2195
+47 735 60 83 233
+Alarm:
+Frame: 2196
+47 737 57 83 240
+Alarm:
+Frame: 2197
+47 738 56 82 244
+Alarm:
+Frame: 2198
+47 738 55 82 244
+Alarm:
+Frame: 2199
+47 738 54 82 243
+Alarm:
+Frame: 2200
+47 738 55 82 243
+Alarm:
+Frame: 2201
+47 736 56 86 241
+Alarm:
+Frame: 2202
+47 731 49 87 256
+Alarm:
+Frame: 2203
+47 726 52 88 261
+Alarm:
+Frame: 2204
+47 726 58 90 257
+Alarm:
+Frame: 2205
+47 723 57 90 262
+Alarm:
+Frame: 2206
+47 722 64 94 256
+Alarm:
+Frame: 2207
+47 719 65 91 259
+Alarm:
+Frame: 2208
+47 716 65 93 260
+Alarm:
+Frame: 2209
+47 714 65 97 261
+Alarm:
+Frame: 2210
+47 713 67 97 260
+Alarm:
+Frame: 2211
+47 719 71 94 252
+Alarm:
+Frame: 2212
+47 717 63 99 261
+Alarm:
+Frame: 2213
+47 716 63 100 263
+Alarm:
+Frame: 2214
+47 716 66 101 264
+Alarm:
+Frame: 2215
+47 714 72 100 264
+Alarm:
+Frame: 2216
+47 713 74 98 267
+Alarm:
+Frame: 2217
+47 713 77 97 267
+Alarm:
+Frame: 2218
+47 712 77 98 270
+Alarm:
+Frame: 2219
+47 709 76 101 278
+Alarm:
+Frame: 2220
+47 708 77 103 273
+Alarm:
+Frame: 2221
+47 708 77 106 272
+Alarm:
+Frame: 2222
+47 710 75 105 275
+Alarm:
+Frame: 2223
+47 709 74 109 276
+Alarm:
+Frame: 2224
+47 708 73 110 281
+Alarm:
+Frame: 2225
+47 708 70 111 289
+Alarm:
+Frame: 2226
+47 706 72 112 290
+Alarm:
+Frame: 2227
+47 705 77 115 293
+Alarm:
+Frame: 2228
+47 705 84 114 289
+Alarm:
+Frame: 2229
+47 703 86 113 288
+Alarm:
+Frame: 2230
+47 701 87 114 285
+Alarm:
+Frame: 2231
+47 694 84 119 294
+Alarm:
+Frame: 2232
+47 689 83 123 297
+Alarm:
+Frame: 2233
+47 681 84 129 299
+Alarm:
+Frame: 2234
+47 680 85 127 301
+Alarm:
+Frame: 2235
+47 676 79 132 308
+Alarm:
+Frame: 2236
+47 675 77 134 315
+Alarm:
+Frame: 2237
+47 677 78 131 321
+Alarm:
+Frame: 2238
+47 675 79 130 326
+Alarm:
+Frame: 2239
+47 675 83 129 326
+Alarm:
+Frame: 2240
+47 675 88 131 324
+Alarm:
+Frame: 2241
+47 677 90 128 324
+Alarm:
+Frame: 2242
+47 678 95 128 320
+Alarm:
+Frame: 2243
+47 680 92 130 329
+Alarm:
+Frame: 2244
+47 683 91 131 326
+Alarm:
+Frame: 2245
+47 684 88 135 329
+Alarm:
+Frame: 2246
+47 684 87 135 337
+Alarm:
+Frame: 2247
+47 682 91 137 336
+Alarm:
+Frame: 2248
+47 682 94 138 337
+Alarm:
+Frame: 2249
+47 683 99 137 337
+Alarm:
+Frame: 2250
+47 684 107 136 333
+Alarm:
+Frame: 2251
+47 680 110 137 340
+Alarm:
+Frame: 2252
+47 679 108 137 347
+Alarm:
+Frame: 2253
+47 676 108 137 351
+Alarm:
+Frame: 2254
+47 674 110 138 347
+Alarm:
+Frame: 2255
+47 671 110 139 347
+Alarm:
+Frame: 2256
+47 671 109 140 349
+Alarm:
+Frame: 2257
+47 668 103 146 356
+Alarm:
+Frame: 2258
+47 662 103 154 363
+Alarm:
+Frame: 2259
+47 660 104 156 375
+Alarm:
+Frame: 2260
+47 657 107 162 380
+Alarm:
+Frame: 2261
+47 656 109 164 388
+Alarm:
+Frame: 2262
+47 656 116 164 389
+Alarm:
+Frame: 2263
+47 656 120 163 388
+Alarm:
+Frame: 2264
+47 655 119 163 395
+Alarm:
+Frame: 2265
+47 656 119 166 397
+Alarm:
+Frame: 2266
+47 660 119 165 403
+Alarm:
+Frame: 2267
+47 663 121 167 400
+Alarm:
+Frame: 2268
+47 665 121 168 402
+Alarm:
+Frame: 2269
+47 664 119 172 406
+Alarm:
+Frame: 2270
+47 665 122 172 411
+Alarm:
+Frame: 2271
+47 667 125 170 427
+Alarm:
+Frame: 2272
+47 666 128 173 434
+Alarm:
+Frame: 2273
+47 664 132 174 435
+Alarm:
+Frame: 2274
+47 661 135 176 439
+Alarm:
+Frame: 2275
+47 658 140 175 440
+Alarm:
+Frame: 2276
+47 655 142 173 444
+Alarm:
+Frame: 2277
+47 649 141 175 447
+Alarm:
+Frame: 2278
+47 643 138 182 449
+Alarm:
+Frame: 2279
+47 641 139 185 454
+Alarm:
+Frame: 2280
+47 637 141 189 452
+Alarm:
+Frame: 2281
+47 630 138 193 459
+Alarm:
+Frame: 2282
+47 626 140 198 463
+Alarm:
+Frame: 2283
+47 617 144 206 483
+Alarm:
+Frame: 2284
+47 610 149 215 497
+Alarm:
+Frame: 2285
+47 607 153 216 498
+Alarm:
+Frame: 2286
+47 607 157 218 497
+Alarm:
+Frame: 2287
+47 606 159 223 502
+Alarm:
+Frame: 2288
+47 608 162 224 498
+Alarm:
+Frame: 2289
+47 611 163 226 492
+Alarm:
+Frame: 2290
+47 612 163 229 494
+Alarm:
+Frame: 2291
+47 615 164 234 498
+Alarm:
+Frame: 2292
+47 616 167 236 495
+Alarm:
+Frame: 2293
+47 615 169 237 504
+Alarm:
+Frame: 2294
+47 608 174 244 508
+Alarm:
+Frame: 2295
+47 603 180 249 511
+Alarm: 47
+Frame: 2296
+47 604 185 240 518
+Alarm: 47
+Frame: 2297
+47 606 193 242 504
+Alarm: 47
+Frame: 2298
+47 602 196 237 500
+Alarm: 47
+Frame: 2299
+47 591 199 233 502
+Alarm: 47
+Frame: 2300
+47 582 199 231 504
+Alarm: 47
+Frame: 2301
+47 571 201 236 504
+Alarm: 47
+Frame: 2302
+47 562 200 241 507
+Alarm: 47
+Frame: 2303
+47 548 200 250 515
+Alarm: 47
+Frame: 2304
+47 540 203 253 515
+Alarm: 47
+Frame: 2305
+47 533 206 258 512
+Alarm: 47
+Frame: 2306
+47 520 208 271 510
+Alarm: 47
+Frame: 2307
+47 505 220 283 498
+Alarm: 47
+Frame: 2308
+47 507 228 279 490
+Alarm: 47
+Frame: 2309
+47 502 230 275 487
+Alarm: 47
+Frame: 2310
+47 501 232 276 485
+Alarm: 47
+Frame: 2311
+47 494 236 278 481
+Alarm: 47
+Frame: 2312
+47 493 245 277 472
+Alarm: 47
+Frame: 2313
+47 490 248 284 469
+Alarm: 47
+Frame: 2314
+47 486 252 291 465
+Alarm: 47
+Frame: 2315
+47 477 253 299 464
+Alarm: 47
+Frame: 2316
+47 476 251 300 466
+Alarm: 47
+Frame: 2317
+47 470 254 304 463
+Alarm: 47
+Frame: 2318
+47 467 263 314 447
+Alarm: 47
+Frame: 2319
+47 446 275 357 434
+Alarm: 47
+Frame: 2320
+47 435 279 378 436
+Alarm: 47
+Frame: 2321
+47 421 280 402 431
+Alarm: 47
+Frame: 2322
+47 417 285 410 429
+Alarm: 47
+Frame: 2323
+47 392 288 380 425
+Alarm: 47
+Frame: 2324
+47 375 287 363 425
+Alarm: 47
+Frame: 2325
+47 367 283 367 428
+Alarm: 47
+Frame: 2326
+47 359 285 396 426
+Alarm: 47
+Frame: 2327
+47 331 293 440 408
+Alarm: 47
+Frame: 2328
+47 329 296 434 407
+Alarm: 47
+Frame: 2329
+47 304 291 452 422
+Alarm: 47
+Frame: 2330
+47 281 302 471 414
+Alarm: 47
+Frame: 2331
+47 260 332 469 385
+Alarm: 47
+Frame: 2332
+47 286 352 442 366
+Alarm: 47
+Frame: 2333
+47 259 354 414 363
+Alarm: 47
+Frame: 2334
+47 236 367 404 343
+Alarm: 47
+Frame: 2335
+47 257 389 360 312
+Alarm: 47
+Frame: 2336
+47 263 399 339 308
+Alarm: 47
+Frame: 2337
+47 266 410 334 291
+Alarm: 47
+Frame: 2338
+47 267 417 336 292
+Alarm: 47
+Frame: 2339
+47 246 435 350 278
+Alarm: 47
+Frame: 2340
+47 223 449 372 266
+Alarm: 47
+Frame: 2341
+47 211 473 385 244
+Alarm: 47
+Frame: 2342
+Alarm:
+Frame: 2343
+Alarm:
+Frame: 2344
+Alarm:
+Frame: 2345
+Alarm:
+Frame: 2346
+Alarm:
+Frame: 2347
+Alarm:
+Frame: 2348
+Alarm:
+Frame: 2349
+Alarm:
+Frame: 2350
+Alarm:
+Frame: 2351
+Alarm:
+Frame: 2352
+Alarm:
+Frame: 2353
+Alarm:
+Frame: 2354
+Alarm:
+Frame: 2355
+Alarm:
+Frame: 2356
+Alarm:
+Frame: 2357
+Alarm:
+Frame: 2358
+Alarm:
+Frame: 2359
+Alarm:
+Frame: 2360
+Alarm:
+Frame: 2361
+Alarm:
+Frame: 2362
+Alarm:
+Frame: 2363
+Alarm:
+Frame: 2364
+Alarm:
+Frame: 2365
+Alarm:
+Frame: 2366
+Alarm:
+Frame: 2367
+Alarm:
+Frame: 2368
+Alarm:
+Frame: 2369
+Alarm:
+Frame: 2370
+Alarm:
+Frame: 2371
+Alarm:
+Frame: 2372
+Alarm:
+Frame: 2373
+Alarm:
+Frame: 2374
+Alarm:
+Frame: 2375
+Alarm:
+Frame: 2376
+Alarm:
+Frame: 2377
+Alarm:
+Frame: 2378
+Alarm:
+Frame: 2379
+Alarm:
+Frame: 2380
+Alarm:
+Frame: 2381
+Alarm:
+Frame: 2382
+Alarm:
+Frame: 2383
+Alarm:
+Frame: 2384
+Alarm:
+Frame: 2385
+Alarm:
+Frame: 2386
+Alarm:
+Frame: 2387
+Alarm:
+Frame: 2388
+Alarm:
+Frame: 2389
+Alarm:
+Frame: 2390
+Alarm:
+Frame: 2391
+Alarm:
+Frame: 2392
+Alarm:
+Frame: 2393
+Alarm:
+Frame: 2394
+Alarm:
+Frame: 2395
+Alarm:
+Frame: 2396
+Alarm:
+Frame: 2397
+Alarm:
+Frame: 2398
+Alarm:
+Frame: 2399
+Alarm:
+Frame: 2400
+Alarm:
+Frame: 2401
+Alarm:
+Frame: 2402
+Alarm:
+Frame: 2403
+Alarm:
+Frame: 2404
+Alarm:
+Frame: 2405
+Alarm:
+Frame: 2406
+Alarm:
+Frame: 2407
+Alarm:
+Frame: 2408
+Alarm:
+Frame: 2409
+Alarm:
+Frame: 2410
+Alarm:
+Frame: 2411
+Alarm:
+Frame: 2412
+Alarm:
+Frame: 2413
+Alarm:
+Frame: 2414
+Alarm:
+Frame: 2415
+Alarm:
+Frame: 2416
+Alarm:
+Frame: 2417
+Alarm:
+Frame: 2418
+Alarm:
+Frame: 2419
+Alarm:
+Frame: 2420
+Alarm:
+Frame: 2421
+Alarm:
+Frame: 2422
+Alarm:
+Frame: 2423
+Alarm:
+Frame: 2424
+Alarm:
+Frame: 2425
+Alarm:
+Frame: 2426
+Alarm:
+Frame: 2427
+Alarm:
+Frame: 2428
+Alarm:
+Frame: 2429
+Alarm:
+Frame: 2430
+Alarm:
+Frame: 2431
+Alarm:
+Frame: 2432
+Alarm:
+Frame: 2433
+Alarm:
+Frame: 2434
+Alarm:
+Frame: 2435
+Alarm:
+Frame: 2436
+Alarm:
+Frame: 2437
+Alarm:
+Frame: 2438
+Alarm:
+Frame: 2439
+Alarm:
+Frame: 2440
+Alarm:
+Frame: 2441
+Alarm:
+Frame: 2442
+Alarm:
+Frame: 2443
+Alarm:
+Frame: 2444
+Alarm:
+Frame: 2445
+Alarm:
+Frame: 2446
+Alarm:
+Frame: 2447
+Alarm:
+Frame: 2448
+Alarm:
+Frame: 2449
+Alarm:
+Frame: 2450
+Alarm:
+Frame: 2451
+Alarm:
+Frame: 2452
+Alarm:
+Frame: 2453
+Alarm:
+Frame: 2454
+Alarm:
+Frame: 2455
+Alarm:
+Frame: 2456
+Alarm:
+Frame: 2457
+Alarm:
+Frame: 2458
+Alarm:
+Frame: 2459
+Alarm:
+Frame: 2460
+Alarm:
+Frame: 2461
+Alarm:
+Frame: 2462
+Alarm:
+Frame: 2463
+Alarm:
+Frame: 2464
+Alarm:
+Frame: 2465
+Alarm:
+Frame: 2466
+Alarm:
+Frame: 2467
+Alarm:
+Frame: 2468
+Alarm:
+Frame: 2469
+Alarm:
+Frame: 2470
+Alarm:
+Frame: 2471
+Alarm:
+Frame: 2472
+Alarm:
+Frame: 2473
+Alarm:
+Frame: 2474
+Alarm:
+Frame: 2475
+Alarm:
+Frame: 2476
+Alarm:
+Frame: 2477
+Alarm:
+Frame: 2478
+Alarm:
+Frame: 2479
+Alarm:
+Frame: 2480
+Alarm:
+Frame: 2481
+Alarm:
+Frame: 2482
+Alarm:
+Frame: 2483
+Alarm:
+Frame: 2484
+Alarm:
+Frame: 2485
+Alarm:
+Frame: 2486
+Alarm:
+Frame: 2487
+Alarm:
+Frame: 2488
+Alarm:
+Frame: 2489
+Alarm:
+Frame: 2490
+Alarm:
+Frame: 2491
+Alarm:
+Frame: 2492
+Alarm:
+Frame: 2493
+Alarm:
+Frame: 2494
+Alarm:
+Frame: 2495
+Alarm:
+Frame: 2496
+Alarm:
+Frame: 2497
+Alarm:
+Frame: 2498
+Alarm:
+Frame: 2499
+Alarm:
+Frame: 2500
+Alarm:
+Frame: 2501
+Alarm:
+Frame: 2502
+Alarm:
+Frame: 2503
+Alarm:
+Frame: 2504
+Alarm:
+Frame: 2505
+Alarm:
+Frame: 2506
+Alarm:
+Frame: 2507
+Alarm:
+Frame: 2508
+Alarm:
+Frame: 2509
+Alarm:
+Frame: 2510
+Alarm:
+Frame: 2511
+Alarm:
+Frame: 2512
+Alarm:
+Frame: 2513
+Alarm:
+Frame: 2514
+Alarm:
+Frame: 2515
+Alarm:
+Frame: 2516
+Alarm:
+Frame: 2517
+Alarm:
+Frame: 2518
+Alarm:
+Frame: 2519
+Alarm:
+Frame: 2520
+Alarm:
+Frame: 2521
+Alarm:
+Frame: 2522
+Alarm:
+Frame: 2523
+Alarm:
+Frame: 2524
+Alarm:
+Frame: 2525
+Alarm:
+Frame: 2526
+Alarm:
+Frame: 2527
+Alarm:
+Frame: 2528
+Alarm:
+Frame: 2529
+Alarm:
+Frame: 2530
+Alarm:
+Frame: 2531
+Alarm:
+Frame: 2532
+Alarm:
+Frame: 2533
+Alarm:
+Frame: 2534
+Alarm:
+Frame: 2535
+Alarm:
+Frame: 2536
+Alarm:
+Frame: 2537
+Alarm:
+Frame: 2538
+Alarm:
+Frame: 2539
+Alarm:
+Frame: 2540
+Alarm:
+Frame: 2541
+Alarm:
+Frame: 2542
+Alarm:
+Frame: 2543
+Alarm:
+Frame: 2544
+Alarm:
+Frame: 2545
+Alarm:
+Frame: 2546
+Alarm:
+Frame: 2547
+Alarm:
+Frame: 2548
+Alarm:
+Frame: 2549
+Alarm:
+Frame: 2550
+Alarm:
+Frame: 2551
+Alarm:
+Frame: 2552
+Alarm:
+Frame: 2553
+Alarm:
+Frame: 2554
+Alarm:
+Frame: 2555
+Alarm:
+Frame: 2556
+Alarm:
+Frame: 2557
+Alarm:
+Frame: 2558
+Alarm:
+Frame: 2559
+Alarm:
+Frame: 2560
+Alarm:
+Frame: 2561
+Alarm:
+Frame: 2562
+Alarm:
+Frame: 2563
+Alarm:
+Frame: 2564
+Alarm:
+Frame: 2565
+Alarm:
+Frame: 2566
+Alarm:
+Frame: 2567
+Alarm:
+Frame: 2568
+Alarm:
+Frame: 2569
+Alarm:
+Frame: 2570
+Alarm:
+Frame: 2571
+Alarm:
+Frame: 2572
+Alarm:
+Frame: 2573
+Alarm:
+Frame: 2574
+Alarm:
+Frame: 2575
+Alarm:
+Frame: 2576
+Alarm:
+Frame: 2577
+Alarm:
+Frame: 2578
+Alarm:
+Frame: 2579
+Alarm:
+Frame: 2580
+Alarm:
+Frame: 2581
+Alarm:
+Frame: 2582
+Alarm:
+Frame: 2583
+Alarm:
+Frame: 2584
+Alarm:
+Frame: 2585
+Alarm:
+Frame: 2586
+Alarm:
+Frame: 2587
+Alarm:
+Frame: 2588
+Alarm:
+Frame: 2589
+Alarm:
+Frame: 2590
+Alarm:
+Frame: 2591
+Alarm:
+Frame: 2592
+Alarm:
+Frame: 2593
+Alarm:
+Frame: 2594
+Alarm:
+Frame: 2595
+Alarm:
+Frame: 2596
+Alarm:
+Frame: 2597
+Alarm:
+Frame: 2598
+Alarm:
+Frame: 2599
+Alarm:
+Frame: 2600
+Alarm:
+Frame: 2601
+Alarm:
+Frame: 2602
+Alarm:
+Frame: 2603
+Alarm:
+Frame: 2604
+Alarm:
+Frame: 2605
+Alarm:
+Frame: 2606
+Alarm:
+Frame: 2607
+Alarm:
+Frame: 2608
+Alarm:
+Frame: 2609
+Alarm:
+Frame: 2610
+Alarm:
+Frame: 2611
+Alarm:
+Frame: 2612
+Alarm:
+Frame: 2613
+Alarm:
+Frame: 2614
+Alarm:
+Frame: 2615
+Alarm:
+Frame: 2616
+Alarm:
+Frame: 2617
+Alarm:
+Frame: 2618
+Alarm:
+Frame: 2619
+Alarm:
+Frame: 2620
+Alarm:
+Frame: 2621
+Alarm:
+Frame: 2622
+Alarm:
+Frame: 2623
+Alarm:
+Frame: 2624
+Alarm:
+Frame: 2625
+Alarm:
+Frame: 2626
+Alarm:
+Frame: 2627
+Alarm:
+Frame: 2628
+Alarm:
+Frame: 2629
+Alarm:
+Frame: 2630
+Alarm:
+Frame: 2631
+Alarm:
+Frame: 2632
+Alarm:
+Frame: 2633
+Alarm:
+Frame: 2634
+Alarm:
+Frame: 2635
+Alarm:
+Frame: 2636
+Alarm:
+Frame: 2637
+Alarm:
+Frame: 2638
+Alarm:
+Frame: 2639
+Alarm:
+Frame: 2640
+Alarm:
+Frame: 2641
+Alarm:
+Frame: 2642
+Alarm:
+Frame: 2643
+Alarm:
+Frame: 2644
+Alarm:
+Frame: 2645
+Alarm:
+Frame: 2646
+Alarm:
+Frame: 2647
+Alarm:
+Frame: 2648
+Alarm:
+Frame: 2649
+Alarm:
+Frame: 2650
+Alarm:
+Frame: 2651
+Alarm:
+Frame: 2652
+Alarm:
+Frame: 2653
+Alarm:
+Frame: 2654
+Alarm:
+Frame: 2655
+Alarm:
+Frame: 2656
+Alarm:
+Frame: 2657
+Alarm:
+Frame: 2658
+Alarm:
+Frame: 2659
+Alarm:
+Frame: 2660
+Alarm:
+Frame: 2661
+Alarm:
+Frame: 2662
+Alarm:
+Frame: 2663
+Alarm:
+Frame: 2664
+Alarm:
+Frame: 2665
+Alarm:
+Frame: 2666
+Alarm:
+Frame: 2667
+Alarm:
+Frame: 2668
+Alarm:
+Frame: 2669
+Alarm:
+Frame: 2670
+Alarm:
+Frame: 2671
+Alarm:
+Frame: 2672
+Alarm:
+Frame: 2673
+Alarm:
+Frame: 2674
+Alarm:
+Frame: 2675
+Alarm:
+Frame: 2676
+Alarm:
+Frame: 2677
+Alarm:
+Frame: 2678
+Alarm:
+Frame: 2679
+Alarm:
+Frame: 2680
+Alarm:
+Frame: 2681
+Alarm:
+Frame: 2682
+Alarm:
+Frame: 2683
+Alarm:
+Frame: 2684
+Alarm:
+Frame: 2685
+Alarm:
+Frame: 2686
+Alarm:
+Frame: 2687
+Alarm:
+Frame: 2688
+Alarm:
+Frame: 2689
+Alarm:
+Frame: 2690
+Alarm:
+Frame: 2691
+Alarm:
+Frame: 2692
+Alarm:
+Frame: 2693
+Alarm:
+Frame: 2694
+Alarm:
+Frame: 2695
+Alarm:
+Frame: 2696
+Alarm:
+Frame: 2697
+Alarm:
+Frame: 2698
+Alarm:
+Frame: 2699
+Alarm:
+Frame: 2700
+Alarm:
+Frame: 2701
+Alarm:
+Frame: 2702
+Alarm:
+Frame: 2703
+Alarm:
+Frame: 2704
+Alarm:
+Frame: 2705
+Alarm:
+Frame: 2706
+Alarm:
+Frame: 2707
+Alarm:
+Frame: 2708
+Alarm:
+Frame: 2709
+Alarm:
+Frame: 2710
+Alarm:
+Frame: 2711
+Alarm:
+Frame: 2712
+Alarm:
+Frame: 2713
+Alarm:
+Frame: 2714
+Alarm:
+Frame: 2715
+Alarm:
+Frame: 2716
+Alarm:
+Frame: 2717
+Alarm:
+Frame: 2718
+Alarm:
+Frame: 2719
+Alarm:
+Frame: 2720
+Alarm:
+Frame: 2721
+Alarm:
+Frame: 2722
+Alarm:
+Frame: 2723
+Alarm:
+Frame: 2724
+Alarm:
+Frame: 2725
+Alarm:
+Frame: 2726
+Alarm:
+Frame: 2727
+Alarm:
+Frame: 2728
+Alarm:
+Frame: 2729
+Alarm:
+Frame: 2730
+Alarm:
+Frame: 2731
+Alarm:
+Frame: 2732
+Alarm:
+Frame: 2733
+Alarm:
+Frame: 2734
+Alarm:
+Frame: 2735
+Alarm:
+Frame: 2736
+Alarm:
+Frame: 2737
+Alarm:
+Frame: 2738
+Alarm:
+Frame: 2739
+Alarm:
+Frame: 2740
+Alarm:
+Frame: 2741
+48 708 38 72 125
+Alarm:
+Frame: 2742
+48 710 38 72 126
+Alarm:
+Frame: 2743
+48 712 38 73 126
+Alarm:
+Frame: 2744
+48 713 37 74 126
+Alarm:
+Frame: 2745
+48 715 36 73 130
+Alarm:
+Frame: 2746
+Alarm:
+Frame: 2747
+Alarm:
+Frame: 2748
+Alarm:
+Frame: 2749
+Alarm:
+Frame: 2750
+Alarm:
+Frame: 2751
+Alarm:
+Frame: 2752
+Alarm:
+Frame: 2753
+49 731 37 69 139
+Alarm:
+Frame: 2754
+49 732 38 69 137
+Alarm:
+Frame: 2755
+49 736 38 70 139
+Alarm:
+Frame: 2756
+49 736 37 69 142
+Alarm:
+Frame: 2757
+49 737 34 70 147
+Alarm:
+Frame: 2758
+49 738 33 70 155
+Alarm:
+Frame: 2759
+49 739 33 71 157
+Alarm:
+Frame: 2760
+49 742 33 69 158
+Alarm:
+Frame: 2761
+49 743 33 68 161
+Alarm:
+Frame: 2762
+49 743 33 68 166
+Alarm:
+Frame: 2763
+49 745 31 66 170
+Alarm:
+Frame: 2764
+49 746 32 65 169
+Alarm:
+Frame: 2765
+49 746 35 65 164
+Alarm:
+Frame: 2766
+49 746 36 64 163
+Alarm:
+Frame: 2767
+49 744 36 64 166
+Alarm:
+Frame: 2768
+49 743 34 66 167
+Alarm:
+Frame: 2769
+49 743 35 67 166
+Alarm:
+Frame: 2770
+49 743 36 65 161
+Alarm:
+Frame: 2771
+49 742 32 66 176
+Alarm:
+Frame: 2772
+49 740 31 67 183
+Alarm:
+Frame: 2773
+49 740 32 65 185
+Alarm:
+Frame: 2774
+49 739 35 65 183
+Alarm:
+Frame: 2775
+49 739 34 65 187
+Alarm:
+Frame: 2776
+49 738 35 66 185
+Alarm:
+Frame: 2777
+49 738 34 66 184
+Alarm:
+Frame: 2778
+49 738 33 64 182
+Alarm:
+Frame: 2779
+49 738 35 64 177
+Alarm:
+Frame: 2780
+49 738 36 62 177
+Alarm:
+Frame: 2781
+49 736 36 63 177
+Alarm:
+Frame: 2782
+49 735 38 64 177
+Alarm:
+Frame: 2783
+49 735 40 64 179
+Alarm:
+Frame: 2784
+49 735 41 64 182
+Alarm:
+Frame: 2785
+49 735 43 64 181
+Alarm:
+Frame: 2786
+49 735 43 64 185
+Alarm:
+Frame: 2787
+49 733 43 66 186
+Alarm:
+Frame: 2788
+49 732 43 69 185
+Alarm:
+Frame: 2789
+49 732 43 68 184
+Alarm:
+Frame: 2790
+49 730 43 69 186
+Alarm:
+Frame: 2791
+49 728 42 69 184
+Alarm:
+Frame: 2792
+49 729 43 69 183
+Alarm:
+Frame: 2793
+49 728 43 71 187
+Alarm:
+Frame: 2794
+49 727 43 72 191
+Alarm:
+Frame: 2795
+49 727 43 74 199
+Alarm:
+Frame: 2796
+49 727 43 75 203
+Alarm:
+Frame: 2797
+49 727 45 75 204
+Alarm:
+Frame: 2798
+49 727 44 75 208
+Alarm:
+Frame: 2799
+49 727 43 75 211
+Alarm:
+Frame: 2800
+49 727 43 77 212
+Alarm:
+Frame: 2801
+49 725 43 79 214
+Alarm:
+Frame: 2802
+49 724 45 80 215
+Alarm:
+Frame: 2803
+49 726 44 78 217
+Alarm:
+Frame: 2804
+49 727 43 77 219
+Alarm:
+Frame: 2805
+49 727 45 79 218
+Alarm:
+Frame: 2806
+49 727 46 80 222
+Alarm:
+Frame: 2807
+49 725 50 82 229
+Alarm:
+Frame: 2808
+49 724 51 83 234
+Alarm:
+Frame: 2809
+49 723 51 84 235
+Alarm:
+Frame: 2810
+49 722 50 85 235
+Alarm:
+Frame: 2811
+49 723 49 86 233
+Alarm:
+Frame: 2812
+49 724 45 86 240
+Alarm:
+Frame: 2813
+49 724 45 88 237
+Alarm:
+Frame: 2814
+49 724 44 87 242
+Alarm:
+Frame: 2815
+49 724 43 88 249
+Alarm:
+Frame: 2816
+49 726 47 86 248
+Alarm:
+Frame: 2817
+49 725 50 89 247
+Alarm:
+Frame: 2818
+49 726 53 89 245
+Alarm:
+Frame: 2819
+49 729 56 90 246
+Alarm:
+Frame: 2820
+49 728 56 96 248
+Alarm:
+Frame: 2821
+49 731 57 95 249
+Alarm:
+Frame: 2822
+49 732 55 96 252
+Alarm:
+Frame: 2823
+49 735 51 96 256
+Alarm:
+Frame: 2824
+49 735 49 97 259
+Alarm:
+Frame: 2825
+49 735 50 97 261
+Alarm:
+Frame: 2826
+49 735 51 97 262
+Alarm:
+Frame: 2827
+49 735 54 95 262
+Alarm:
+Frame: 2828
+49 735 61 92 259
+Alarm:
+Frame: 2829
+49 733 64 95 261
+Alarm:
+Frame: 2830
+49 732 65 98 267
+Alarm:
+Frame: 2831
+49 731 68 96 267
+Alarm:
+Frame: 2832
+49 730 68 98 269
+Alarm:
+Frame: 2833
+49 730 66 97 274
+Alarm:
+Frame: 2834
+49 730 65 98 275
+Alarm:
+Frame: 2835
+49 730 64 98 275
+Alarm:
+Frame: 2836
+49 730 62 97 279
+Alarm:
+Frame: 2837
+49 728 63 100 283
+Alarm:
+Frame: 2838
+49 725 62 103 285
+Alarm:
+Frame: 2839
+49 726 67 102 284
+Alarm:
+Frame: 2840
+49 724 67 104 288
+Alarm:
+Frame: 2841
+49 724 72 106 291
+Alarm:
+Frame: 2842
+49 726 76 103 292
+Alarm:
+Frame: 2843
+49 729 77 104 294
+Alarm:
+Frame: 2844
+49 730 76 104 297
+Alarm:
+Frame: 2845
+49 731 75 105 303
+Alarm:
+Frame: 2846
+49 730 73 105 307
+Alarm:
+Frame: 2847
+49 730 70 106 311
+Alarm:
+Frame: 2848
+49 730 69 108 318
+Alarm:
+Frame: 2849
+49 730 74 109 318
+Alarm:
+Frame: 2850
+49 730 76 111 324
+Alarm:
+Frame: 2851
+49 728 79 117 327
+Alarm:
+Frame: 2852
+49 725 85 120 329
+Alarm:
+Frame: 2853
+49 723 84 122 341
+Alarm:
+Frame: 2854
+49 723 85 122 347
+Alarm:
+Frame: 2855
+49 720 83 124 353
+Alarm:
+Frame: 2856
+49 719 81 124 352
+Alarm:
+Frame: 2857
+49 719 82 127 357
+Alarm:
+Frame: 2858
+49 719 80 128 357
+Alarm:
+Frame: 2859
+49 717 79 130 361
+Alarm:
+Frame: 2860
+49 718 85 127 356
+Alarm:
+Frame: 2861
+49 715 90 131 356
+Alarm:
+Frame: 2862
+49 717 94 133 366
+Alarm:
+Frame: 2863
+49 720 97 134 374
+Alarm:
+Frame: 2864
+49 722 102 131 376
+Alarm:
+Frame: 2865
+49 720 107 138 380
+Alarm:
+Frame: 2866
+49 721 105 138 387
+Alarm:
+Frame: 2867
+49 722 104 140 386
+Alarm:
+Frame: 2868
+49 724 102 139 388
+Alarm:
+Frame: 2869
+49 726 101 141 393
+Alarm:
+Frame: 2870
+49 729 100 142 399
+Alarm:
+Frame: 2871
+49 726 102 146 409
+Alarm:
+Frame: 2872
+49 725 106 149 420
+Alarm:
+Frame: 2873
+49 726 108 147 432
+Alarm:
+Frame: 2874
+49 730 110 146 436
+Alarm:
+Frame: 2875
+49 726 116 153 454
+Alarm:
+Frame: 2876
+49 724 120 156 463
+Alarm:
+Frame: 2877
+49 723 123 159 466
+Alarm:
+Frame: 2878
+49 720 127 160 462
+Alarm:
+Frame: 2879
+49 715 127 166 459
+Alarm:
+Frame: 2880
+49 712 125 172 457
+Alarm:
+Frame: 2881
+49 711 122 175 459
+Alarm:
+Frame: 2882
+49 712 119 175 466
+Alarm:
+Frame: 2883
+49 704 122 187 481
+Alarm:
+Frame: 2884
+49 704 125 190 497
+Alarm:
+Frame: 2885
+49 706 127 190 509
+Alarm:
+Frame: 2886
+49 707 134 189 511
+Alarm:
+Frame: 2887
+49 702 142 196 521
+Alarm:
+Frame: 2888
+49 697 148 204 524
+Alarm:
+Frame: 2889
+49 699 157 204 516
+Alarm:
+Frame: 2890
+49 702 159 203 512
+Alarm:
+Frame: 2891
+49 699 151 209 512
+Alarm:
+Frame: 2892
+49 700 144 210 520
+Alarm:
+Frame: 2893
+49 698 149 213 526
+Alarm:
+Frame: 2894
+49 696 151 218 535
+Alarm:
+Frame: 2895
+49 695 159 225 551
+Alarm:
+Frame: 2896
+49 695 169 225 544
+Alarm:
+Frame: 2897
+49 695 180 227 533
+Alarm:
+Frame: 2898
+49 690 185 232 533
+Alarm:
+Frame: 2899
+49 686 194 228 525
+Alarm:
+Frame: 2900
+49 679 195 232 520
+Alarm:
+Frame: 2901
+49 676 195 234 521
+Alarm:
+Frame: 2902
+49 670 196 238 518
+Alarm:
+Frame: 2903
+49 661 193 250 522
+Alarm:
+Frame: 2904
+49 654 191 260 524
+Alarm:
+Frame: 2905
+49 649 193 267 522
+Alarm:
+Frame: 2906
+49 643 198 274 517
+Alarm:
+Frame: 2907
+49 632 204 279 513
+Alarm:
+Frame: 2908
+49 629 214 280 502
+Alarm:
+Frame: 2909
+49 625 233 280 482
+Alarm: 49
+Frame: 2910
+49 625 247 277 468
+Alarm: 49
+Frame: 2911
+49 620 251 285 464
+Alarm: 49
+Frame: 2912
+49 612 254 290 459
+Alarm: 49
+Frame: 2913
+49 603 256 297 455
+Alarm: 49
+Frame: 2914
+49 596 255 304 456
+Alarm: 49
+Frame: 2915
+49 581 260 315 454
+Alarm: 49
+Frame: 2916
+49 563 257 330 454
+Alarm: 49
+Frame: 2917
+49 549 261 341 451
+Alarm: 49
+Frame: 2918
+49 537 272 348 438
+Alarm: 49
+Frame: 2919
+49 512 291 358 419
+Alarm: 49
+Frame: 2920
+49 493 312 366 398
+Alarm: 49
+Frame: 2921
+49 476 325 368 383
+Alarm: 49
+Frame: 2922
+49 461 342 371 369
+Alarm: 49
+Frame: 2923
+49 430 357 369 355
+Alarm: 49
+Frame: 2924
+49 404 357 374 348
+Alarm: 49
+Frame: 2925
+49 387 362 378 346
+Alarm: 49
+Frame: 2926
+49 360 364 388 345
+Alarm: 49
+Frame: 2927
+49 325 370 391 344
+Alarm: 49
+Frame: 2928
+49 303 378 387 338
+Alarm: 49
+Frame: 2929
+49 280 393 386 324
+Alarm: 49
+Frame: 2930
+49 261 407 367 310
+Alarm: 49
+Frame: 2931
+49 222 445 332 269
+Alarm: 49
+Frame: 2932
+49 181 479 323 228
+Alarm: 49
+Frame: 2933
+49 149 514 290 197
+Alarm: 49
+Frame: 2934
+Alarm:
+Frame: 2935
+Alarm:
+Frame: 2936
+Alarm:
+Frame: 2937
+Alarm:
+Frame: 2938
+Alarm:
+Frame: 2939
+Alarm:
+Frame: 2940
+Alarm:
+Frame: 2941
+Alarm:
+Frame: 2942
+Alarm:
+Frame: 2943
+Alarm:
+Frame: 2944
+Alarm:
+Frame: 2945
+Alarm:
+Frame: 2946
+Alarm:
+Frame: 2947
+Alarm:
+Frame: 2948
+Alarm:
+Frame: 2949
+Alarm:
+Frame: 2950
+Alarm:
+Frame: 2951
+Alarm:
+Frame: 2952
+Alarm:
+Frame: 2953
+Alarm:
+Frame: 2954
+Alarm:
+Frame: 2955
+Alarm:
+Frame: 2956
+Alarm:
+Frame: 2957
+Alarm:
+Frame: 2958
+Alarm:
+Frame: 2959
+Alarm:
+Frame: 2960
+Alarm:
+Frame: 2961
+Alarm:
+Frame: 2962
+Alarm:
+Frame: 2963
+Alarm:
+Frame: 2964
+Alarm:
+Frame: 2965
+Alarm:
+Frame: 2966
+Alarm:
+Frame: 2967
+Alarm:
+Frame: 2968
+Alarm:
+Frame: 2969
+Alarm:
+Frame: 2970
+Alarm:
+Frame: 2971
+Alarm:
+Frame: 2972
+Alarm:
+Frame: 2973
+Alarm:
+Frame: 2974
+Alarm:
+Frame: 2975
+Alarm:
+Frame: 2976
+Alarm:
+Frame: 2977
+Alarm:
+Frame: 2978
+Alarm:
+Frame: 2979
+Alarm:
+Frame: 2980
+Alarm:
+Frame: 2981
+Alarm:
+Frame: 2982
+Alarm:
+Frame: 2983
+Alarm:
+Frame: 2984
+Alarm:
+Frame: 2985
+Alarm:
+Frame: 2986
+Alarm:
+Frame: 2987
+Alarm:
+Frame: 2988
+Alarm:
+Frame: 2989
+Alarm:
+Frame: 2990
+Alarm:
+Frame: 2991
+Alarm:
+Frame: 2992
+Alarm:
+Frame: 2993
+Alarm:
+Frame: 2994
+Alarm:
+Frame: 2995
+Alarm:
+Frame: 2996
+Alarm:
+Frame: 2997
+Alarm:
+Frame: 2998
+Alarm:
+Frame: 2999
+Alarm:
+Frame: 3000
+Alarm:
+Frame: 3001
+Alarm:
+Frame: 3002
+Alarm:
+Frame: 3003
+Alarm:
+Frame: 3004
+Alarm:
+Frame: 3005
+Alarm:
+Frame: 3006
+Alarm:
+Frame: 3007
+Alarm:
+Frame: 3008
+Alarm:
+Frame: 3009
+Alarm:
+Frame: 3010
+Alarm:
+Frame: 3011
+Alarm:
+Frame: 3012
+Alarm:
+Frame: 3013
+Alarm:
+Frame: 3014
+Alarm:
+Frame: 3015
+Alarm:
+Frame: 3016
+Alarm:
+Frame: 3017
+Alarm:
+Frame: 3018
+Alarm:
+Frame: 3019
+Alarm:
+Frame: 3020
+Alarm:
+Frame: 3021
+Alarm:
+Frame: 3022
+Alarm:
+Frame: 3023
+Alarm:
+Frame: 3024
+Alarm:
+Frame: 3025
+Alarm:
+Frame: 3026
+Alarm:
+Frame: 3027
+Alarm:
+Frame: 3028
+Alarm:
+Frame: 3029
+Alarm:
+Frame: 3030
+Alarm:
+Frame: 3031
+Alarm:
+Frame: 3032
+Alarm:
+Frame: 3033
+Alarm:
+Frame: 3034
+Alarm:
+Frame: 3035
+Alarm:
+Frame: 3036
+Alarm:
+Frame: 3037
+Alarm:
+Frame: 3038
+Alarm:
+Frame: 3039
+Alarm:
+Frame: 3040
+Alarm:
+Frame: 3041
+Alarm:
+Frame: 3042
+Alarm:
+Frame: 3043
+Alarm:
+Frame: 3044
+Alarm:
+Frame: 3045
+Alarm:
+Frame: 3046
+Alarm:
+Frame: 3047
+Alarm:
+Frame: 3048
+Alarm:
+Frame: 3049
+Alarm:
+Frame: 3050
+Alarm:
+Frame: 3051
+50 233 456 274 257
+Alarm:
+Frame: 3052
+50 249 436 280 276
+Alarm:
+Frame: 3053
+50 266 407 290 308
+Alarm:
+Frame: 3054
+50 288 395 307 322
+Alarm:
+Frame: 3055
+50 318 371 316 339
+Alarm:
+Frame: 3056
+50 340 356 335 359
+Alarm:
+Frame: 3057
+50 359 346 359 370
+Alarm:
+Frame: 3058
+50 379 342 384 375
+Alarm:
+Frame: 3059
+50 401 332 407 385
+Alarm:
+Frame: 3060
+50 419 321 423 396
+Alarm:
+Frame: 3061
+50 427 311 426 406
+Alarm:
+Frame: 3062
+50 435 297 421 420
+Alarm:
+Frame: 3063
+50 434 280 438 434
+Alarm:
+Frame: 3064
+50 430 273 437 441
+Alarm:
+Frame: 3065
+50 430 271 436 442
+Alarm:
+Frame: 3066
+50 433 275 418 432
+Alarm:
+Frame: 3067
+50 445 273 385 433
+Alarm:
+Frame: 3068
+50 446 260 378 450
+Alarm:
+Frame: 3069
+50 451 254 376 456
+Alarm:
+Frame: 3070
+50 462 250 362 452
+Alarm:
+Frame: 3071
+50 491 230 303 482
+Alarm:
+Frame: 3072
+50 511 230 287 481
+Alarm:
+Frame: 3073
+50 520 231 283 483
+Alarm:
+Frame: 3074
+50 534 228 272 485
+Alarm:
+Frame: 3075
+50 549 224 264 481
+Alarm:
+Frame: 3076
+50 554 224 270 479
+Alarm:
+Frame: 3077
+50 563 223 268 471
+Alarm:
+Frame: 3078
+50 568 217 271 478
+Alarm:
+Frame: 3079
+50 575 206 247 468
+Alarm:
+Frame: 3080
+50 575 195 246 460
+Alarm:
+Frame: 3081
+50 572 187 254 457
+Alarm:
+Frame: 3082
+50 570 185 258 463
+Alarm:
+Frame: 3083
+50 564 180 268 475
+Alarm:
+Frame: 3084
+50 558 180 258 482
+Alarm:
+Frame: 3085
+50 549 179 267 482
+Alarm:
+Frame: 3086
+50 551 176 264 485
+Alarm:
+Frame: 3087
+50 576 172 236 457
+Alarm:
+Frame: 3088
+50 591 175 221 428
+Alarm:
+Frame: 3089
+50 603 170 215 412
+Alarm:
+Frame: 3090
+50 606 165 210 405
+Alarm:
+Frame: 3091
+50 607 154 207 419
+Alarm:
+Frame: 3092
+50 615 149 206 427
+Alarm:
+Frame: 3093
+50 613 149 196 425
+Alarm:
+Frame: 3094
+50 618 154 177 414
+Alarm:
+Frame: 3095
+50 630 151 176 386
+Alarm:
+Frame: 3096
+50 636 149 174 372
+Alarm:
+Frame: 3097
+50 636 145 177 361
+Alarm:
+Frame: 3098
+50 633 144 184 345
+Alarm:
+Frame: 3099
+50 627 137 174 344
+Alarm:
+Frame: 3100
+50 633 138 159 347
+Alarm:
+Frame: 3101
+50 635 136 161 353
+Alarm:
+Frame: 3102
+50 634 137 171 359
+Alarm:
+Frame: 3103
+50 638 134 177 361
+Alarm:
+Frame: 3104
+50 641 133 171 353
+Alarm:
+Frame: 3105
+50 642 138 152 317
+Alarm:
+Frame: 3106
+50 638 139 149 308
+Alarm:
+Frame: 3107
+50 640 137 161 300
+Alarm:
+Frame: 3108
+50 647 136 166 304
+Alarm:
+Frame: 3109
+50 651 140 156 300
+Alarm:
+Frame: 3110
+50 656 144 164 300
+Alarm:
+Frame: 3111
+50 654 148 176 290
+Alarm:
+Frame: 3112
+50 651 151 185 285
+Alarm:
+Frame: 3113
+50 653 141 185 280
+Alarm:
+Frame: 3114
+50 656 137 179 270
+Alarm:
+Frame: 3115
+50 660 126 153 267
+Alarm:
+Frame: 3116
+Alarm:
+Frame: 3117
+Alarm:
+Frame: 3118
+Alarm:
+Frame: 3119
+50 654 108 171 264
+Alarm:
+Frame: 3120
+50 655 108 172 257
+Alarm:
+Frame: 3121
+50 655 107 173 260
+Alarm:
+Frame: 3122
+50 651 108 175 262
+Alarm:
+Frame: 3123
+50 665 102 149 257
+Alarm:
+Frame: 3124
+50 670 102 134 250
+Alarm:
+Frame: 3125
+50 675 102 133 245
+Alarm:
+Frame: 3126
+50 678 100 130 249
+Alarm:
+Frame: 3127
+50 679 102 134 248
+Alarm:
+Frame: 3128
+50 680 100 138 253
+Alarm:
+Frame: 3129
+50 681 102 133 250
+Alarm:
+Frame: 3130
+50 683 100 132 252
+Alarm:
+Frame: 3131
+50 684 98 131 243
+Alarm:
+Frame: 3132
+50 686 93 126 241
+Alarm:
+Frame: 3133
+50 687 92 118 237
+Alarm:
+Frame: 3134
+50 687 90 116 234
+Alarm:
+Frame: 3135
+50 686 87 111 237
+Alarm:
+Frame: 3136
+50 686 87 110 240
+Alarm:
+Frame: 3137
+50 687 85 103 243
+Alarm:
+Frame: 3138
+50 687 86 101 242
+Alarm:
+Frame: 3139
+50 688 86 96 240
+Alarm:
+Frame: 3140
+50 688 85 95 237
+Alarm:
+Frame: 3141
+50 689 81 94 235
+Alarm:
+Frame: 3142
+50 689 75 92 237
+Alarm:
+Frame: 3143
+50 693 74 89 230
+Alarm:
+Frame: 3144
+50 695 73 90 228
+Alarm:
+Frame: 3145
+50 695 73 91 230
+Alarm:
+Frame: 3146
+50 693 72 93 230
+Alarm:
+Frame: 3147
+50 694 73 90 233
+Alarm:
+Frame: 3148
+50 695 76 88 228
+Alarm:
+Frame: 3149
+50 696 77 84 222
+Alarm:
+Frame: 3150
+50 696 75 83 219
+Alarm:
+Frame: 3151
+50 697 73 81 214
+Alarm:
+Frame: 3152
+50 696 73 83 214
+Alarm:
+Frame: 3153
+50 697 72 83 215
+Alarm:
+Frame: 3154
+50 695 72 81 215
+Alarm:
+Frame: 3155
+50 696 73 79 212
+Alarm:
+Frame: 3156
+50 697 74 76 211
+Alarm:
+Frame: 3157
+50 697 73 77 208
+Alarm:
+Frame: 3158
+50 696 72 78 210
+Alarm:
+Frame: 3159
+50 695 68 77 205
+Alarm:
+Frame: 3160
+50 695 67 75 201
+Alarm:
+Frame: 3161
+50 693 67 78 199
+Alarm:
+Frame: 3162
+50 692 67 79 201
+Alarm:
+Frame: 3163
+50 694 65 76 202
+Alarm:
+Frame: 3164
+50 695 64 75 202
+Alarm:
+Frame: 3165
+50 695 64 75 201
+Alarm:
+Frame: 3166
+50 697 64 74 197
+Alarm:
+Frame: 3167
+50 697 62 73 193
+Alarm:
+Frame: 3168
+50 697 63 73 187
+Alarm:
+Frame: 3169
+50 699 64 69 181
+Alarm:
+Frame: 3170
+50 700 64 69 179
+Alarm:
+Frame: 3171
+50 698 60 72 185
+Alarm:
+Frame: 3172
+50 698 57 77 189
+Alarm:
+Frame: 3173
+50 698 58 77 185
+Alarm:
+Frame: 3174
+50 698 58 80 185
+Alarm:
+Frame: 3175
+50 700 59 76 179
+Alarm:
+Frame: 3176
+50 700 59 75 175
+Alarm:
+Frame: 3177
+50 702 59 73 171
+Alarm:
+Frame: 3178
+50 703 55 75 170
+Alarm:
+Frame: 3179
+50 703 52 73 169
+Alarm:
+Frame: 3180
+50 703 49 74 171
+Alarm:
+Frame: 3181
+50 703 50 75 170
+Alarm:
+Frame: 3182
+50 704 50 75 166
+Alarm:
+Frame: 3183
+50 705 51 75 166
+Alarm:
+Frame: 3184
+50 705 51 77 166
+Alarm:
+Frame: 3185
+50 705 51 78 165
+Alarm:
+Frame: 3186
+50 707 49 76 167
+Alarm:
+Frame: 3187
+50 708 47 72 165
+Alarm:
+Frame: 3188
+50 708 44 72 168
+Alarm:
+Frame: 3189
+50 708 43 72 172
+Alarm:
+Frame: 3190
+50 708 43 71 172
+Alarm:
+Frame: 3191
+50 708 45 70 169
+Alarm:
+Frame: 3192
+50 706 46 73 169
+Alarm:
+Frame: 3193
+50 705 46 73 170
+Alarm:
+Frame: 3194
+50 705 46 73 170
+Alarm:
+Frame: 3195
+50 704 46 72 168
+Alarm:
+Frame: 3196
+50 703 46 69 166
+Alarm:
+Frame: 3197
+50 701 44 69 167
+Alarm:
+Frame: 3198
+50 700 43 71 166
+Alarm:
+Frame: 3199
+50 700 43 70 159
+Alarm:
+Frame: 3200
+50 698 43 71 155
+Alarm:
+Frame: 3201
+50 697 45 72 152
+Alarm:
+Frame: 3202
+50 697 46 73 145
+Alarm:
+Frame: 3203
+50 696 46 75 143
+Alarm:
+Frame: 3204
+50 695 46 73 143
+Alarm:
+Frame: 3205
+50 695 46 70 145
+Alarm:
+Frame: 3206
+50 693 46 69 144
+Alarm:
+Frame: 3207
+50 690 44 71 144
+Alarm:
+Frame: 3208
+50 689 42 72 145
+Alarm:
+Frame: 3209
+50 685 42 76 145
+Alarm:
+Frame: 3210
+Alarm:
+Frame: 3211
+Alarm:
+Frame: 3212
+Alarm:
+Frame: 3213
+Alarm:
+Frame: 3214
+Alarm:
+Frame: 3215
+Alarm:
+Frame: 3216
+Alarm:
+Frame: 3217
+Alarm:
+Frame: 3218
+Alarm:
+Frame: 3219
+Alarm:
+Frame: 3220
+Alarm:
+Frame: 3221
+Alarm:
+Frame: 3222
+Alarm:
+Frame: 3223
+Alarm:
+Frame: 3224
+Alarm:
+Frame: 3225
+Alarm:
+Frame: 3226
+Alarm:
+Frame: 3227
+Alarm:
+Frame: 3228
+Alarm:
+Frame: 3229
+Alarm:
+Frame: 3230
+Alarm:
+Frame: 3231
+Alarm:
+Frame: 3232
+Alarm:
+Frame: 3233
+Alarm:
+Frame: 3234
+Alarm:
+Frame: 3235
+Alarm:
+Frame: 3236
+Alarm:
+Frame: 3237
+Alarm:
+Frame: 3238
+Alarm:
+Frame: 3239
+Alarm:
+Frame: 3240
+Alarm:
+Frame: 3241
+Alarm:
+Frame: 3242
+Alarm:
+Frame: 3243
+Alarm:
+Frame: 3244
+Alarm:
+Frame: 3245
+Alarm:
+Frame: 3246
+Alarm:
+Frame: 3247
+Alarm:
+Frame: 3248
+Alarm:
+Frame: 3249
+Alarm:
+Frame: 3250
+Alarm:
+Frame: 3251
+Alarm:
+Frame: 3252
+Alarm:
+Frame: 3253
+Alarm:
+Frame: 3254
+Alarm:
+Frame: 3255
+Alarm:
+Frame: 3256
+Alarm:
+Frame: 3257
+Alarm:
+Frame: 3258
+Alarm:
+Frame: 3259
+Alarm:
+Frame: 3260
+Alarm:
+Frame: 3261
+Alarm:
+Frame: 3262
+Alarm:
+Frame: 3263
+Alarm:
+Frame: 3264
+Alarm:
+Frame: 3265
+Alarm:
+Frame: 3266
+Alarm:
+Frame: 3267
+Alarm:
+Frame: 3268
+Alarm:
+Frame: 3269
+Alarm:
+Frame: 3270
+Alarm:
+Frame: 3271
+Alarm:
+Frame: 3272
+Alarm:
+Frame: 3273
+Alarm:
+Frame: 3274
+Alarm:
+Frame: 3275
+Alarm:
+Frame: 3276
+Alarm:
+Frame: 3277
+Alarm:
+Frame: 3278
+Alarm:
+Frame: 3279
+Alarm:
+Frame: 3280
+Alarm:
+Frame: 3281
+Alarm:
+Frame: 3282
+Alarm:
+Frame: 3283
+Alarm:
+Frame: 3284
+Alarm:
+Frame: 3285
+Alarm:
+Frame: 3286
+Alarm:
+Frame: 3287
+Alarm:
+Frame: 3288
+Alarm:
+Frame: 3289
+Alarm:
+Frame: 3290
+Alarm:
+Frame: 3291
+Alarm:
+Frame: 3292
+Alarm:
+Frame: 3293
+Alarm:
+Frame: 3294
+Alarm:
+Frame: 3295
+Alarm:
+Frame: 3296
+Alarm:
+Frame: 3297
+Alarm:
+Frame: 3298
+Alarm:
+Frame: 3299
+Alarm:
+Frame: 3300
+Alarm:
+Frame: 3301
+Alarm:
+Frame: 3302
+Alarm:
+Frame: 3303
+Alarm:
+Frame: 3304
+Alarm:
+Frame: 3305
+Alarm:
+Frame: 3306
+Alarm:
+Frame: 3307
+Alarm:
+Frame: 3308
+Alarm:
+Frame: 3309
+Alarm:
+Frame: 3310
+Alarm:
+Frame: 3311
+Alarm:
+Frame: 3312
+Alarm:
+Frame: 3313
+Alarm:
+Frame: 3314
+Alarm:
+Frame: 3315
+Alarm:
+Frame: 3316
+Alarm:
+Frame: 3317
+Alarm:
+Frame: 3318
+Alarm:
+Frame: 3319
+Alarm:
+Frame: 3320
+Alarm:
+Frame: 3321
+Alarm:
+Frame: 3322
+Alarm:
+Frame: 3323
+Alarm:
+Frame: 3324
+Alarm:
+Frame: 3325
+Alarm:
+Frame: 3326
+Alarm:
+Frame: 3327
+Alarm:
+Frame: 3328
+Alarm:
+Frame: 3329
+Alarm:
+Frame: 3330
+Alarm:
+Frame: 3331
+Alarm:
+Frame: 3332
+Alarm:
+Frame: 3333
+Alarm:
+Frame: 3334
+Alarm:
+Frame: 3335
+Alarm:
+Frame: 3336
+Alarm:
+Frame: 3337
+Alarm:
+Frame: 3338
+Alarm:
+Frame: 3339
+Alarm:
+Frame: 3340
+Alarm:
+Frame: 3341
+Alarm:
+Frame: 3342
+Alarm:
+Frame: 3343
+Alarm:
+Frame: 3344
+Alarm:
+Frame: 3345
+Alarm:
+Frame: 3346
+Alarm:
+Frame: 3347
+Alarm:
+Frame: 3348
+Alarm:
+Frame: 3349
+Alarm:
+Frame: 3350
+Alarm:
+Frame: 3351
+Alarm:
+Frame: 3352
+Alarm:
+Frame: 3353
+Alarm:
+Frame: 3354
+Alarm:
+Frame: 3355
+Alarm:
+Frame: 3356
+Alarm:
+Frame: 3357
+Alarm:
+Frame: 3358
+Alarm:
+Frame: 3359
+Alarm:
+Frame: 3360
+Alarm:
+Frame: 3361
+Alarm:
+Frame: 3362
+Alarm:
+Frame: 3363
+Alarm:
+Frame: 3364
+Alarm:
+Frame: 3365
+Alarm:
+Frame: 3366
+Alarm:
+Frame: 3367
+Alarm:
+Frame: 3368
+Alarm:
+Frame: 3369
+Alarm:
+Frame: 3370
+Alarm:
+Frame: 3371
+Alarm:
+Frame: 3372
+Alarm:
+Frame: 3373
+Alarm:
+Frame: 3374
+Alarm:
+Frame: 3375
+Alarm:
+Frame: 3376
+Alarm:
+Frame: 3377
+Alarm:
+Frame: 3378
+Alarm:
+Frame: 3379
+Alarm:
+Frame: 3380
+Alarm:
+Frame: 3381
+Alarm:
+Frame: 3382
+Alarm:
+Frame: 3383
+Alarm:
+Frame: 3384
+Alarm:
+Frame: 3385
+Alarm:
+Frame: 3386
+Alarm:
+Frame: 3387
+Alarm:
+Frame: 3388
+Alarm:
+Frame: 3389
+Alarm:
+Frame: 3390
+Alarm:
+Frame: 3391
+Alarm:
+Frame: 3392
+Alarm:
+Frame: 3393
+Alarm:
+Frame: 3394
+Alarm:
+Frame: 3395
+Alarm:
+Frame: 3396
+Alarm:
+Frame: 3397
+Alarm:
+Frame: 3398
+Alarm:
+Frame: 3399
+Alarm:
+Frame: 3400
+Alarm:
+Frame: 3401
+Alarm:
+Frame: 3402
+Alarm:
+Frame: 3403
+Alarm:
+Frame: 3404
+Alarm:
+Frame: 3405
+Alarm:
+Frame: 3406
+Alarm:
+Frame: 3407
+Alarm:
+Frame: 3408
+Alarm:
+Frame: 3409
+Alarm:
+Frame: 3410
+Alarm:
+Frame: 3411
+Alarm:
+Frame: 3412
+Alarm:
+Frame: 3413
+Alarm:
+Frame: 3414
+Alarm:
+Frame: 3415
+Alarm:
+Frame: 3416
+Alarm:
+Frame: 3417
+Alarm:
+Frame: 3418
+Alarm:
+Frame: 3419
+Alarm:
+Frame: 3420
+Alarm:
+Frame: 3421
+Alarm:
+Frame: 3422
+Alarm:
+Frame: 3423
+Alarm:
+Frame: 3424
+Alarm:
+Frame: 3425
+Alarm:
+Frame: 3426
+Alarm:
+Frame: 3427
+Alarm:
+Frame: 3428
+Alarm:
+Frame: 3429
+Alarm:
+Frame: 3430
+Alarm:
+Frame: 3431
+Alarm:
+Frame: 3432
+Alarm:
+Frame: 3433
+Alarm:
+Frame: 3434
+Alarm:
+Frame: 3435
+Alarm:
+Frame: 3436
+Alarm:
+Frame: 3437
+Alarm:
+Frame: 3438
+Alarm:
+Frame: 3439
+Alarm:
+Frame: 3440
+Alarm:
+Frame: 3441
+Alarm:
+Frame: 3442
+Alarm:
+Frame: 3443
+Alarm:
+Frame: 3444
+Alarm:
+Frame: 3445
+Alarm:
+Frame: 3446
+Alarm:
+Frame: 3447
+Alarm:
+Frame: 3448
+Alarm:
+Frame: 3449
+Alarm:
+Frame: 3450
+Alarm:
+Frame: 3451
+Alarm:
+Frame: 3452
+Alarm:
+Frame: 3453
+Alarm:
+Frame: 3454
+Alarm:
+Frame: 3455
+Alarm:
+Frame: 3456
+Alarm:
+Frame: 3457
+Alarm:
+Frame: 3458
+Alarm:
+Frame: 3459
+Alarm:
+Frame: 3460
+Alarm:
+Frame: 3461
+Alarm:
+Frame: 3462
+Alarm:
+Frame: 3463
+Alarm:
+Frame: 3464
+Alarm:
+Frame: 3465
+Alarm:
+Frame: 3466
+Alarm:
+Frame: 3467
+Alarm:
+Frame: 3468
+Alarm:
+Frame: 3469
+Alarm:
+Frame: 3470
+Alarm:
+Frame: 3471
+Alarm:
+Frame: 3472
+Alarm:
+Frame: 3473
+Alarm:
+Frame: 3474
+Alarm:
+Frame: 3475
+Alarm:
+Frame: 3476
+Alarm:
+Frame: 3477
+Alarm:
+Frame: 3478
+Alarm:
+Frame: 3479
+Alarm:
+Frame: 3480
+Alarm:
+Frame: 3481
+Alarm:
+Frame: 3482
+Alarm:
+Frame: 3483
+Alarm:
+Frame: 3484
+Alarm:
+Frame: 3485
+Alarm:
+Frame: 3486
+Alarm:
+Frame: 3487
+Alarm:
+Frame: 3488
+Alarm:
+Frame: 3489
+Alarm:
+Frame: 3490
+Alarm:
+Frame: 3491
+Alarm:
+Frame: 3492
+Alarm:
+Frame: 3493
+Alarm:
+Frame: 3494
+Alarm:
+Frame: 3495
+Alarm:
+Frame: 3496
+Alarm:
+Frame: 3497
+Alarm:
+Frame: 3498
+Alarm:
+Frame: 3499
+Alarm:
+Frame: 3500
+Alarm:
+Frame: 3501
+Alarm:
+Frame: 3502
+Alarm:
+Frame: 3503
+Alarm:
+Frame: 3504
+Alarm:
+Frame: 3505
+Alarm:
+Frame: 3506
+Alarm:
+Frame: 3507
+Alarm:
+Frame: 3508
+Alarm:
+Frame: 3509
+Alarm:
+Frame: 3510
+Alarm:
+Frame: 3511
+Alarm:
+Frame: 3512
+Alarm:
+Frame: 3513
+Alarm:
+Frame: 3514
+Alarm:
+Frame: 3515
+Alarm:
+Frame: 3516
+Alarm:
+Frame: 3517
+Alarm:
+Frame: 3518
+Alarm:
+Frame: 3519
+Alarm:
+Frame: 3520
+Alarm:
+Frame: 3521
+Alarm:
+Frame: 3522
+Alarm:
+Frame: 3523
+Alarm:
+Frame: 3524
+Alarm:
+Frame: 3525
+Alarm:
+Frame: 3526
+Alarm:
+Frame: 3527
+Alarm:
+Frame: 3528
+Alarm:
+Frame: 3529
+Alarm:
+Frame: 3530
+Alarm:
+Frame: 3531
+Alarm:
+Frame: 3532
+Alarm:
+Frame: 3533
+Alarm:
+Frame: 3534
+Alarm:
+Frame: 3535
+Alarm:
+Frame: 3536
+Alarm:
+Frame: 3537
+Alarm:
+Frame: 3538
+Alarm:
+Frame: 3539
+Alarm:
+Frame: 3540
+Alarm:
+Frame: 3541
+Alarm:
+Frame: 3542
+Alarm:
+Frame: 3543
+Alarm:
+Frame: 3544
+Alarm:
+Frame: 3545
+Alarm:
+Frame: 3546
+Alarm:
+Frame: 3547
+Alarm:
+Frame: 3548
+Alarm:
+Frame: 3549
+Alarm:
+Frame: 3550
+Alarm:
+Frame: 3551
+Alarm:
+Frame: 3552
+Alarm:
+Frame: 3553
+Alarm:
+Frame: 3554
+Alarm:
+Frame: 3555
+Alarm:
+Frame: 3556
+Alarm:
+Frame: 3557
+Alarm:
+Frame: 3558
+Alarm:
+Frame: 3559
+Alarm:
+Frame: 3560
+Alarm:
+Frame: 3561
+Alarm:
+Frame: 3562
+Alarm:
+Frame: 3563
+Alarm:
+Frame: 3564
+Alarm:
+Frame: 3565
+Alarm:
+Frame: 3566
+Alarm:
+Frame: 3567
+Alarm:
+Frame: 3568
+Alarm:
+Frame: 3569
+Alarm:
+Frame: 3570
+Alarm:
+Frame: 3571
+Alarm:
+Frame: 3572
+Alarm:
+Frame: 3573
+Alarm:
+Frame: 3574
+Alarm:
+Frame: 3575
+Alarm:
+Frame: 3576
+Alarm:
+Frame: 3577
+Alarm:
+Frame: 3578
+Alarm:
+Frame: 3579
+Alarm:
+Frame: 3580
+Alarm:
+Frame: 3581
+Alarm:
+Frame: 3582
+Alarm:
+Frame: 3583
+Alarm:
+Frame: 3584
+Alarm:
+Frame: 3585
+Alarm:
+Frame: 3586
+Alarm:
+Frame: 3587
+Alarm:
+Frame: 3588
+Alarm:
+Frame: 3589
+Alarm:
+Frame: 3590
+Alarm:
+Frame: 3591
+Alarm:
+Frame: 3592
+Alarm:
+Frame: 3593
+Alarm:
+Frame: 3594
+Alarm:
+Frame: 3595
+Alarm:
+Frame: 3596
+Alarm:
+Frame: 3597
+Alarm:
+Frame: 3598
+Alarm:
+Frame: 3599
+Alarm:
+Frame: 3600
+Alarm:
+Frame: 3601
+Alarm:
+Frame: 3602
+51 40 550 178 167
+Alarm:
+Frame: 3603
+51 85 536 202 181
+Alarm:
+Frame: 3604
+51 111 527 225 190
+Alarm:
+Frame: 3605
+51 127 515 236 202
+Alarm:
+Frame: 3606
+51 157 499 272 213
+Alarm:
+Frame: 3607
+51 186 472 288 240
+Alarm:
+Frame: 3608
+51 206 447 316 267
+Alarm:
+Frame: 3609
+51 224 426 333 288
+Alarm:
+Frame: 3610
+51 246 406 343 310
+Alarm:
+Frame: 3611
+51 266 387 358 330
+Alarm:
+Frame: 3612
+51 288 379 369 333
+Alarm:
+Frame: 3613
+51 300 371 379 337
+Alarm:
+Frame: 3614
+51 307 366 394 348
+Alarm:
+Frame: 3615
+51 338 360 388 356
+Alarm:
+Frame: 3616
+51 348 350 397 363
+Alarm:
+Frame: 3617
+51 356 341 400 375
+Alarm:
+Frame: 3618
+51 364 330 397 387
+Alarm:
+Frame: 3619
+51 378 307 390 403
+Alarm:
+Frame: 3620
+51 388 291 381 419
+Alarm:
+Frame: 3621
+51 398 279 371 431
+Alarm:
+Frame: 3622
+51 405 278 366 430
+Alarm:
+Frame: 3623
+51 417 273 347 432
+Alarm:
+Frame: 3624
+51 423 272 338 433
+Alarm:
+Frame: 3625
+51 433 275 327 427
+Alarm:
+Frame: 3626
+51 445 277 317 428
+Alarm:
+Frame: 3627
+51 465 268 306 437
+Alarm:
+Frame: 3628
+51 479 261 294 452
+Alarm:
+Frame: 3629
+51 487 255 291 461
+Alarm:
+Frame: 3630
+51 483 245 299 472
+Alarm:
+Frame: 3631
+51 499 232 296 486
+Alarm:
+Frame: 3632
+51 507 228 294 490
+Alarm:
+Frame: 3633
+51 511 223 297 495
+Alarm:
+Frame: 3634
+51 516 220 300 497
+Alarm:
+Frame: 3635
+51 526 217 292 500
+Alarm:
+Frame: 3636
+51 533 215 286 502
+Alarm:
+Frame: 3637
+51 537 209 282 508
+Alarm:
+Frame: 3638
+51 543 205 273 512
+Alarm:
+Frame: 3639
+51 552 195 263 522
+Alarm:
+Frame: 3640
+51 558 188 250 529
+Alarm:
+Frame: 3641
+51 563 184 244 530
+Alarm:
+Frame: 3642
+51 567 180 239 534
+Alarm:
+Frame: 3643
+51 573 173 235 540
+Alarm:
+Frame: 3644
+51 578 163 231 542
+Alarm:
+Frame: 3645
+51 584 170 224 532
+Alarm:
+Frame: 3646
+51 586 173 225 526
+Alarm:
+Frame: 3647
+51 596 172 219 516
+Alarm:
+Frame: 3648
+51 603 168 219 519
+Alarm: 51
+Frame: 3649
+51 608 163 219 515
+Alarm: 51
+Frame: 3650
+51 611 156 223 505
+Alarm: 51
+Frame: 3651
+51 618 150 226 492
+Alarm: 51
+Frame: 3652
+51 624 146 225 482
+Alarm: 51
+Frame: 3653
+51 629 143 218 480
+Alarm: 51
+Frame: 3654
+51 632 139 216 484
+Alarm: 51
+Frame: 3655
+51 639 142 207 478
+Alarm: 51
+Frame: 3656
+51 644 143 202 473
+Alarm: 51
+Frame: 3657
+51 649 145 196 470
+Alarm: 51
+Frame: 3658
+51 649 138 193 479
+Alarm: 51
+Frame: 3659
+51 652 134 186 466
+Alarm: 51
+Frame: 3660
+51 656 135 177 440
+Alarm: 51
+Frame: 3661
+51 654 128 179 435
+Alarm: 51
+Frame: 3662
+51 656 123 179 433
+Alarm: 51
+Frame: 3663
+51 663 121 171 422
+Alarm: 51
+Frame: 3664
+51 665 116 172 422
+Alarm: 51
+Frame: 3665
+51 666 116 170 419
+Alarm: 51
+Frame: 3666
+51 668 119 170 415
+Alarm: 51
+Frame: 3667
+51 669 122 168 413
+Alarm: 51
+Frame: 3668
+51 674 125 162 405
+Alarm: 51
+Frame: 3669
+51 678 122 160 405
+Alarm: 51
+Frame: 3670
+51 681 117 158 402
+Alarm: 51
+Frame: 3671
+51 688 108 153 387
+Alarm: 51
+Frame: 3672
+51 690 103 153 381
+Alarm: 51
+Frame: 3673
+51 694 100 145 380
+Alarm:
+Frame: 3674
+51 699 97 138 382
+Alarm:
+Frame: 3675
+51 703 98 136 375
+Alarm:
+Frame: 3676
+51 705 102 134 362
+Alarm: 51
+Frame: 3677
+51 706 106 133 346
+Alarm: 51
+Frame: 3678
+51 708 108 129 342
+Alarm: 51
+Frame: 3679
+51 709 106 127 336
+Alarm: 51
+Frame: 3680
+51 711 105 123 329
+Alarm: 51
+Frame: 3681
+51 704 105 125 326
+Alarm: 51
+Frame: 3682
+51 698 105 128 323
+Alarm: 51
+Frame: 3683
+51 696 101 129 325
+Alarm: 51
+Frame: 3684
+51 696 96 127 327
+Alarm:
+Frame: 3685
+51 697 93 127 328
+Alarm:
+Frame: 3686
+51 694 94 134 327
+Alarm:
+Frame: 3687
+51 693 94 139 323
+Alarm:
+Frame: 3688
+51 696 91 135 326
+Alarm:
+Frame: 3689
+51 701 88 132 326
+Alarm:
+Frame: 3690
+51 708 87 126 323
+Alarm:
+Frame: 3691
+51 716 81 117 316
+Alarm:
+Frame: 3692
+51 719 79 113 309
+Alarm:
+Frame: 3693
+51 722 77 112 305
+Alarm:
+Frame: 3694
+51 723 74 109 301
+Alarm:
+Frame: 3695
+51 723 70 111 303
+Alarm:
+Frame: 3696
+51 723 68 109 304
+Alarm:
+Frame: 3697
+51 724 68 105 303
+Alarm:
+Frame: 3698
+51 724 68 104 301
+Alarm:
+Frame: 3699
+51 726 68 104 297
+Alarm:
+Frame: 3700
+51 729 71 100 290
+Alarm:
+Frame: 3701
+51 730 69 98 290
+Alarm:
+Frame: 3702
+51 726 69 102 286
+Alarm:
+Frame: 3703
+51 729 65 99 283
+Alarm:
+Frame: 3704
+51 730 62 100 284
+Alarm:
+Frame: 3705
+51 730 57 101 291
+Alarm:
+Frame: 3706
+51 732 61 99 286
+Alarm:
+Frame: 3707
+51 732 63 99 278
+Alarm:
+Frame: 3708
+Alarm:
+Frame: 3709
+Alarm:
+Frame: 3710
+Alarm:
+Frame: 3711
+Alarm:
+Frame: 3712
+Alarm:
+Frame: 3713
+52 745 67 91 256
+Alarm:
+Frame: 3714
+52 746 62 90 259
+Alarm:
+Frame: 3715
+52 746 59 89 258
+Alarm:
+Frame: 3716
+52 746 59 88 255
+Alarm:
+Frame: 3717
+52 747 56 87 259
+Alarm:
+Frame: 3718
+52 748 54 86 260
+Alarm:
+Frame: 3719
+52 752 54 82 257
+Alarm:
+Frame: 3720
+52 755 55 79 252
+Alarm:
+Frame: 3721
+52 753 54 81 252
+Alarm:
+Frame: 3722
+52 750 54 84 248
+Alarm:
+Frame: 3723
+52 747 54 87 244
+Alarm:
+Frame: 3724
+52 746 52 86 248
+Alarm:
+Frame: 3725
+52 747 47 86 255
+Alarm:
+Frame: 3726
+52 750 49 84 252
+Alarm:
+Frame: 3727
+52 751 50 83 251
+Alarm:
+Frame: 3728
+52 749 51 83 248
+Alarm:
+Frame: 3729
+52 750 51 81 245
+Alarm:
+Frame: 3730
+52 753 49 78 247
+Alarm:
+Frame: 3731
+52 757 53 74 235
+Alarm:
+Frame: 3732
+52 759 54 72 233
+Alarm:
+Frame: 3733
+52 760 54 73 227
+Alarm:
+Frame: 3734
+52 758 54 77 224
+Alarm:
+Frame: 3735
+52 757 48 77 227
+Alarm:
+Frame: 3736
+52 756 46 78 228
+Alarm:
+Frame: 3737
+52 756 46 76 226
+Alarm:
+Frame: 3738
+52 756 49 75 222
+Alarm:
+Frame: 3739
+52 756 45 75 218
+Alarm:
+Frame: 3740
+52 756 45 75 215
+Alarm:
+Frame: 3741
+52 756 43 75 210
+Alarm:
+Frame: 3742
+52 755 41 74 212
+Alarm:
+Frame: 3743
+52 752 39 76 216
+Alarm:
+Frame: 3744
+52 749 40 79 218
+Alarm:
+Frame: 3745
+52 748 40 79 211
+Alarm:
+Frame: 3746
+52 748 38 78 210
+Alarm:
+Frame: 3747
+52 746 38 80 208
+Alarm:
+Frame: 3748
+52 744 38 81 206
+Alarm:
+Frame: 3749
+52 743 40 80 203
+Alarm:
+Frame: 3750
+52 743 41 78 201
+Alarm:
+Frame: 3751
+52 746 41 76 198
+Alarm:
+Frame: 3752
+52 749 41 74 200
+Alarm:
+Frame: 3753
+52 751 41 74 200
+Alarm:
+Frame: 3754
+52 753 47 71 190
+Alarm:
+Frame: 3755
+52 754 49 69 182
+Alarm:
+Frame: 3756
+Alarm:
+Frame: 3757
+Alarm:
+Frame: 3758
+Alarm:
+Frame: 3759
+Alarm:
+Frame: 3760
+Alarm:
+Frame: 3761
+Alarm:
+Frame: 3762
+53 748 47 70 176
+Alarm:
+Frame: 3763
+53 748 44 70 180
+Alarm:
+Frame: 3764
+53 747 42 71 180
+Alarm:
+Frame: 3765
+53 746 42 68 177
+Alarm:
+Frame: 3766
+53 744 41 68 179
+Alarm:
+Frame: 3767
+53 743 41 65 178
+Alarm:
+Frame: 3768
+53 740 41 67 176
+Alarm:
+Frame: 3769
+53 740 39 67 177
+Alarm:
+Frame: 3770
+53 740 36 67 180
+Alarm:
+Frame: 3771
+53 738 36 67 183
+Alarm:
+Frame: 3772
+53 735 36 69 187
+Alarm:
+Frame: 3773
+53 735 36 69 188
+Alarm:
+Frame: 3774
+53 735 36 69 186
+Alarm:
+Frame: 3775
+53 738 37 66 179
+Alarm:
+Frame: 3776
+53 738 38 66 172
+Alarm:
+Frame: 3777
+53 738 38 65 164
+Alarm:
+Frame: 3778
+53 738 37 66 161
+Alarm:
+Frame: 3779
+53 738 36 64 162
+Alarm:
+Frame: 3780
+53 738 36 64 158
+Alarm:
+Frame: 3781
+53 738 37 64 159
+Alarm:
+Frame: 3782
+53 738 38 62 155
+Alarm:
+Frame: 3783
+53 736 38 61 158
+Alarm:
+Frame: 3784
+53 735 40 61 157
+Alarm:
+Frame: 3785
+53 731 39 59 157
+Alarm:
+Frame: 3786
+53 730 38 62 157
+Alarm:
+Frame: 3787
+53 725 37 64 158
+Alarm:
+Frame: 3788
+53 723 37 64 154
+Alarm:
+Frame: 3789
+53 720 38 66 152
+Alarm:
+Frame: 3790
+53 717 38 66 149
+Alarm:
+Frame: 3791
+53 710 37 70 148
+Alarm:
+Frame: 3792
+53 706 38 71 143
+Alarm:
+Frame: 3793
+53 705 38 70 139
+Alarm:
+Frame: 3794
+53 703 40 69 139
+Alarm:
+Frame: 3795
+53 702 41 66 136
+Alarm:
+Frame: 3796
+53 702 41 62 136
+Alarm:
+Frame: 3797
+53 702 43 60 136
+Alarm:
+Frame: 3798
+53 702 42 56 138
+Alarm:
+Frame: 3799
+53 700 41 56 135
+Alarm:
+Frame: 3800
+Alarm:
+Frame: 3801
+Alarm:
+Frame: 3802
+Alarm:
+Frame: 3803
+Alarm:
+Frame: 3804
+Alarm:
+Frame: 3805
+Alarm:
+Frame: 3806
+Alarm:
+Frame: 3807
+Alarm:
+Frame: 3808
+Alarm:
+Frame: 3809
+Alarm:
+Frame: 3810
+Alarm:
+Frame: 3811
+Alarm:
+Frame: 3812
+Alarm:
+Frame: 3813
+Alarm:
+Frame: 3814
+Alarm:
+Frame: 3815
+Alarm:
+Frame: 3816
+Alarm:
+Frame: 3817
+Alarm:
+Frame: 3818
+Alarm:
+Frame: 3819
+Alarm:
+Frame: 3820
+Alarm:
+Frame: 3821
+Alarm:
+Frame: 3822
+Alarm:
+Frame: 3823
+Alarm:
+Frame: 3824
+Alarm:
+Frame: 3825
+Alarm:
+Frame: 3826
+Alarm:
+Frame: 3827
+Alarm:
+Frame: 3828
+Alarm:
+Frame: 3829
+Alarm:
+Frame: 3830
+Alarm:
+Frame: 3831
+Alarm:
+Frame: 3832
+Alarm:
+Frame: 3833
+Alarm:
+Frame: 3834
+Alarm:
+Frame: 3835
+Alarm:
+Frame: 3836
+Alarm:
+Frame: 3837
+Alarm:
+Frame: 3838
+Alarm:
+Frame: 3839
+Alarm:
+Frame: 3840
+Alarm:
+Frame: 3841
+Alarm:
+Frame: 3842
+Alarm:
+Frame: 3843
+Alarm:
+Frame: 3844
+Alarm:
+Frame: 3845
+Alarm:
+Frame: 3846
+Alarm:
+Frame: 3847
+Alarm:
+Frame: 3848
+Alarm:
+Frame: 3849
+Alarm:
+Frame: 3850
+Alarm:
+Frame: 3851
+Alarm:
+Frame: 3852
+Alarm:
+Frame: 3853
+Alarm:
+Frame: 3854
+Alarm:
+Frame: 3855
+Alarm:
+Frame: 3856
+Alarm:
+Frame: 3857
+Alarm:
+Frame: 3858
+Alarm:
+Frame: 3859
+Alarm:
+Frame: 3860
+Alarm:
+Frame: 3861
+Alarm:
+Frame: 3862
+Alarm:
+Frame: 3863
+Alarm:
+Frame: 3864
+Alarm:
+Frame: 3865
+Alarm:
+Frame: 3866
+Alarm:
+Frame: 3867
+Alarm:
+Frame: 3868
+Alarm:
+Frame: 3869
+Alarm:
+Frame: 3870
+Alarm:
+Frame: 3871
+Alarm:
+Frame: 3872
+Alarm:
+Frame: 3873
+Alarm:
+Frame: 3874
+Alarm:
+Frame: 3875
+Alarm:
+Frame: 3876
+Alarm:
+Frame: 3877
+Alarm:
+Frame: 3878
+Alarm:
+Frame: 3879
+Alarm:
+Frame: 3880
+Alarm:
+Frame: 3881
+Alarm:
+Frame: 3882
+Alarm:
+Frame: 3883
+Alarm:
+Frame: 3884
+Alarm:
+Frame: 3885
+Alarm:
+Frame: 3886
+Alarm:
+Frame: 3887
+Alarm:
+Frame: 3888
+Alarm:
+Frame: 3889
+Alarm:
+Frame: 3890
+Alarm:
+Frame: 3891
+Alarm:
+Frame: 3892
+Alarm:
+Frame: 3893
+Alarm:
+Frame: 3894
+Alarm:
+Frame: 3895
+Alarm:
+Frame: 3896
+Alarm:
+Frame: 3897
+Alarm:
+Frame: 3898
+Alarm:
+Frame: 3899
+Alarm:
+Frame: 3900
+Alarm:
+Frame: 3901
+Alarm:
+Frame: 3902
+Alarm:
+Frame: 3903
+Alarm:
+Frame: 3904
+Alarm:
+Frame: 3905
+Alarm:
+Frame: 3906
+Alarm:
+Frame: 3907
+Alarm:
+Frame: 3908
+Alarm:
+Frame: 3909
+Alarm:
+Frame: 3910
+Alarm:
+Frame: 3911
+Alarm:
+Frame: 3912
+Alarm:
+Frame: 3913
+Alarm:
+Frame: 3914
+Alarm:
+Frame: 3915
+Alarm:
+Frame: 3916
+Alarm:
+Frame: 3917
+Alarm:
+Frame: 3918
+Alarm:
+Frame: 3919
+Alarm:
+Frame: 3920
+Alarm:
+Frame: 3921
+Alarm:
+Frame: 3922
+Alarm:
+Frame: 3923
+Alarm:
+Frame: 3924
+Alarm:
+Frame: 3925
+Alarm:
+Frame: 3926
+Alarm:
+Frame: 3927
+Alarm:
+Frame: 3928
+Alarm:
+Frame: 3929
+Alarm:
+Frame: 3930
+Alarm:
+Frame: 3931
+Alarm:
+Frame: 3932
+Alarm:
+Frame: 3933
+Alarm:
+Frame: 3934
+Alarm:
+Frame: 3935
+Alarm:
+Frame: 3936
+Alarm:
+Frame: 3937
+Alarm:
+Frame: 3938
+Alarm:
+Frame: 3939
+Alarm:
+Frame: 3940
+Alarm:
+Frame: 3941
+Alarm:
+Frame: 3942
+Alarm:
+Frame: 3943
+Alarm:
+Frame: 3944
+Alarm:
+Frame: 3945
+Alarm:
+Frame: 3946
+Alarm:
+Frame: 3947
+Alarm:
+Frame: 3948
+Alarm:
+Frame: 3949
+Alarm:
+Frame: 3950
+Alarm:
+Frame: 3951
+Alarm:
+Frame: 3952
+Alarm:
+Frame: 3953
+Alarm:
+Frame: 3954
+Alarm:
+Frame: 3955
+Alarm:
+Frame: 3956
+Alarm:
+Frame: 3957
+Alarm:
+Frame: 3958
+Alarm:
+Frame: 3959
+Alarm:
+Frame: 3960
+Alarm:
+Frame: 3961
+Alarm:
+Frame: 3962
+Alarm:
+Frame: 3963
+Alarm:
+Frame: 3964
+Alarm:
+Frame: 3965
+Alarm:
+Frame: 3966
+Alarm:
+Frame: 3967
+Alarm:
+Frame: 3968
+Alarm:
+Frame: 3969
+Alarm:
+Frame: 3970
+Alarm:
+Frame: 3971
+Alarm:
+Frame: 3972
+Alarm:
+Frame: 3973
+Alarm:
+Frame: 3974
+Alarm:
+Frame: 3975
+Alarm:
+Frame: 3976
+Alarm:
+Frame: 3977
+Alarm:
+Frame: 3978
+Alarm:
+Frame: 3979
+Alarm:
+Frame: 3980
+Alarm:
+Frame: 3981
+Alarm:
+Frame: 3982
+Alarm:
+Frame: 3983
+Alarm:
+Frame: 3984
+Alarm:
+Frame: 3985
+Alarm:
+Frame: 3986
+Alarm:
+Frame: 3987
+Alarm:
+Frame: 3988
+Alarm:
+Frame: 3989
+Alarm:
+Frame: 3990
+Alarm:
+Frame: 3991
+Alarm:
+Frame: 3992
+Alarm:
+Frame: 3993
+Alarm:
+Frame: 3994
+Alarm:
+Frame: 3995
+Alarm:
+Frame: 3996
+Alarm:
+Frame: 3997
+Alarm:
+Frame: 3998
+Alarm:
+Frame: 3999
+Alarm:
+Frame: 4000
+Alarm:
+Frame: 4001
+Alarm:
+Frame: 4002
+Alarm:
+Frame: 4003
+Alarm:
+Frame: 4004
+Alarm:
+Frame: 4005
+Alarm:
+Frame: 4006
+Alarm:
+Frame: 4007
+Alarm:
+Frame: 4008
+Alarm:
+Frame: 4009
+Alarm:
+Frame: 4010
+Alarm:
+Frame: 4011
+Alarm:
+Frame: 4012
+Alarm:
+Frame: 4013
+Alarm:
+Frame: 4014
+Alarm:
+Frame: 4015
+Alarm:
+Frame: 4016
+Alarm:
+Frame: 4017
+Alarm:
+Frame: 4018
+Alarm:

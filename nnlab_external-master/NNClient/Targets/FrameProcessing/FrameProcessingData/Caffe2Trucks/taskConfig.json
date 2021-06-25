@@ -1,0 +1,10 @@
+{
+    "module": "TSSM",
+    "task": "Truck",
+    "deviceVendor": "NVIDIA",
+    "input_image_width": 2464,
+    "input_image_height": 1368,
+    "net_width": 640,
+    "net_height": 352,
+    "device": "0"
+}

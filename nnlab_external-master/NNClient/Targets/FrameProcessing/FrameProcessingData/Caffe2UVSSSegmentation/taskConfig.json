@@ -1,0 +1,7 @@
+{
+    "module": "Auto",
+    "task": "UVSSSegmentation",
+    "deviceVendor": "NVIDIA",
+    "min_size": 384,
+    "device": "0"
+}

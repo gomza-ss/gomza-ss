@@ -1,0 +1,6 @@
+{
+    "videoPath": "//fs/nnlab/nm_resource/Images/iv_classification/%d.jpg",
+    "connectStandardStreams": true,
+    "displayProcessTime": true,
+    "onFrameCommandOutputType": "classification"
+}

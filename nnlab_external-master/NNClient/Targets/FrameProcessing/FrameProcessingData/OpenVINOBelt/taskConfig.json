@@ -1,0 +1,18 @@
+{
+    "module": "Belt",
+    "task": "BeltDet",
+    "deviceVendor": "Intel",
+    "input_image_width": 600,
+    "input_image_height": 500,
+    "passenger_threshold": 0.98,
+    "driver_threshold": 0.98,
+    "zones": [
+        {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+        }
+    ],
+    "device": "CPU"
+}

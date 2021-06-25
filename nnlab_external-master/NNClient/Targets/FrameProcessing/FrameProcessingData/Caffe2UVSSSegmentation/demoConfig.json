@@ -1,0 +1,6 @@
+{
+    "videoPath": "//fs/nnlab/nm_resource/Images/uvss/AA5389OC_ref.jpg",
+    "connectStandardStreams": true,
+    "displayProcessTime": true,
+    "onFrameCommandOutputType": "semseg"
+}

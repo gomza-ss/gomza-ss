@@ -1,0 +1,8 @@
+{
+    "module": "Vehicle",
+    "task": "VehicleDet",
+    "deviceVendor": "NVIDIA",
+    "input_image_width": 1920,
+    "input_image_height": 1080,
+    "device": "0"
+}

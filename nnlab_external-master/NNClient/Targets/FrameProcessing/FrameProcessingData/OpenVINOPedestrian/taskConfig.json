@@ -1,0 +1,9 @@
+{
+    "module": "TK3",
+    "task": "Pedestrian",
+    "deviceVendor": "Intel",
+    "input_image_width": 384,
+    "input_image_height": 216,
+    "threshold": 0.75,
+    "device": "CPU"
+}

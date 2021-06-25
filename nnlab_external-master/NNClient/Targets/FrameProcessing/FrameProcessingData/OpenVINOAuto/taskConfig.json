@@ -1,0 +1,8 @@
+{
+    "module": "Auto",
+    "task": "LPDet",
+    "deviceVendor": "Intel",
+    "input_image_width": 479,
+    "input_image_height": 263,
+    "device": "CPU"
+}

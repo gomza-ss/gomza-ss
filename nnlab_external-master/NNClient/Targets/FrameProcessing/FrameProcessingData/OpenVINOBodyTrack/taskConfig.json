@@ -1,0 +1,8 @@
+{
+    "module": "BodyTrack",
+    "task": "HKPDet",
+    "deviceVendor": "Intel",
+    "input_image_width": 456,
+    "input_image_height": 256,
+    "device": "CPU"
+}

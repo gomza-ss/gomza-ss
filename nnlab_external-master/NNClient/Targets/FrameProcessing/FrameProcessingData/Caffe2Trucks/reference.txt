@@ -1,0 +1,20 @@
+Frame: 0
+not_truck
+Frame: 1
+truck
+Frame: 2
+not_truck
+Frame: 3
+not_truck
+Frame: 4
+truck
+Frame: 5
+not_truck
+Frame: 6
+not_truck
+Frame: 7
+not_truck
+Frame: 8
+truck
+Frame: 9
+not_truck

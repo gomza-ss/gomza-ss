@@ -1,0 +1,6 @@
+{
+    "videoPath": "//fs/nnlab/nm_resource/Videos/Pedestrian/test.avi",
+    "connectStandardStreams": true,
+    "displayProcessTime": true,
+    "onFrameCommandOutputType": "tracks"
+}

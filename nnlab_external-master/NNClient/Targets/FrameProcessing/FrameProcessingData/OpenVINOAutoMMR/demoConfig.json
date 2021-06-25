@@ -1,0 +1,7 @@
+{
+    "videoPath": "//fs/nnlab/nm_resource/Images/mmr/%d.jpg",
+    "connectStandardStreams": true,
+    "displayProcessTime": true,
+    "metadataPath": "//fs/nnlab/nm_resource/Images/mmr/mmr.meta",
+    "onFrameCommandOutputType": "mmroutput"
+}

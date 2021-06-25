@@ -1,0 +1,9 @@
+{
+    "module": "Wheel",
+    "task": "WheelDet",
+    "deviceVendor": "Intel",
+    "input_image_width": 416,
+    "input_image_height": 320,
+    "threshold": 0.9,
+    "device": "CPU"
+}

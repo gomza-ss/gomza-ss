@@ -1,0 +1,9 @@
+{
+    "module": "TK3",
+    "task": "Crosswalk",
+    "deviceVendor": "NVIDIA",
+    "input_image_width": 384,
+    "input_image_height": 216,
+    "threshold": 0.95,
+    "device": "0"
+}

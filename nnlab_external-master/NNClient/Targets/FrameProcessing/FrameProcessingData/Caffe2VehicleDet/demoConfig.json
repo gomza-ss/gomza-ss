@@ -1,0 +1,6 @@
+{
+    "videoPath": "//fs/nnlab/nm_resource/Images/truck/%d.jpg",
+    "connectStandardStreams": true,
+    "displayProcessTime": true,
+    "onFrameCommandOutputType": "classified_detections"
+}

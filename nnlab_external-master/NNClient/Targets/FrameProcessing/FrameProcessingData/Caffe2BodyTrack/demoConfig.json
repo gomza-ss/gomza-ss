@@ -1,0 +1,6 @@
+{
+    "videoPath": "//fs/nnlab/nm_resource/Videos/Skeleton/test_skeleton.avi",
+    "connectStandardStreams": true,
+    "displayProcessTime": true,
+    "onFrameCommandOutputType": "keypoints"
+}

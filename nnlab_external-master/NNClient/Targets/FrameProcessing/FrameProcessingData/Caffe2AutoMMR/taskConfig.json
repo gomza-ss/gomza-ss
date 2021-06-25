@@ -1,0 +1,8 @@
+{
+    "module": "Auto",
+    "task": "MMR",
+    "deviceVendor": "NVIDIA",
+    "input_image_width": 875,
+    "input_image_height": 492,
+    "device": "0"
+}

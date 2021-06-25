@@ -1,0 +1,8 @@
+log4j.rootLogger = info,
+log4j.logger.nnclient = trace, nnclient_appender
+
+log4j.appender.nnclient_appender = org.apache.log4j.RollingFileAppender
+log4j.appender.nnclient_appender.File = ${ProgramData}/ISS/logs/NNlab/NNClient/NNClient.log
+log4j.appender.nnclient_appender.layout = org.apache.log4j.PatternLayout
+log4j.appender.nnclient_appender.layout.ConversionPattern = > %d [%-10t] %-8p %m ~~ %x %n
+log4j.appender.nnclient_appender.MaxFileSize = 10000KB

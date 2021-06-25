@@ -1,0 +1,35 @@
+{
+    "module": "TK3",
+    "task": "Crosswalk",
+    "deviceVendor": "NVIDIA",
+    "input_image_width": 1080,
+    "input_image_height": 1920,
+    "min_object": 160,
+    "max_object": 320,
+    "min_person_height": 320,
+    "max_person_height": 480,
+    "use_fp_det": true,
+    "zones": [
+        {
+            "x": 200,
+            "y": 420,
+            "w": 800,
+            "h": 1100
+        },
+        {
+            "x": 200,
+            "y": 200,
+            "w": 200,
+            "h": 200
+        },
+        {
+            "x": 500,
+            "y": 200,
+            "w": 200,
+            "h": 200
+        }
+    ],
+    "predict_time": 10,
+    "nireq": 2,
+    "device": "0"
+}

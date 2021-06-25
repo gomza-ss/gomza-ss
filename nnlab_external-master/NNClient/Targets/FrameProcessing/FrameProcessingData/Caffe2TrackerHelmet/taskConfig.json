@@ -1,0 +1,24 @@
+{
+    "module": "TK3",
+    "task": "Helmet",
+    "deviceVendor": "NVIDIA",
+    "input_image_width": 1280,
+    "input_image_height": 720,
+    "min_object": 107,
+    "max_object": 214,
+    "min_person_height": 107,
+    "max_person_height": 214,
+    "zone": {
+        "x": 0,
+        "y": 100,
+        "w": 1280,
+        "h": 620
+    },
+    "use_fp_det": false,
+    "threshold": 0.95,
+    "helmet_net_width": 128,
+    "helmet_net_height": 256,
+    "absence_ratio_threshold": 0.5,
+    "window_size": 3,
+    "device": "0"
+}

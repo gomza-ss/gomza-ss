@@ -1,0 +1,34 @@
+#pragma once
+
+#include <NNClient/registry/setup/modules/Auto/Caffe2/LPCharDet.h>
+#include <NNClient/registry/setup/modules/Auto/Caffe2/LPDet.h>
+#include <NNClient/registry/setup/modules/Auto/Caffe2/MMR.h>
+#include <NNClient/registry/setup/modules/Auto/Caffe2/UVSSSegmentation.h>
+#include <NNClient/registry/setup/modules/BodyTrack/Caffe2/HKPDet.h>
+#include <NNClient/registry/setup/modules/KeypointsDetections/Caffe2/TK.h>
+#include <NNClient/registry/setup/modules/Platon/Caffe2/Truck.h>
+#include <NNClient/registry/setup/modules/TK3/Caffe2/Crosswalk.h>
+#include <NNClient/registry/setup/modules/TK3/Caffe2/IVClassification.h>
+#include <NNClient/registry/setup/modules/TK3/Caffe2/Helmet.h>
+#include <NNClient/registry/setup/modules/TK3/Caffe2/VehicleDet.h>
+#include <NNClient/registry/setup/modules/TSSM/Caffe2/MMR.h>
+#include <NNClient/registry/setup/modules/TSSM/Caffe2/Truck.h>
+#include <NNClient/registry/setup/modules/Vehicle/Caffe2/VehicleDet.h>
+#include <NNClient/registry/setup/modules/Belt/Caffe2/BeltDet.h>
+
+#include <NNClient/registry/setup/modules/Auto/OpenVINO/LPCharDet.h>
+#include <NNClient/registry/setup/modules/Auto/OpenVINO/LPDet.h>
+#include <NNClient/registry/setup/modules/Auto/OpenVINO/MMR.h>
+#include <NNClient/registry/setup/modules/Auto/OpenVINO/UVSSSegmentation.h>
+#include <NNClient/registry/setup/modules/BodyTrack/OpenVINO/HKPDet.h>
+#include <NNClient/registry/setup/modules/Platon/OpenVINO/Truck.h>
+#include <NNClient/registry/setup/modules/TK3/OpenVINO/Crosswalk.h>
+#include <NNClient/registry/setup/modules/TK3/OpenVINO/IVClassification.h>
+#include <NNClient/registry/setup/modules/TK3/OpenVINO/Pedestrian.h>
+#include <NNClient/registry/setup/modules/TK3/OpenVINO/VehicleDet.h>
+#include <NNClient/registry/setup/modules/Transit/OpenVINO/CouplerDet.h>
+#include <NNClient/registry/setup/modules/Wheel/OpenVINO/WheelDet.h>
+#include <NNClient/registry/setup/modules/TSSM/OpenVINO/MMR.h>
+#include <NNClient/registry/setup/modules/TSSM/OpenVINO/Truck.h>
+#include <NNClient/registry/setup/modules/Vehicle/OpenVINO/VehicleDet.h>
+#include <NNClient/registry/setup/modules/Belt/OpenVINO/BeltDet.h>

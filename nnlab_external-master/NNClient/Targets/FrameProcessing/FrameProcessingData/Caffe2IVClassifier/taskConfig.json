@@ -1,0 +1,8 @@
+{
+    "module": "TK3",
+    "task": "IVClassification",
+    "deviceVendor": "NVIDIA",
+    "input_image_width": 256,
+    "input_image_height": 256,
+    "device": "0"
+}

@@ -1,0 +1,8 @@
+{
+    "module": "TSSM",
+    "task": "Truck",
+    "deviceVendor": "Intel",
+    "input_image_width": 2464,
+    "input_image_height": 1368,
+    "device": "CPU"
+}

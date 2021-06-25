@@ -1,0 +1,10 @@
+{
+    "module": "Auto",
+    "task": "LPCharDet",
+    "deviceVendor": "Intel",
+    "input_image_width": 1920,
+    "input_image_height": 1080,
+    "net_width": 480,
+    "net_height": 270,
+    "device": "CPU"
+}

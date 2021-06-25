@@ -1,0 +1,15 @@
+{
+    "module": "TK3",
+    "task": "Crosswalk",
+    "detector": "PedestrianDetectorNight",
+    "deviceVendor": "Intel",
+    "input_image_width": 1080,
+    "input_image_height": 1920,
+    "threshold": 0.5,
+    "min_object": 160,
+    "max_object": 320,
+    "min_person_height": 320,
+    "max_person_height": 480,
+    "predict_time": 10,
+    "device": "CPU"
+}

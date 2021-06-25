@@ -1,0 +1,8 @@
+{
+    "module": "TK3",
+    "task": "VehicleDet",
+    "deviceVendor": "Intel",
+    "input_image_width": 1920,
+    "input_image_height": 1080,
+    "device": "CPU"
+}

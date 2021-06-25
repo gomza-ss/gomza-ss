@@ -1,0 +1,7 @@
+{
+    "videoPath": "//fs/nnlab/nm_resource/Images/truck/%d.jpg",
+    "connectStandardStreams": true,
+    "displayProcessTime": true,
+    "metadataPath": "//fs/nnlab/nm_resource/Images/truck/truck.meta",
+    "onFrameCommandOutputType": "truck_detection"
+}
